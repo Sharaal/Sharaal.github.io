@@ -1,0 +1,3 @@
+- KI-Influencer und alte Videos: Fakes zum Israel-Iran-Krieg
+- Menschliches Gehirn bleibt KI überlegen – Energie, Investments und Alltag im KI-Check
+- KI im Alltag: Datenhunger, Stromverbrauch, Kostenexplosion und neue Chancen für Europa
