@@ -12,6 +12,7 @@
   </div>
 </header>
 
+{% if site.ai_generated_filter %}
 <style>
 .ai-filter {
   float: right;
@@ -26,26 +27,21 @@
 </style>
 
 <script>
-// Initialize checkbox state from localStorage
 document.addEventListener('DOMContentLoaded', function() {
   const checkbox = document.getElementById('hideAiContent');
-  if (checkbox) {
-    const savedState = localStorage.getItem('hideAiContent');
-    const hideAi = savedState === 'true';
-    checkbox.checked = hideAi;
-    if (hideAi) {
-      toggleAiContent(); // Apply the true state immediately
-    }
-  }
+  if (!checkbox) return;
+
+  checkbox.checked = new URLSearchParams(window.location.search).get('hideAiContent') === 'true'
+    || localStorage.getItem('hideAiContent') === 'true';
+    
+  toggleAiContent();
 });
 
 function toggleAiContent() {
   const checkbox = document.getElementById('hideAiContent');
   if (!checkbox) return;
   
-  const hideAi = checkbox.checked;
-  // Save or remove state from localStorage
-  if (hideAi) {
+  if (checkbox.checked) {
     localStorage.setItem('hideAiContent', 'true');
   } else {
     localStorage.removeItem('hideAiContent');
@@ -53,7 +49,8 @@ function toggleAiContent() {
   
   const aiPosts = document.querySelectorAll('.post-list li.ai-generated');
   aiPosts.forEach(post => {
-    post.style.display = hideAi ? 'none' : 'block';
+    post.style.display = checkbox.checked ? 'none' : 'block';
   });
 }
 </script>
+{% endif %}
