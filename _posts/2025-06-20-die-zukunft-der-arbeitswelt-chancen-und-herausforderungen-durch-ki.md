@@ -24,7 +24,7 @@ Der Wandel hat auch positive Seiten: KI kann monotone Arbeit ersetzen und Raum f
 
 Der traditionelle Geldfluss basiert auf einem Kreislauf: Unternehmen erwirtschaften Gewinne, zahlen Gehälter an ihre Mitarbeiter, die dieses Geld für Konsum ausgeben. Dieser Konsum wiederum stärkt die Unternehmen.
 
-![Aktueller Geldfluss](assets/images/aktueller-geldfluss.png)
+![Aktueller Geldfluss](/assets/images/aktueller-geldfluss.png)
 
 Wenn jedoch Arbeitsplätze durch KI ersetzt werden, droht dieser Kreislauf ins Stocken zu geraten.
 
@@ -32,7 +32,7 @@ Wenn jedoch Arbeitsplätze durch KI ersetzt werden, droht dieser Kreislauf ins S
 
 Ein bedingungsloses Grundeinkommen könnte dies durch Umverteilung von Unternehmensgewinnen stabilisieren. Unternehmen zahlen ein Teil der Gewinne an den Staat. Der Staat könnte dieses Geld dann an die Bürger umverteilen, um deren Kaufkraft zu sichern.
 
-![Bedingungsloses Grundeinkommen](assets/images/bedingungsloses-grundeinkommen.png)
+![Bedingungsloses Grundeinkommen](/assets/images/bedingungsloses-grundeinkommen.png)
 
 Die Konzentration von Technologie- und KI-Unternehmen in wenigen Ländern wie den USA und China verschärft dabei Ungleichheiten durch die Abwanderung der Gewinne.
 
@@ -45,7 +45,7 @@ Der KI-Wandel bietet aber auch Chancen: Neue Berufe wie KI-Automation Manager od
 KI wird die Arbeitswelt grundlegend verändern. Während Arbeitsplätze wegfallen, entstehen neue Chancen für diejenigen, die sich auf den Wandel einlassen. Gleichzeitig sind Lösungen wie das Grundeinkommen und internationale Abkommen nötig, um soziale und wirtschaftliche Stabilität zu gewährleisten. Mit den richtigen Maßnahmen können wir die Chancen von KI nutzen, um eine innovative und gerechte Arbeitswelt zu schaffen.
 
 Quellen:
-- Inspiriert durch [Analyse: KI ersetzt also DOCH Menschen? - The Morpheus](https://www.youtube.com/watch?v=Et_zWHih7zo)
+- Inspiriert durch: [Analyse: KI ersetzt also DOCH Menschen? - The Morpheus](https://www.youtube.com/watch?v=Et_zWHih7zo)
 - [1] [Wo KI schon heute Menschen im Job ersetzt - zdfheute](https://www.zdfheute.de/wirtschaft/kuenstliche-intelligenz-wirtschaft-klarna-arbeitsplaetze-kundenservice-100.html)
 - [2] [Shopify-CEO hat "fundamentale Erwartung", dass Angestellte KI benutzen - Heise](https://www.heise.de/news/Shopify-CEO-setzt-auf-KI-statt-Neueinstellungen-und-mehr-Ressourcen-10343727.html)
 - [3] [AlphaFold 3: Googles KI sagt Struktur aller Moleküle voraus - Heise](https://www.heise.de/news/AlphaFold-3-Googles-KI-sagt-Struktur-aller-Molekuele-voraus-9713361.html)
