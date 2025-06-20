@@ -31,9 +31,17 @@ document.addEventListener('DOMContentLoaded', function() {
   const checkbox = document.getElementById('hideAiContent');
   if (!checkbox) return;
 
-  checkbox.checked = new URLSearchParams(window.location.search).get('hideAiContent') === 'true'
-    || localStorage.getItem('hideAiContent') === 'true';
-    
+  const hideAiContent = new URLSearchParams(window.location.search).get('hideAiContent');
+  if (hideAiContent) {
+    if (hideAiContent === 'true') {
+      checkbox.checked = true;
+    } else {
+      checkbox.checked = false;
+    }
+  } else {
+    checkbox.checked = localStorage.getItem('hideAiContent') === 'true';
+  }
+
   toggleAiContent();
 });
 
