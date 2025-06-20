@@ -1,0 +1,3 @@
+- "Godfather of AI" warnt: Diese Jobs sind bald Geschichte
+- Kölner Urteil schockt: Meta darf sensible Daten für KI nutzen
+- OpenAI vs. Microsoft: Zerbricht die milliardenschwere KI-Allianz?
