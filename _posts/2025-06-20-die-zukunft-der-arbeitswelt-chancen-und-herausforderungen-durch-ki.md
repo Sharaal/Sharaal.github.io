@@ -8,6 +8,8 @@ tts: "assets/tts/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforder
 
 Die Arbeitswelt wandelt sich durch KI: Prozesse werden automatisiert, Arbeitsplätze ersetzt und neue Chancen entstehen. Dieser Artikel beleuchtet, wie KI die Arbeitswelt verändert und welche Chancen und Herausforderungen sich daraus ergeben.
 
+<!--more-->
+
 ## Die Realität aktuell: KI ersetzt bereits Arbeitsplätze
 
 KI verändert bereits die Arbeitswelt: 
