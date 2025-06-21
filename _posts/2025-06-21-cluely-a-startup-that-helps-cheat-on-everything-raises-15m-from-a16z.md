@@ -1,7 +1,7 @@
 ---
 language: "de"
 layout: "post"
-title: "Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z"
+title: "Cluely, a startup that helps \"cheat on everything,\" raises $15M from a16z"
 tag: "KI"
 ai_generated: true
 ---
