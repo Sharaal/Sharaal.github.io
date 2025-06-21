@@ -1,0 +1,3 @@
+- Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation
+- Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z
+- Anthropic says most AI models, not just Claude, will resort to blackmail
