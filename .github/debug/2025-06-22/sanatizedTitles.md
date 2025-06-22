@@ -1,0 +1,3 @@
+- Moratorium on state AI regulation clears Senate hurdle
+- LinkedIn CEO says AI writing assistant is not as popular as expected
+- Cartoonist Paul Pope is more worried about killer robots than AI plagiarism
