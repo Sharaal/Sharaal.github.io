@@ -14,6 +14,7 @@ Formatiere die Antwort EXAKT in diesem Markdown-Format:
 Wichtig:
 - Jede Zeile beginnt mit "- " (Bindestrich + Leerzeichen)
 - Ein Titel pro Zeile
+- Die Titel sollten in deutscher Sprache sein
 
 Ignoriere aber dabei folgende bereits bekannte Neuigkeiten: {existingTitles}
     `,

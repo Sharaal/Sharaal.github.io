@@ -1,0 +1,3 @@
+- KI-gestützte Krebsdiagnose revolutioniert die Medizin
+- Google stellt neue KI-Modelle für Sprachverarbeitung vor
+- EU plant strengere Regulierungen für KI-Anwendungen
