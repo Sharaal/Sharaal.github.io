@@ -4,6 +4,7 @@ title: "Split configuration and code"
 ---
 
 Applications needs configuration depends on the environment, e.g. the credentials of a database. Lets have a look at different approaches solving this requirement, their pros and cons.
+
 <!--more-->
 
 ## All Configuration files in the repository
