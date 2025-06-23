@@ -1,3 +1,3 @@
-- KI-gestützte Krebsdiagnose revolutioniert die Medizin
-- Google stellt neue KI-Modelle für Sprachverarbeitung vor
-- EU plant strengere Regulierungen für KI-Anwendungen
+- Apple will Perplexity kaufen: Kommt jetzt die Siri-Suchmaschine?
+- Teslas autonomer Traum? Robotaxi startet mit doppeltem Boden
+- Musk dreht durch? Grok soll ganze Menschheitsgeschichte umschreiben!
