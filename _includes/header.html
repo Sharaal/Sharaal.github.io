@@ -1,37 +1,21 @@
 <header class="site-header">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    {% if site.ai_generated_filter %}
-    <div class="ai-filter">
-      <label>
-        <input type="checkbox" id="hideAiContent" onchange="toggleAiContent()">
-        Hide AI generated content
-      </label>
-    </div>
-    {% endif %}
     <nav class="site-nav">
       <div class="nav-items">
         <a class="nav-item" href="https://blog.sharaal.de/archiv">Archiv</a>
-        <input class="nav-item" type="checkbox" id="hideAiContent" onchange="toggleAiContent()">
+        {% if site.ai_generated_filter %}
+        <label>
+          <input type="checkbox" id="hideAiContent" onchange="toggleAiContent()">
+          Hide AI generated content
+        </label>
+        {% endif %}
       </div>
     </nav>
   </div>
 </header>
 
 {% if site.ai_generated_filter %}
-<style>
-.ai-filter {
-  float: right;
-  margin-top: 10px;
-}
-.ai-filter label {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  cursor: pointer;
-}
-</style>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const checkbox = document.getElementById('hideAiContent');
