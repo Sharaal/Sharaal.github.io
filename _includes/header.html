@@ -5,7 +5,7 @@
       <div class="nav-items">
         <a class="nav-item" href="https://blog.sharaal.de/archiv">Archiv</a>
         {% if site.ai_generated_filter %}
-        <label>
+        <label class="ai-filter">
           <input type="checkbox" id="hideAiContent" onchange="toggleAiContent()">
           Hide AI generated content
         </label>
@@ -16,6 +16,17 @@
 </header>
 
 {% if site.ai_generated_filter %}
+<style>
+  .ai-filter {
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  .ai-filter input {
+    cursor: pointer;
+    margin-right: 0.5rem;
+  }
+</style>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const checkbox = document.getElementById('hideAiContent');
