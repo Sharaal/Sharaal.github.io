@@ -19,23 +19,25 @@ jobs:
     - name: Install dependencies
       run: npm install
       
-    - name: Sync archiv posts to sharaal/archiv repository
+    - name: Sync archiv posts and assets to sharaal/archiv repository
       run: |
         # Clone the target repository
         git clone https://${{ secrets.GH_PAT }}@github.com/sharaal/archiv.git target-repo
 
         # Copy archived posts to target repository
         cp -r _archives/* target-repo/_posts/
+        cp -r assets/* target-repo/assets/
         
         # Commit and push changes to target repository
         cd target-repo
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add _posts/
+        git add assets/
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Sync archived posts from main repository"
+          git commit -m "Sync archived posts and assets from main repository"
           git push
         fi
       env:
