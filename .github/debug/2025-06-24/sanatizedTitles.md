@@ -1,0 +1,3 @@
+- Meta AI leakt intime Chats: Skandal um Privatsphäre!
+- Mega-Rechenzentrum: Bayern bewirbt sich um AI-Giga-Factory
+- Hype um "AutoMix": Neue Apple-KI mischt Musik wie ein DJ
