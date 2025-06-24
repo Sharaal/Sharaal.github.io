@@ -26,6 +26,7 @@ jobs:
 
         # Copy archived posts to target repository
         cp -r _archives/* target-repo/_posts/
+        mkdir -p target-repo/assets
         cp -r assets/* target-repo/assets/
         
         # Commit and push changes to target repository
