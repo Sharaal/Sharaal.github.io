@@ -2,14 +2,18 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon"></span>
+      </label>
       <div class="nav-items">
-        <a class="nav-item" href="https://blog.sharaal.de/archiv">Archiv</a>
         {% if site.ai_generated_filter %}
         <label class="ai-filter">
           <input type="checkbox" id="hideAiContent" onchange="toggleAiContent()">
           Hide AI generated content
         </label>
         {% endif %}
+        <a class="nav-item" href="https://blog.sharaal.de/archiv">Archiv</a>
       </div>
     </nav>
   </div>
@@ -18,7 +22,7 @@
 {% if site.ai_generated_filter %}
 <style>
   .ai-filter {
-    margin-left: 20px;
+    margin-right: 20px;
     cursor: pointer;
   }
   .ai-filter input {
