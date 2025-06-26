@@ -1,0 +1,3 @@
+- Google bringt Gemini CLI: KI jetzt im Terminal
+- DeepMind präsentiert AlphaGenome: KI durchleuchtet Genregulation
+- Diese KI-Stimmen klingen echter als echte Menschen
