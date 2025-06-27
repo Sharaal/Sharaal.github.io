@@ -1,0 +1,3 @@
+- Wie KI die Kontrolle von Stromtrassen revolutioniert
+- DeepSeek-Skandal: China-KI zapft deutsche Daten an!
+- OpenAI greift an: E‑Commerce‑Genies von Crossing Minds übernommen
