@@ -1,0 +1,3 @@
+- Fake-Shops: Warum "Claudias Atelier" nur eine KI ist
+- Wie eine Plüsch-Robbe mit KI Demenzkranken hilft
+- Google startet Doppl: KI-Anprobe jetzt per App
