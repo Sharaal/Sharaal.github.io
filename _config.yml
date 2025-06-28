@@ -8,4 +8,4 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 gems:
 - jekyll-feed
-ai_generated_filter: true
+aigenerated_filter: true

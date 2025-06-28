@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "OpenAI greift an: E‑Commerce‑Genies von Crossing Minds übernommen"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 OpenAI hat kürzlich das Team des KI-Startups Crossing Minds übernommen, das sich auf Empfehlungssysteme für den E-Commerce spezialisiert hat. Crossing Minds, unterstützt von Investoren wie Index Ventures und Shopify, hat in mehreren Finanzierungsrunden über 13,5 Millionen US-Dollar gesammelt. Das Unternehmen hat sich darauf konzentriert, die Personalisierung und Empfehlungssysteme von E-Commerce-Unternehmen zu verbessern, indem es das Verhalten der Kunden auf der Website analysiert, um deren Einkaufspräferenzen zu verstehen, während es gleichzeitig den Datenschutz der Nutzer wahrt.

@@ -3,11 +3,10 @@ import fs from 'fs';
 export async function writeDraftFile(date, sanatizedTitle, slugifiedTitle, sanitizedContent) {
     const draftFile = `_drafts/${date}-${slugifiedTitle}.md`;
     const draftContent = `---
-language: "de"
 layout: "post"
+language: "de"
 title: "${sanatizedTitle.replace(/"/g, '\\"')}"
-tag: "${process.env.TOPIC}"
-ai_generated: true
+aigenerated: true
 ---
 
 ${sanitizedContent}

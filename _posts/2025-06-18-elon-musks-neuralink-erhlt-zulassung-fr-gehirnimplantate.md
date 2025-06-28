@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Elon Musks Neuralink erhält Zulassung für Gehirnimplantate"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die von Elon Musk gegründete Firma Neuralink hat kürzlich eine bedeutende Zulassung der US-amerikanischen Gesundheitsbehörde FDA erhalten. Diese erlaubt es dem Unternehmen, klinische Studien am Menschen durchzuführen. Neuralink entwickelt Gehirnimplantate, die das Ziel haben, das menschliche Gehirn direkt mit Computern zu verbinden. Die Technologie könnte revolutionäre Anwendungen ermöglichen, wie etwa die Wiederherstellung von Bewegungsfähigkeit bei Gelähmten oder die Behandlung schwerer neurologischer Erkrankungen.

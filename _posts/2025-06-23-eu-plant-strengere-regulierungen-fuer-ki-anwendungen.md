@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "EU plant strengere Regulierungen für KI-Anwendungen"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Seit Juni 2025 gelten in der Europäischen Union strengere Regulierungen für Künstliche Intelligenz (KI). Der EU AI Act, der weltweit erste umfassende Rechtsrahmen für KI, zielt darauf ab, die Entwicklung und Nutzung von KI-Systemen sicherer und transparenter zu gestalten. Die Verordnung betrifft alle Unternehmen, die KI in der EU einsetzen, entwickeln oder vertreiben, unabhängig davon, wo sie ihren Sitz haben. Besonders im Fokus stehen Hochrisiko-KI-Systeme, die in sensiblen Bereichen wie Medizin, Personalwesen oder öffentlicher Sicherheit eingesetzt werden. Diese Systeme unterliegen nun strengen Auflagen und müssen umfangreiche Sicherheits- und Transparenzanforderungen erfüllen.

@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Hype um \"AutoMix\": Neue Apple-KI mischt Musik wie ein DJ"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Mit der Einführung von iOS 26 hat Apple eine neue Funktion namens AutoMix in seine Musik-App integriert, die für viel Aufsehen sorgt. AutoMix nutzt künstliche Intelligenz, um Songs in einer Playlist nahtlos ineinander übergehen zu lassen, ähnlich wie bei einem professionellen DJ-Set. Diese Funktion analysiert die Songs in Echtzeit und passt Tempo und Beat an, um flüssige Übergänge zu gewährleisten. Die Musik-App zeigt während des Übergangs sogar eine kleine "Mixing"-Animation im Now-Playing-Bildschirm an, was das Hörerlebnis noch immersiver macht.

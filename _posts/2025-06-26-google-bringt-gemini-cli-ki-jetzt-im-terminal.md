@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Google bringt Gemini CLI: KI jetzt im Terminal"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Google hat kürzlich die Einführung von Gemini CLI angekündigt, einem neuen Open-Source-KI-Tool, das direkt im Terminal läuft. Diese Veröffentlichung markiert einen bedeutenden Schritt in Richtung einer breiteren Zugänglichkeit und Nutzbarkeit von KI für Entwickler. Gemini CLI integriert die fortschrittlichen Gemini-Modelle von Google und bietet Entwicklern eine leistungsstarke Schnittstelle, um Code zu schreiben, zu debuggen und Workflows zu automatisieren – alles innerhalb der Kommandozeile.

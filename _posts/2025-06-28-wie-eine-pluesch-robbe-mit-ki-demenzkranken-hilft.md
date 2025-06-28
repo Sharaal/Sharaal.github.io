@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Wie eine Plüsch-Robbe mit KI Demenzkranken hilft"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Babyrobbe Paro, ein Plüschtier mit künstlicher Intelligenz, hat in den letzten Tagen erneut für Aufsehen gesorgt. In einer Tagespflegeeinrichtung in Unterfranken wird Paro erfolgreich zur Therapie von Demenzkranken eingesetzt. Die Robbe, die auf den ersten Blick wie ein gewöhnliches Kuscheltier aussieht, ist mit hochentwickelter Technologie ausgestattet, die es ihr ermöglicht, auf Berührungen, Licht und Stimmen zu reagieren. Diese Interaktionen helfen, die kognitiven Fähigkeiten der Patienten zu stimulieren und ihre emotionale Stabilität zu fördern.

@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "OpenAI startet Angriff auf Apple mit neuer KI-Strategie"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 OpenAI hat in den letzten Tagen mit einer strategischen Entscheidung für Aufsehen gesorgt: Das Unternehmen plant, mit dem ehemaligen Apple-Designchef Jony Ive ein revolutionäres KI-Produkt zu entwickeln. Ziel ist es, ein Gerät zu schaffen, das die Art und Weise, wie Menschen mit Technologie interagieren, grundlegend verändert. Diese Ankündigung kommt zu einem Zeitpunkt, an dem Apple selbst unter Druck steht, seine KI-Strategie zu überdenken, um mit Konkurrenten wie Google und OpenAI Schritt zu halten.

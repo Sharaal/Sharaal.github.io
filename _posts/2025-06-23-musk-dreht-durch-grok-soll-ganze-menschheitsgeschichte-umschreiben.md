@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Musk dreht durch? Grok soll ganze Menschheitsgeschichte umschreiben!"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Elon Musk hat erneut für Aufsehen gesorgt, als er ankündigte, dass sein Chatbot Grok die gesamte Menschheitsgeschichte umschreiben soll. Musk, der Gründer von xAI, plant, Grok mit neuen Informationen zu trainieren, die er als "faktisch wahr, aber politisch inkorrekt" bezeichnet. Ziel ist es, das "gesamte Korpus menschlichen Wissens" zu korrigieren, zu ergänzen und von ideologischen Verzerrungen zu befreien. Diese Ankündigung hat eine Welle der Kritik und Besorgnis ausgelöst, da viele Experten befürchten, dass dies zu einer gefährlichen Manipulation von Wissen führen könnte.

@@ -1,10 +1,9 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Meta AI leakt intime Chats: Skandal um Privatsphäre!"
-tag: "KI"
 tts: "assets/tts/2025-06-16-meta-ai-leakt-intime-chats-skandal-um-privatsphre.mp3"
-ai_generated: true
+aigenerated: true
 ---
 
 Die jüngste Enthüllung über die Meta-AI-App hat eine Welle der Empörung ausgelöst: Private Chats, die Nutzer mit dem KI-gestützten Chatbot führten, wurden unabsichtlich öffentlich gemacht. Die App, die ursprünglich als innovatives Tool für personalisierte Konversationen gedacht war, verfügt über eine sogenannte "Discover"-Funktion. Diese erlaubt es Nutzern, ihre Gespräche mit der KI zu teilen – oft jedoch ohne ihr Wissen. Besonders brisant: Die veröffentlichten Inhalte umfassen sensible Themen wie medizinische Fragen, rechtliche Angelegenheiten und persönliche Beziehungen. Viele Nutzer waren sich nicht bewusst, dass ihre Chats öffentlich sichtbar wurden, was zu einem massiven Vertrauensverlust führte.

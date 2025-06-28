@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Mega-Rechenzentrum: Bayern bewirbt sich um AI-Giga-Factory"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 In einer bedeutenden Initiative hat sich der Freistaat Bayern bei der EU-Kommission um die Errichtung einer europäischen Gigafabrik für Künstliche Intelligenz (KI) beworben. Diese sogenannte AI-Giga-Factory, die unter dem Namen "Blue Swan" bekannt ist, soll eine der modernsten und leistungsfähigsten Einrichtungen ihrer Art werden. Ministerpräsident Markus Söder und Wissenschaftsminister Markus Blume betonten die strategische Bedeutung dieses Projekts für die technologische Souveränität Europas und die Wettbewerbsfähigkeit Bayerns im globalen Technologiemarkt.

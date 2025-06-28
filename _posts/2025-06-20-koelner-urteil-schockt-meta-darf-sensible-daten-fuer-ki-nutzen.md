@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Kölner Urteil schockt: Meta darf sensible Daten für KI nutzen"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Ein Urteil des Oberlandesgerichts Köln sorgt derzeit für heftige Diskussionen: Meta, der Mutterkonzern von Facebook und Instagram, darf künftig auch sensible Nutzerdaten für das Training seiner Künstlichen Intelligenz (KI) verwenden. Das Gericht lehnte einen Eilantrag der Verbraucherzentrale Nordrhein-Westfalen ab, der darauf abzielte, diese Praxis zu unterbinden. Die Entscheidung erlaubt es Meta, ab dem 27. Mai 2025 öffentliche Inhalte von Facebook- und Instagram-Nutzern für das KI-Training zu nutzen, sofern die Nutzer nicht aktiv widersprechen.

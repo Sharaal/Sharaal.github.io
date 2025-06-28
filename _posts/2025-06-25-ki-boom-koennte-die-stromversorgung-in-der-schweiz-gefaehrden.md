@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "KI-Boom könnte die Stromversorgung in der Schweiz gefährden"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Der Boom der künstlichen Intelligenz (KI) hat in der Schweiz zu einem rasanten Anstieg der Nachfrage nach Rechenzentren geführt. Diese Entwicklung könnte die Stromversorgung des Landes erheblich belasten. Laut einer aktuellen Studie der Hochschule Luzern im Auftrag des Bundesamts für Energie verbrauchten Rechenzentren in der Schweiz im Jahr 2019 rund 2,1 Terawattstunden Strom, was etwa 3,6 Prozent des gesamten Stromverbrauchs des Landes ausmachte. Diese Zahl ist seitdem stark gestiegen und könnte bis 2030 auf bis zu 15 Prozent anwachsen.

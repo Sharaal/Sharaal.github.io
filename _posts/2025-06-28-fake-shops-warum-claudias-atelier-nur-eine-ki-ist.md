@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Fake-Shops: Warum \"Claudias Atelier\" nur eine KI ist"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 In den letzten Tagen hat sich herausgestellt, dass der Online-Shop "Claudias Atelier" ein Fake-Shop ist, der von einer Künstlichen Intelligenz (KI) betrieben wird. Der Shop lockte Kunden mit emotionalen Geschichten und extremen Rabatten, die angeblich aufgrund einer Geschäftsaufgabe angeboten wurden. Viele Nutzer wurden durch die professionell gestalteten Webseiten und die scheinbar authentischen Kundenbewertungen getäuscht und bestellten Waren, die nie geliefert wurden.

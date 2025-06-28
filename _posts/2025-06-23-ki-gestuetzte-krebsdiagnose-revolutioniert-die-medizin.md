@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "KI-gestützte Krebsdiagnose revolutioniert die Medizin"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Krebsdiagnose steht vor einer Revolution: Künstliche Intelligenz (KI) verändert die Art und Weise, wie Krebs erkannt und behandelt wird. In den letzten Tagen wurden mehrere bahnbrechende Entwicklungen bekannt gegeben, die das Potenzial haben, die medizinische Praxis grundlegend zu verändern. Ein herausragendes Beispiel ist das Kooperationsprojekt zwischen dem Universitätsklinikum Erlangen und dem Gravina Hospital in Caltagirone, Italien. Hier wurden KI-Algorithmen in die Pathologie integriert, um die klinische Diagnostik zu optimieren. Die Ergebnisse, die in der renommierten Fachzeitschrift Genome Medicine veröffentlicht wurden, zeigen, dass die Technologie Pathologen erheblich bei der Erkennung von Krebsarten und der Analyse von Gewebeproben unterstützen kann.

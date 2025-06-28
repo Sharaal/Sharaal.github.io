@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "DeepMind präsentiert AlphaGenome: KI durchleuchtet Genregulation"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 DeepMind hat mit AlphaGenome ein neues KI-Modell vorgestellt, das die Genregulation durchleuchtet und damit einen bedeutenden Fortschritt in der Genomforschung markiert. AlphaGenome ist in der Lage, lange DNA-Sequenzen mit höchster Auflösung zu analysieren und kombiniert multiple Vorhersageaufgaben in einem Modell. Dies eröffnet neue Möglichkeiten für die Forschung zur Genregulation und könnte langfristig auch die Entwicklung neuer Therapien unterstützen.

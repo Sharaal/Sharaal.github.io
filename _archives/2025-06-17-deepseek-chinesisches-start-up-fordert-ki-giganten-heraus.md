@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "DeepSeek: Chinesisches Start-up fordert KI-Giganten heraus"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 DeepSeek, ein aufstrebendes chinesisches Start-up, hat in der vergangenen Woche die Tech-Welt in Aufruhr versetzt. Mit seinem neuen KI-Modell R1, das mit minimalem Ressourceneinsatz entwickelt wurde, stellt das Unternehmen etablierte Giganten wie OpenAI und Google vor ernsthafte Herausforderungen. Besonders beeindruckend ist die Effizienz des Modells: Während Konkurrenten wie ChatGPT Millionen in die Entwicklung investieren, hat DeepSeek mit einem Bruchteil der Kosten ein konkurrenzfähiges Produkt auf den Markt gebracht. Die App des Unternehmens hat in kürzester Zeit die Spitze der Download-Charts erreicht und sorgt für einen regelrechten Hype – nicht nur in China, sondern auch international.

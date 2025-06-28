@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Cluely, a startup that helps \"cheat on everything,\" raises $15M from a16z"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Cluely, ein Startup, das Nutzern hilft, bei Vorstellungsgesprächen, Prüfungen und Verkaufsgesprächen zu "schummeln", hat eine Serie-A-Finanzierungsrunde in Höhe von 15 Millionen US-Dollar abgeschlossen, die von Andreessen Horowitz (a16z) geleitet wurde. Die Finanzierung wurde am 20. Juni 2025 bekannt gegeben und markiert einen bedeutenden Meilenstein für das Unternehmen, das erst vor wenigen Monaten gegründet wurde. Cluely wurde von Roy Lee und Neel Shanmugam gegründet, die beide von der Columbia University suspendiert wurden, nachdem sie ein KI-Tool entwickelt hatten, das Bewerbern bei technischen Interviews half, zu schummeln.

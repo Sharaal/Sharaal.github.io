@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "DeepSeek-Skandal: China-KI zapft deutsche Daten an!"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die chinesische KI-Anwendung DeepSeek steht derzeit im Zentrum eines Datenschutzskandals in Deutschland. Die Berliner Datenschutzbeauftragte Meike Kamp hat die App bei den großen App-Store-Betreibern Google und Apple als rechtswidrigen Inhalt gemeldet. Grund dafür sind massive Datenschutzbedenken, da personenbezogene Daten deutscher Nutzer illegal nach China übertragen werden. Die Unternehmen müssen nun zeitnah prüfen, ob sie die App aus ihren Stores entfernen.

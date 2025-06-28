@@ -14,7 +14,7 @@ layout: default
     {% endif %}
     <ul class="post-list">
       {% for post in site.posts %}
-      <li class="{% if post.ai_generated %}ai-generated{% endif %}">
+      <li class="{% if post.aigenerated %}ai-generated{% endif %}">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -23,7 +23,7 @@ layout: default
           </a>
         </h3>
         {% if site.show_excerpts %}
-          {% if post.ai_generated %}
+          {% if post.aigenerated %}
           <p><em>
             {% if post.language == "de" %}
               Dieser Artikel ist vollständig durch KI generiert.

@@ -1,10 +1,9 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "EU AI Act: Verbot von KI-Systemen mit \"unannehmbarem Risiko\""
-tag: "KI"
 tts: "assets/tts/2025-06-17-eu-ai-act-verbot-von-ki-systemen-mit-unannehmbarem-risiko.mp3"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Europäische Union hat mit dem EU AI Act einen Meilenstein in der Regulierung von Künstlicher Intelligenz (KI) gesetzt. Seit Juni 2025 ist das Gesetz vollständig in Kraft und verbietet KI-Systeme, die als "unannehmbares Risiko" eingestuft werden. Dazu zählen Anwendungen wie Social Scoring oder manipulative Technologien, die die Grundrechte der Menschen gefährden könnten. Ziel des Gesetzes ist es, die Sicherheit und Transparenz von KI-Systemen zu gewährleisten und gleichzeitig Innovationen zu fördern. Unternehmen und Entwickler stehen nun vor der Herausforderung, ihre KI-Produkte entsprechend den neuen Vorschriften zu überprüfen und anzupassen.

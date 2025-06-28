@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "OpenAI vs. Microsoft: Zerbricht die milliardenschwere KI-Allianz?"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Spannungen zwischen OpenAI und Microsoft haben in den letzten Tagen einen neuen Höhepunkt erreicht. Berichten zufolge erwägt OpenAI, seinen größten Investor und Partner Microsoft wegen wettbewerbswidrigen Verhaltens zu verklagen. Diese drastische Maßnahme, die als "nukleare Option" bezeichnet wird, könnte die milliardenschwere Allianz zwischen den beiden Technologie-Giganten endgültig zerbrechen lassen.

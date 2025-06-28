@@ -1,8 +1,7 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI"
-tag: "KI"
 tts: "assets/tts/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki.mp3"
 ---
 

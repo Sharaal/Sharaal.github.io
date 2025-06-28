@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Apple will Perplexity kaufen: Kommt jetzt die Siri-Suchmaschine?"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Apple plant offenbar die Übernahme des KI-Startups Perplexity AI, um seine Position im Bereich der künstlichen Intelligenz zu stärken. Laut Berichten von Bloomberg und anderen Quellen diskutieren Apple-Führungskräfte intern über ein mögliches Übernahmeangebot für das Unternehmen, das derzeit mit 14 Milliarden US-Dollar bewertet wird. Diese Akquisition wäre die größte in der Geschichte von Apple und würde den bisherigen Rekordkauf von Beats Electronics im Jahr 2014 bei weitem übertreffen.

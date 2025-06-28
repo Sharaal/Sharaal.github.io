@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "KI-Influencer und alte Videos: Fakes zum Israel-Iran-Krieg"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Eskalation zwischen Israel und dem Iran hat in den letzten Tagen eine Flut von Falschinformationen und gefälschten Videos in den sozialen Medien ausgelöst. Auf Plattformen wie TikTok, YouTube und X kursieren zahlreiche Videos, die entweder aus dem Kontext gerissen oder komplett gefälscht sind. Diese Inhalte werden oft von KI-Influencern verbreitet und nutzen fortschrittliche Technologien, um die Öffentlichkeit zu täuschen. Experten warnen vor der zunehmenden Verbreitung solcher Fakes, die die Wahrnehmung des Konflikts verzerren und die Spannungen weiter anheizen.

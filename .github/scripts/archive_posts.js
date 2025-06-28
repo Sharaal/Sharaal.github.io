@@ -30,7 +30,7 @@ async function main() {
     const aiGeneratedFiles = postFiles.filter((postFile) => {
         const content = fs.readFileSync(postFile, 'utf8');
         const { data } = matter(content);
-        return data.ai_generated;
+        return data.aigenerated;
     });
     console.log('aiGeneratedFiles', aiGeneratedFiles);
 

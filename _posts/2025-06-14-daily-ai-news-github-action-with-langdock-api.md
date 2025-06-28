@@ -1,6 +1,6 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Daily AI News GitHub Action With Langdock API"
 tts: "assets/tts/2025-06-14-daily-ai-news-github-action-with-langdock-api.mp3"
 ---

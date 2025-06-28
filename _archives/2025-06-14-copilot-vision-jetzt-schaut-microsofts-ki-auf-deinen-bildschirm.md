@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Copilot Vision: Jetzt schaut Microsofts KI auf deinen Bildschirm"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Microsoft hat mit „Copilot Vision“ eine neue Funktion für seinen KI-Assistenten eingeführt, die es ermöglicht, den Bildschirminhalt in Echtzeit zu analysieren. Diese Funktion ist ab sofort für Windows 10 und Windows 11 in den USA verfügbar und soll Nutzern helfen, produktiver zu arbeiten, indem sie kontextbezogene Unterstützung bietet. Copilot Vision agiert dabei wie ein „zweites Paar Augen“, das Texte, Bilder und Bedienelemente erkennt und darauf basierend Hilfestellungen gibt. Nutzer können gezielt einzelne Fenster freigeben, die die KI analysieren soll – ein Ansatz, der an das bekannte Screensharing aus Microsoft Teams erinnert.

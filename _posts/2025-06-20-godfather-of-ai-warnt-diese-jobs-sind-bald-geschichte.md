@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "\"Godfather of AI\" warnt: Diese Jobs sind bald Geschichte"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Geoffrey Hinton, der als "Godfather of AI" bekannt ist, hat kürzlich in einem Interview auf dem Podcast "Diary of a CEO" eine düstere Prognose für die Zukunft der Arbeitswelt abgegeben. Hinton, der für seine Pionierarbeit im Bereich der neuronalen Netzwerke bekannt ist, warnte davor, dass künstliche Intelligenz (KI) in naher Zukunft viele Berufe überflüssig machen könnte. Besonders betroffen seien dabei Berufe, die als "mundane intellectual labor" bezeichnet werden, also Routinearbeiten im Büro, wie juristische Recherchen, Kundenservice und Datenanalyse.

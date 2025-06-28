@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Wie KI die Kontrolle von Stromtrassen revolutioniert"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Kameras, Sensoren und künstliche Intelligenz heben die Kontrolle von bestehenden Hochspannungsleitungen auf ein neues Level. In Bayern wird derzeit ein innovatives System getestet, das mithilfe von Drohnen und KI die Inspektion von Stromtrassen revolutioniert. Diese Technologie ermöglicht es, Schäden und Abnutzungen frühzeitig zu erkennen und somit die Wartungskosten zu senken und die Versorgungssicherheit zu erhöhen.

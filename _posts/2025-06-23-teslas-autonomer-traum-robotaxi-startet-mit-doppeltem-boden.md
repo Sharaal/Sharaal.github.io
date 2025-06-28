@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Teslas autonomer Traum? Robotaxi startet mit doppeltem Boden"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Tesla hat am 22. Juni 2025 in Austin, Texas, den lang erwarteten Start seines Robotaxi-Dienstes bekannt gegeben. Die ersten Fahrten wurden in einer begrenzten Anzahl von Model Y Fahrzeugen durchgeführt, die für eine ausgewählte Gruppe von Tesla-Fans und -Investoren zur Verfügung standen. Elon Musk, CEO von Tesla, zeigte sich begeistert und verkündete auf X (ehemals Twitter), dass die Fahrten zu einem symbolischen Preis von 4,20 USD angeboten werden. Der Dienst soll täglich von 6:00 Uhr morgens bis Mitternacht verfügbar sein, wobei die Anzahl der Fahrzeuge und die Verfügbarkeit der Fahrten zunächst begrenzt sind.

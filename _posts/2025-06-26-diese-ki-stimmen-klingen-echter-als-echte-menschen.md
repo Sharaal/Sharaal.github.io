@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "Diese KI-Stimmen klingen echter als echte Menschen"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Künstliche Intelligenz (KI) hat in den letzten Jahren enorme Fortschritte gemacht, insbesondere im Bereich der Sprachsynthese. Moderne KI-Systeme wie OpenAI"s GPT-3 und Google"s WaveNet sind mittlerweile in der Lage, extrem realistische und ansprechende Stimmen zu erzeugen. Diese Stimmen klingen nicht nur menschlich, sondern können auch Emotionen wie Freude, Trauer oder Angst ausdrücken. Diese Fähigkeit hat weitreichende Auswirkungen auf verschiedene Branchen, von der Unterhaltungsindustrie bis hin zur Cyberkriminalität.

@@ -1,9 +1,8 @@
 ---
-language: "de"
 layout: "post"
+language: "de"
 title: "ChatGPT wird zur Super-Suchmaschine"
-tag: "KI"
-ai_generated: true
+aigenerated: true
 ---
 
 Die Welt der Suchmaschinen steht vor einer Revolution: OpenAI hat kürzlich die Websuche-Funktion von ChatGPT für alle Nutzer freigeschaltet. Was einst nur zahlenden Abonnenten vorbehalten war, ist nun für jeden zugänglich – sowohl in der App als auch auf der Webseite. Mit dieser Neuerung positioniert sich ChatGPT als ernstzunehmende Alternative zu traditionellen Suchmaschinen wie Google. Statt einer Liste von Links liefert ChatGPT präzise Antworten auf Fragen, ergänzt durch Quellenangaben und multimediale Inhalte wie Bilder und Videos. Besonders beeindruckend ist die Möglichkeit, Fragen in natürlicher Sprache zu stellen, was die Nutzung intuitiver und persönlicher macht.
