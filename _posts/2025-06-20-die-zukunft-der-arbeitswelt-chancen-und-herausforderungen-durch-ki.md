@@ -2,7 +2,8 @@
 layout: "post"
 language: "de"
 title: "Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI"
-tts: "assets/tts/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki.mp3"
+assets:
+    tts: "assets/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki/tts.mp3"
 ---
 
 Die Arbeitswelt wandelt sich durch KI: Prozesse werden automatisiert, Arbeitsplätze ersetzt und neue Chancen entstehen. Dieser Artikel beleuchtet, wie KI die Arbeitswelt verändert und welche Chancen und Herausforderungen sich daraus ergeben.
@@ -23,7 +24,7 @@ Der Wandel hat auch positive Seiten: KI kann monotone Arbeit ersetzen und Raum f
 
 Der traditionelle Geldfluss basiert auf einem Kreislauf: Unternehmen erwirtschaften Gewinne, zahlen Gehälter an ihre Mitarbeiter, die dieses Geld für Konsum ausgeben. Dieser Konsum wiederum stärkt die Unternehmen.
 
-![Aktueller Geldfluss](/assets/images/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki/aktueller-geldfluss.png)
+![Aktueller Geldfluss](2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki/images/aktueller-geldfluss.png)
 
 Wenn jedoch Arbeitsplätze durch KI ersetzt werden, droht dieser Kreislauf ins Stocken zu geraten.
 
@@ -31,7 +32,7 @@ Wenn jedoch Arbeitsplätze durch KI ersetzt werden, droht dieser Kreislauf ins S
 
 Ein bedingungsloses Grundeinkommen könnte dies durch Umverteilung von Unternehmensgewinnen stabilisieren. Unternehmen zahlen ein Teil der Gewinne an den Staat. Der Staat könnte dieses Geld dann an die Bürger umverteilen, um deren Kaufkraft zu sichern.
 
-![Bedingungsloses Grundeinkommen](/assets/images/2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki/bedingungsloses-grundeinkommen.png)
+![Bedingungsloses Grundeinkommen](2025-06-20-die-zukunft-der-arbeitswelt-chancen-und-herausforderungen-durch-ki/images/bedingungsloses-grundeinkommen.png)
 
 Die Konzentration von Technologie- und KI-Unternehmen in wenigen Ländern wie den USA und China verschärft dabei Ungleichheiten durch die Abwanderung der Gewinne.
 

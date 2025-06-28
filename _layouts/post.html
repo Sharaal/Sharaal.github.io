@@ -42,8 +42,8 @@ layout: default
     </em></p>
     {% endif %}
 
-    {% if page.tts %}
-      <audio src="{{ page.tts | relative_url }}" controls></audio>
+    {% if post.assets and post.assets.tts %}
+      <audio src="{{ page.assets.tts | relative_url }}" controls></audio>
     {% endif %}
   </header>
 

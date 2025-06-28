@@ -32,8 +32,8 @@ layout: default
             {% endif %}
           </em></p>
           {% endif %}
-          {% if post.tts %}
-            <audio src="{{ post.tts | relative_url }}" controls></audio>
+          {% if post.assets and post.assets.tts %}
+            <audio src="{{ post.assets.tts | relative_url }}" controls></audio>
           {% endif %}
           {{ post.excerpt }}
         {% endif %}
