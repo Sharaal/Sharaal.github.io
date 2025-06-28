@@ -13,7 +13,7 @@ Because AI is a very wide topic let's specify first a bit. AI here means **the w
 
 ## General Workflow
 
-![General Workflow](2017-04-28-ai-first-at-maxdome/images/general-workflow.png)
+![General Workflow](/assets/2017-04-28-ai-first-at-maxdome/images/general-workflow.png)
 
 1. An user write/say something
 2. The platform (Alexa or Google Assistent) interpret it with the help of some sample utterances to an intent
@@ -48,7 +48,7 @@ A bit later a Google Home stand on our desktop and of course we wanted to play w
 We thought about support it streight forward by bulding a new microservice with our business logic from scratch understanding and responding in the [Google Assistant JSON format](https://developers.google.com/actions/reference/webhook-format).
 But we decided to spend a bit more time and build an abstraction layer to make the business logic independ of the supported platform.
 
-![Abstracted Workflow](2017-04-28-ai-first-at-maxdome/images/abstracted-workflow.png)
+![Abstracted Workflow](/assets/2017-04-28-ai-first-at-maxdome/images/abstracted-workflow.png)
 
 Like you can see in the diagram, we built "connectors" (see [ai-connector-alexa](https://github.com/dragonprojects/ai-connector-alexa) and [ai-connector-apiai](https://github.com/dragonprojects/ai-connector-apiai)) which transforms the platform specific JSON formats to an internal used format for the business logic named "webhook" (see [ai-webhook-maxdome](https://github.com/dragonprojects/ai-webhook-maxdome)). And also the OAuth 2.0 integration got an own service named "oauth" (see [ai-oauth-maxdome](https://github.com/dragonprojects/ai-oauth-maxdome)), luckily both platforms supporting the same account linking concept.
 
