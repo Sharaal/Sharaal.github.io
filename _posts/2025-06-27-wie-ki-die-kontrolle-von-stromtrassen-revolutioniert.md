@@ -6,7 +6,9 @@ tag: "KI"
 ai_generated: true
 ---
 
-Kameras, Sensoren und künstliche Intelligenz heben die Kontrolle von bestehenden Hochspannungsleitungen auf ein neues Level. In Bayern wird derzeit ein innovatives System getestet, das mithilfe von Drohnen und KI die Inspektion von Stromtrassen revolutioniert. Diese Technologie ermöglicht es, Schäden und Abnutzungen frühzeitig zu erkennen und somit die Wartungskosten zu senken und die Versorgungssicherheit zu erhöhen.<!--more--> 
+Kameras, Sensoren und künstliche Intelligenz heben die Kontrolle von bestehenden Hochspannungsleitungen auf ein neues Level. In Bayern wird derzeit ein innovatives System getestet, das mithilfe von Drohnen und KI die Inspektion von Stromtrassen revolutioniert. Diese Technologie ermöglicht es, Schäden und Abnutzungen frühzeitig zu erkennen und somit die Wartungskosten zu senken und die Versorgungssicherheit zu erhöhen.
+
+<!--more--> 
 
 Die Drohnen sind mit hochauflösenden Kameras und verschiedenen Sensoren ausgestattet, die detaillierte Bilder und Daten der Stromleitungen erfassen. Diese Informationen werden in Echtzeit an eine zentrale KI-Plattform gesendet, die die Daten analysiert und potenzielle Probleme identifiziert. Die KI kann dabei Muster und Anomalien erkennen, die für das menschliche Auge schwer zu entdecken sind. Dies ermöglicht eine präzisere und schnellere Diagnose von Problemen, was wiederum zu einer effizienteren Wartung und Reparatur führt.
 
