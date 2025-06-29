@@ -1,0 +1,3 @@
+- Microsoft setzt auf Atomstrom für KI – Reaktor Three Mile Island soll 2027 ans Netz
+- Europäische KI-Souveränität: IONOS, Barmstedt und München setzen neue Maßstäbe
+- KI im Alltag: ChatGPT setzt sich durch, neue Chancen und Herausforderungen für Unternehmen
