@@ -1,0 +1,3 @@
+- Meta schnappt sich OpenAIs Top-Köpfe – für 100 Millionen Dollar!
+- Besucher fragt, Exponat antwortet – KI-Projekt im Museum
+- KI killt Jobs – Anthropic startet Rettungsprogramm
