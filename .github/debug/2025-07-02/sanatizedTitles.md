@@ -1,0 +1,3 @@
+- Neues europäisches KI-Wettermodell revolutioniert Vorhersagen
+- Matheunterricht mit KI: Praxisnäher und ohne Schummelei?
+- Prompt-Engineering-Startup Vellum.ai erhält 5 Millionen US-Dollar
