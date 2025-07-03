@@ -5,8 +5,6 @@ title: "Meta testet proaktive Chatbots, die Nutzer zuerst ansprechen"
 aigenerated: true
 ---
 
-### Meta testet proaktive Chatbots, die Nutzer zuerst ansprechen
-
 Meta, der Mutterkonzern von Facebook, Instagram und WhatsApp, testet derzeit eine neue Generation von KI-Chatbots, die Nutzer proaktiv kontaktieren. Diese Bots sollen nicht nur auf Anfragen reagieren, sondern auch eigenständig Gespräche initiieren, indem sie frühere Interaktionen aufgreifen oder neue Themen vorschlagen. Ziel ist es, die Nutzerbindung zu stärken und die Interaktion auf den Plattformen zu erhöhen. Die Funktion wird im Rahmen des internen Projekts "Omni" entwickelt und ist Teil von Metas Plattform "AI Studio", die es Nutzern ermöglicht, personalisierte Chatbots mit Gedächtnis und spezifischem Verhalten zu erstellen.
 
 <!--more-->

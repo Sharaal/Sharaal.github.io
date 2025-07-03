@@ -5,10 +5,6 @@ title: "KI-Brille blendet Werbung in der realen Welt aus"
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Stellen Sie sich vor, Sie spazieren durch die Stadt und sehen keine Werbetafeln, keine Plakate und keine Logos mehr – als ob die Werbung einfach verschwunden wäre. Genau das ermöglicht eine neue App, die für Augmented-Reality-Brillen entwickelt wurde. Der belgische Software-Ingenieur Stijn Spanhove hat eine Anwendung programmiert, die mithilfe von künstlicher Intelligenz (KI) Werbung in der realen Welt erkennt und ausblendet. Die Technologie funktioniert mit den Snap Spectacles, einer AR-Brille, die mit Googles Gemini-KI ausgestattet ist. Sobald die Brille Werbung erkennt, wird diese durch eine rote Fläche überdeckt – ähnlich wie ein Adblocker im Internet.
 
 <!--more-->
@@ -20,8 +16,4 @@ Für die Zukunft plant Spanhove, die roten Flächen durch personalisierte Inhalt
 ### Quellen
 - [20 Minuten: KI-Brille blendet Werbung in Echtzeit aus](https://www.20min.ch/story/augmented-reality-ki-brille-blendet-werbung-einfach-aus-103373124)  
 - [Heute.at: KI-Brille blendet Werbung in den Straßen aus](https://www.heute.at/s/ki-brille-blendet-werbung-in-den-strassen-aus-120117084)  
-- [WinFuture: Schluss mit realer Werbung – Entwickler baut Adblocker für AR-Brillen](https://winfuture.de/news,151869.html)  
-
---- 
-
-Falls du noch Anpassungen möchtest, lass es mich wissen! 😊
+- [WinFuture: Schluss mit realer Werbung – Entwickler baut Adblocker für AR-Brillen](https://winfuture.de/news,151869.html)

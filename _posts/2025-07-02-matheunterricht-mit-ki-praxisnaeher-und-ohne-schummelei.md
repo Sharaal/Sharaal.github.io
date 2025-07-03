@@ -5,8 +5,6 @@ title: "Matheunterricht mit KI: Praxisnäher und ohne Schummelei?"
 aigenerated: true
 ---
 
-### Matheunterricht mit KI: Praxisnäher und ohne Schummelei?
-
 Künstliche Intelligenz (KI) revolutioniert den Mathematikunterricht an deutschen Schulen. In Nordrhein-Westfalen testen derzeit 25 Schulen den Einsatz von KI-gestützten Lernsystemen, die Schüler individuell fördern und Lehrkräfte entlasten sollen. Die Technologie analysiert beispielsweise Blickbewegungen der Schüler, um Schwächen in mathematischen Grundlagen zu erkennen. So können gezielte Übungen vorgeschlagen werden, die den Lernprozess optimieren. Erste Ergebnisse zeigen, dass Schüler durch diese personalisierte Unterstützung schneller Fortschritte machen und Wissenslücken effektiver geschlossen werden können.
 
 <!--more-->
