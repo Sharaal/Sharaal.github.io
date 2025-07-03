@@ -1,0 +1,3 @@
+- KI-Brille blendet Werbung in der realen Welt aus
+- Meta testet proaktive Chatbots, die Nutzer zuerst ansprechen
+- KI-Fußballspiel in China: Roboter fallen reihenweise um
