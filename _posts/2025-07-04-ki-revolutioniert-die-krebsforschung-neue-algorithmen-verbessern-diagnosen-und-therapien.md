@@ -17,5 +17,3 @@ Ein weiterer Durchbruch ist die Integration von KI in die personalisierte Medizi
 - [SWR: Weltkrebstag 2025 – Wie KI die Krebsmedizin revolutionieren könnte](https://www.swr.de/wissen/wie-ki-die-krebsmedizin-revolutionieren-koennte-100.html)
 - [Onko-Community: KI & Digitalisierung in der Krebsforschung](https://onko-community.thieme.de/schwerpunkte/ki-digitalisierung)
 - [All-Electronics: Wie Mikroelektronik und KI die Krebstherapie verändern](https://www.all-electronics.de/elektronik-entwicklung/elektronik-und-ki-in-der-krebsforschung-und-behandlung-891.html)
-
-Falls du noch Anpassungen oder weitere Details möchtest, lass es mich wissen! 😊
