@@ -53,15 +53,15 @@ jobs:
     - name: Sync archiv posts and assets to sharaal/archiv repository
       run: |
         # Clone the target repository
-        git clone https://${{ secrets.GH_PAT }}@github.com/sharaal/archiv.git target-repo
+        git clone https://${{ secrets.GH_PAT }}@github.com/sharaal/archiv.git archiv-repo
 
         # Copy archived posts to target repository
-        cp -r _archives/* target-repo/_posts/
-        mkdir -p target-repo/assets
-        cp -r assets/* target-repo/assets/
+        cp -r _archives/* archiv-repo/_posts/
+        mkdir -p archiv-repo/assets
+        cp -r assets/* archiv-repo/assets/
         
         # Commit and push changes to target repository
-        cd target-repo
+        cd archiv-repo
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add _posts/
@@ -70,6 +70,31 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Sync archived posts and assets from main repository"
+          git push
+        fi
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+      
+    - name: Sync posts, archiv and assets to sharaal/ai-newsfeed repository
+      run: |
+        # Clone the target repository
+        git clone https://${{ secrets.GH_PAT }}@github.com/sharaal/ai-newsfeed.git ai-newsfeed-repo
+
+        # Copy archived posts to target repository
+        cp -r _posts/* ai-newsfeed-repo/data/
+        cp -r _archives/* ai-newsfeed-repo/data/
+        cp -r assets/* ai-newsfeed-repo/public/assets/
+        
+        # Commit and push changes to target repository
+        cd ai-newsfeed-repo
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git add public/assets/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Sync posts, archiv and assets from main repository"
           git push
         fi
       env:
