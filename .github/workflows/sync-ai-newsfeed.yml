@@ -1,4 +1,4 @@
-name: "Sync to ai-newsfeed"
+name: "Sync ai-newsfeed"
 
 on:
   workflow_dispatch: # Allow manual trigger
