@@ -1,0 +1,3 @@
+- KI-gestützte Psychotherapie: Kann ChatGPT eine Therapie ersetzen?
+- KI in der Bildung: Pädagogische Hochschulen erweitern Angebote für Lehrer
+- Faktencheck mit KI: Tipps zur Vermeidung von Fehlern bei Chatbots
