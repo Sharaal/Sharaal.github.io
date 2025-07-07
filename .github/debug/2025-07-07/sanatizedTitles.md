@@ -1,0 +1,3 @@
+- KI-Betrug bei Bewertungen: Wenn Sterne lügen
+- Berliner Datenschutzbeauftragte will chinesischen KI-Chatbot DeepSeek verbannen
+- Neue Spick-Methode: "Super Noten mit ChatGPT-Stift"
