@@ -15,5 +15,3 @@ Trotz der offensichtlichen Vorteile gibt es auch kritische Stimmen. Datenschutze
 - [Landkreisnachrichten: Effizienz und Datenschutz - Hand in Hand](https://landkreisnachrichten.de/themen/verwaltungsinnovation/effizienz-und-datenschutz-hand-in-hand)
 - [KI-Echo: Wie Künstliche Intelligenz die Verwaltung in Müllheim unterstützt](https://ki-echo.de/ki-in-verwaltung-forschung-medien-und-alltag-chancen-risiken-und-aktuelle-debatten/)
 - [IT-Boltwise: Künstliche Intelligenz in der Verwaltung](https://www.it-boltwise.de/kuenstliche-intelligenz-in-der-verwaltung-chancen-und-herausforderungen.html)
-
-Hier ist der Artikel mit den aktuellen Informationen und Quellen. Lass mich wissen, ob du Anpassungen möchtest!

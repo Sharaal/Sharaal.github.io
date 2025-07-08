@@ -5,10 +5,6 @@ title: "Neue Spick-Methode: \"Super Noten mit ChatGPT-Stift\""
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Ein unscheinbarer Stift sorgt derzeit für Aufsehen in deutschen Klassenzimmern. Der sogenannte "ChatGPT-Stift" sieht auf den ersten Blick wie ein gewöhnlicher Textmarker aus, birgt jedoch eine hochentwickelte KI-Technologie. Entwickelt von einem Start-up aus Wuppertal, ermöglicht der Stift das Scannen von Texten, die anschließend in Echtzeit von einer integrierten KI analysiert und beantwortet werden. Besonders vor den Sommerferien, wenn Prüfungen und Notenvergabe anstehen, hat das Gerät für Diskussionen gesorgt.
 
 <!--more-->
@@ -21,7 +17,3 @@ Die rechtlichen und ethischen Fragen rund um den ChatGPT-Stift sind vielfältig.
 - [BR24: Neue Spick-Methode: "Super Noten mit ChatGPT-Stift"](https://www.br.de/nachrichten/netzwelt/neue-spick-methode-super-noten-mit-chatgpt-stift,UpnQfgr)
 - [Verbraucherschutzforum: "Super Noten dank ChatGPT-Stift" – Spicken 2.0 sorgt für Aufsehen](https://verbraucherschutzforum.berlin/2025-07-03/super-noten-dank-chatgpt-stift-spicken-2-0-sorgt-fuer-aufsehen-an-schulen-378110/)
 - [BLLV: "Spick-Stift" mit KI zeigt: Leistungsbegriff muss zeitgemäß werden](https://www.bllv.de/vollstaendiger-artikel/news/spick-stift-mit-ki-zeigt-leistungsbegriff-muss-endlich-zeitgemaess-werden-6803)
-
---- 
-
-Falls du Anpassungen möchtest, lass es mich wissen!

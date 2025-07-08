@@ -5,10 +5,6 @@ title: "KI in der Bildung: Pädagogische Hochschulen erweitern Angebote für Leh
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Schweizer Pädagogische Hochschulen reagieren auf die wachsende Bedeutung von Künstlicher Intelligenz (KI) im Bildungswesen und erweitern ihre Angebote für angehende Lehrkräfte. Eine aktuelle Umfrage zeigt, dass KI-Kurse bei Lehramtsstudierenden besonders gefragt sind. Die Hochschulen setzen dabei auf praxisnahe Schulungen, die den Einsatz von KI-Tools im Unterricht sowie die Vermittlung von Medienkompetenz umfassen. Ziel ist es, Lehrkräfte auf die Herausforderungen der digitalen Transformation vorzubereiten und ihnen das nötige Wissen zu vermitteln, um KI sinnvoll in den Schulalltag zu integrieren.
 
 <!--more-->
@@ -21,7 +17,3 @@ Die Bedeutung von KI in der Bildung wird auch auf politischer Ebene erkannt. In 
 - [20 Minuten: KI-Boom an Schulen – PHs bauen Angebote aus](https://www.20min.ch/story/paedagogische-hochschulen-ki-boom-an-schulen-phs-bauen-angebote-fuer-angehende-lehrer-aus-103374055)
 - [PH Heidelberg: BildungsBit – KI-Systeme in der Schule](https://www.ph-heidelberg.de/professional-school/unser-angebot/details/bildungsbit-ki-systeme-in-der-schule-einsatzmoeglichkeiten-und-herausforderungen/)
 - [ZDF: KI an Schulen – Künstliche Intelligenz gegen Lehrermangel](https://www.zdfheute.de/politik/deutschland/ki-an-schulen-kuenstliche-intelligenz-lehrermangel-100.html)
-
---- 
-
-Falls du Anpassungen oder Ergänzungen möchtest, lass es mich wissen!

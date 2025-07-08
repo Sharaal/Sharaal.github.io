@@ -5,10 +5,6 @@ title: "KI-Betrug bei Bewertungen: Wenn Sterne lügen"
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Kundenbewertungen sind für viele Verbraucher die wichtigste Entscheidungsgrundlage beim Online-Shopping. Doch immer häufiger trügt der Schein: Gefälschte Bewertungen, oft erstellt durch Künstliche Intelligenz (KI), überschwemmen Plattformen wie Amazon, Google oder HolidayCheck. Diese manipulierten Rezensionen täuschen nicht nur Verbraucher, sondern verursachen auch immense Schäden für Unternehmen. Laut einer aktuellen Schätzung des Weltwirtschaftsforums beläuft sich der weltweite Schaden durch Fake-Bewertungen auf 152 Milliarden Dollar jährlich. Besonders betroffen ist die Hotelbranche, die stark von positiven Bewertungen abhängig ist.
 
 <!--more-->
@@ -20,8 +16,4 @@ Verbraucherschützer fordern strengere Regulierungen und mehr Transparenz bei On
 ### Quellen
 - [ZDFheute: Betrug bei Bewertungen](https://www.zdfheute.de/wirtschaft/online-bewertungen-ki-faelschungen-folgen-wirtschaft-100.html)  
 - [n-tv: Fake-Bewertungen fluten das Netz](https://www.n-tv.de/ratgeber/Fake-Bewertungen-fluten-das-Netz-article24543950.html)  
-- [UAMR: KI-Betrug im Internet](https://www.uamr.de/ki-betrug-im-internet/)  
-
---- 
-
-Falls du Anpassungen möchtest, lass es mich wissen!
+- [UAMR: KI-Betrug im Internet](https://www.uamr.de/ki-betrug-im-internet/)

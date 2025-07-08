@@ -18,5 +18,3 @@ Die Risiken von KI-Fehlern sind nicht nur theoretisch. Ein Bericht der britische
 - [DW: Faktencheck – Wie erkenne ich Fehler bei KI-Chatbots?](https://www.dw.com/de/faktencheck-russland-ki-chatbots-desinformation-falschinformation/a-71998530)
 - [AGEV: ChatGPT & Co – Tipps für den Faktencheck](https://www.agev.de/nachrichten/praxis/chatgpt-co-tipps-fuer-den-faktencheck/)
 - [Digitalzentrum Berlin: KI-Modelle im Faktencheck](https://digitalzentrum-berlin.de/ki-modelle-im-faktencheck-chatgpt-und-co-liefern-oft-falschaussagen)
-
-Falls du noch Anpassungen oder Ergänzungen möchtest, lass es mich wissen! 😊
