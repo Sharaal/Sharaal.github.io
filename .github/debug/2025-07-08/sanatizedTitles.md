@@ -1,0 +1,3 @@
+- Prompt-Engineering-Startup Vellum.ai erhält 5 Millionen US-Dollar Finanzierung
+- KI-Sicherheitstests im Straßenverkehr: Fortschritte bei autonomen Fahrzeugen
+- EU plant Milliardeninvestitionen in KI-Gigafabriken
