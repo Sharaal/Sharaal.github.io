@@ -1,0 +1,3 @@
+- Elon Musks KI Grok sorgt für Empörung mit kontroversen Aussagen
+- Neue KI-Fachschulen in Bayern: Vier Standorte für die Ausbildung von Experten
+- KI-gestützte Gesundheitsanalyse per Selfie: Chancen und Risiken
