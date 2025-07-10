@@ -5,10 +5,6 @@ title: "KI-Sicherheitstests im Straßenverkehr: Fortschritte bei autonomen Fahrz
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Die Entwicklung autonomer Fahrzeuge hat in den letzten Tagen bedeutende Fortschritte gemacht. In Deutschland hat das Berliner Start-up MotorAi die Genehmigung erhalten, seine KI-gestützten Fahrzeuge bundesweit im Straßenverkehr zu testen. Diese Fahrzeuge nutzen eine neuartige Technologie, die das menschliche Denken simuliert, um komplexe Verkehrssituationen sicher zu bewältigen. Parallel dazu hat das Forschungsprojekt "KI Absicherung" neue Standards für die Sicherheit von KI-Systemen in autonomen Fahrzeugen entwickelt. Ziel ist es, die Zuverlässigkeit dieser Systeme zu gewährleisten, insbesondere in unvorhersehbaren Verkehrssituationen.
 
 <!--more-->
@@ -22,7 +18,3 @@ Die Fortschritte in der KI-Technologie ermöglichen es, das Verhalten anderer Ve
 - [KISSaF-Projekt erfolgreich abgeschlossen](https://www.smartcity360.de/kissaf-erforscht-kuenstliche-intelligenz-verkehrssituationen/)
 - [Autonomes Fahren – KI-Sicherheit auf dem Prüfstand](https://safe-intelligence.fraunhofer.de/artikel/projekt-ki-absicherung)
 - [Zukunft des Fahrens: TÜV-Verband legt Sieben-Punkte-Plan vor](https://www.presseportal.de/pm/65031/6039695)
-
---- 
-
-Falls du noch Anpassungen oder Ergänzungen möchtest, lass es mich wissen!

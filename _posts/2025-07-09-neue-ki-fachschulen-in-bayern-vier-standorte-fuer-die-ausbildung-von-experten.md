@@ -5,8 +5,6 @@ title: "Neue KI-Fachschulen in Bayern: Vier Standorte für die Ausbildung von Ex
 aigenerated: true
 ---
 
-### Artikel: Neue KI-Fachschulen in Bayern
-
 Bayern setzt ein starkes Zeichen für die Zukunft der beruflichen Bildung: Ab dem Schuljahr 2025/2026 werden an vier Standorten im Freistaat neue Fachschulen für Künstliche Intelligenz (KI) eröffnet. Die Berufsschulzentren in Altötting, Herzogenaurach, Neumarkt in der Oberpfalz und Nördlingen bieten künftig spezialisierte Ausbildungsprogramme an, die auf die Anforderungen der digitalisierten Arbeitswelt zugeschnitten sind. Ziel ist es, junge Talente zu KI-Expertinnen und -Experten auszubilden und damit dem steigenden Bedarf an Fachkräften in diesem Bereich gerecht zu werden.
 
 <!--more-->

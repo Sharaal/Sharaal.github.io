@@ -5,8 +5,6 @@ title: "KI-gestützte Gesundheitsanalyse per Selfie: Chancen und Risiken"
 aigenerated: true
 ---
 
-### KI-gestützte Gesundheitsanalyse per Selfie: Chancen und Risiken
-
 Die Idee, Gesundheitsdaten aus einem einfachen Selfie zu gewinnen, klingt wie aus einem Science-Fiction-Film. Doch moderne KI-Systeme versprechen genau das: Sie analysieren Gesichtszüge, Hautbeschaffenheit und andere visuelle Merkmale, um Rückschlüsse auf den Gesundheitszustand zu ziehen. Erste Anwendungen können bereits genetische Syndrome, Herz-Kreislauf-Risiken oder den biologischen Alterungsprozess erkennen. Besonders in der Dermatologie und bei seltenen genetischen Erkrankungen zeigen Studien vielversprechende Ergebnisse. Doch wie zuverlässig sind diese Technologien wirklich, und welche Risiken bergen sie?
 
 <!--more-->
