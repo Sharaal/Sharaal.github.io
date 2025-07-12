@@ -1,0 +1,3 @@
+- Europäisches KI-Wettermodell revolutioniert Wettervorhersagen
+- Münchner Forschende entschlüsseln antike Hymne mit KI
+- OpenAI plant eigenen Browser als Konkurrenz zu Google
