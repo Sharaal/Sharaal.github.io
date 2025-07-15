@@ -1,0 +1,3 @@
+- Meta plant KI-Rechenzentrum in der Größe von Manhattan
+- KI warnt vor Suizidrisiken: Neue Diskussionen über ethische Grenzen
+- Prompt-Engineering-Startup Vellum.ai erhält 5 Millionen US-Dollar
