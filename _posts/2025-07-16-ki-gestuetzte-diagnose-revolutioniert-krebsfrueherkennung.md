@@ -5,10 +5,6 @@ title: "KI-gestützte Diagnose revolutioniert Krebsfrüherkennung"
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Künstliche Intelligenz (KI) verändert die Krebsfrüherkennung grundlegend. In den letzten Tagen wurden mehrere Studien und Projekte vorgestellt, die zeigen, wie KI-basierte Systeme die Diagnosegenauigkeit erheblich verbessern können. So hat beispielsweise ein Team der Universität Bielefeld ein interaktives System entwickelt, das Ärzt*innen bei der Diagnosefindung unterstützt. Dieses System analysiert nicht nur medizinische Daten, sondern stellt auch Rückfragen und überprüft Hypothesen, um Fehldiagnosen zu vermeiden. Ein weiteres Beispiel ist die britische Gesundheitsbehörde, die KI-Algorithmen zur Analyse von Mammografien einsetzt, um Brustkrebsfälle zu erkennen, die von menschlichen Augen übersehen werden könnten.
 
 <!--more-->
@@ -21,8 +17,4 @@ Ein weiterer Meilenstein ist die Zusammenarbeit zwischen Kliniken und Technologi
 - [tagesschau.de: Bessere Krebsdiagnose und -therapie dank KI](https://www.tagesschau.de/wissen/forschung/ki-krebsdiagnose-100.html)  
 - [DW: Neue KI-Methode verbessert Brustkrebs-Früherkennung](https://www.dw.com/de/neue-ki-methode-verbessert-brustkrebs-fr%C3%BCherkennung/a-71500251)  
 - [Toolify: KI-gestützte Pathologie](https://www.toolify.ai/de/ai-news-de/kigesttzte-pathologie-revolution-in-diagnostik-krebsfrherkennung-3493409)  
-- [Anabel Ternes: Krebsfrüherkennung 2.0](https://anabelternes.de/allgemein/krebsfrueherkennung-2-0-wie-kuenstliche-intelligenz-die-diagnose-revolutioniert/)  
-
---- 
-
-Falls du noch Anpassungen oder Ergänzungen möchtest, lass es mich wissen!
+- [Anabel Ternes: Krebsfrüherkennung 2.0](https://anabelternes.de/allgemein/krebsfrueherkennung-2-0-wie-kuenstliche-intelligenz-die-diagnose-revolutioniert/)

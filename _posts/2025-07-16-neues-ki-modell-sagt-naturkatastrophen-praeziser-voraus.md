@@ -5,8 +5,6 @@ title: "Neues KI-Modell sagt Naturkatastrophen präziser voraus"
 aigenerated: true
 ---
 
-### Neues KI-Modell sagt Naturkatastrophen präziser voraus
-
 Ein Durchbruch in der Klimaforschung: Das neue KI-Modell "Aurora" hat in den letzten Tagen weltweit für Aufsehen gesorgt. Entwickelt von Microsoft und führenden Klimaforschern, verspricht Aurora, Naturkatastrophen wie Stürme, Überschwemmungen und Hitzewellen präziser und schneller vorherzusagen als je zuvor. Das Modell basiert auf einer Analyse von über einer Million Stunden an Klimadaten und nutzt modernste maschinelle Lernalgorithmen, um komplexe Wetterphänomene zu entschlüsseln. Besonders beeindruckend: Aurora übertrifft laut einer aktuellen Studie im Fachjournal *Nature* 91 Prozent der bisherigen Wetter- und Klimamodelle in Genauigkeit und Geschwindigkeit.
 
 <!--more-->
