@@ -1,0 +1,3 @@
+- KI-gestützte Diagnose revolutioniert Krebsfrüherkennung
+- Neues KI-Modell sagt Naturkatastrophen präziser voraus
+- KI-Entwicklung in der EU: Strengere Regulierungen geplant
