@@ -1,0 +1,3 @@
+- KI-gestützte Frühwarnsysteme sollen Hochwasserschutz revolutionieren
+- Prompt-Engineering-Startup Vellum.ai erhält 5 Millionen US-Dollar Finanzierung
+- KI-Influencerin täuscht mit generierten Bildern einen Sport-Star
