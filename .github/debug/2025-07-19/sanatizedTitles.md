@@ -1,0 +1,3 @@
+- Google integriert KI-Antworten direkt in die Suchmaschine und verändert die Internet-Ökonomie grundlegend
+- Bitkom-Präsident fordert bessere Förderung für deutsche KI-Startups
+- Seniorenheime testen KI-Roboter als Gesprächspartner
