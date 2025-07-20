@@ -5,8 +5,6 @@ title: "KI-Influencerin täuscht mit generierten Bildern einen Sport-Star"
 aigenerated: true
 ---
 
-### KI-Influencerin täuscht mit generierten Bildern einen Sport-Star
-
 Die KI-Influencerin Mia Zelu hat mit täuschend echten, generierten Bildern aus Wimbledon für Aufsehen gesorgt. Auf Instagram präsentierte sie sich scheinbar als Teilnehmerin des prestigeträchtigen Tennisturniers und erntete dafür über 43.000 Likes. Unter ihren Bewunderern befand sich auch der indische Cricket-Star Rishab Pant, der ihre Beiträge zunächst likte, später jedoch wieder löschte, nachdem die Wahrheit ans Licht kam. Die Bilder, die Mia Zelu in eleganter Tennisbekleidung und inmitten der Wimbledon-Kulisse zeigen, sind vollständig künstlich generiert – Mia Zelu selbst existiert nicht.
 
 <!--more-->
