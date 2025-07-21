@@ -1,0 +1,3 @@
+- KI-gestützte Übersetzungssoftware revolutioniert den globalen Handel
+- Neues KI-Modell verbessert die Präzision bei medizinischen Diagnosen
+- KI-Entwicklung in China: Regierung investiert Milliarden in Forschung
