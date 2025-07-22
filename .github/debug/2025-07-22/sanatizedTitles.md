@@ -1,0 +1,3 @@
+- Photonischer Chip revolutioniert Rechenleistung mit Licht
+- OpenAI testet heimlich GPT-5: Leaks und Spekulationen
+- ChatGPT-Agent übernimmt eigenständig Aufgaben im Web
