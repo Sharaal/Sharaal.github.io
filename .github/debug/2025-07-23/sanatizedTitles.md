@@ -1,0 +1,3 @@
+- OpenAI sichert sich mit 30-Milliarden-Dollar-Deal Rechenkapazitäten bei Oracle
+- Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu mehr Fehlern bei KI
+- DeepMind und OpenAI erreichen Meilenstein: Sprach-KI glänzt bei Mathe-Olympiade
