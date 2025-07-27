@@ -1,0 +1,3 @@
+- KI-gestützter Katzen-Translator: Verstehen, was die Katze will
+- Spotify lässt erschossenen Musiker mit KI neues Lied singen
+- China schlägt weltweites Regelwerk für KI-Sicherheit vor
