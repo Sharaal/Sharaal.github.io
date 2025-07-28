@@ -1,0 +1,3 @@
+- Alibaba präsentiert KI-Brille "Quark AI Glasses" als Konkurrenz zu Meta
+- Tencent-KI "HunyuanWorld 1.0" erstellt 3D-Welten in Sekunden
+- Softbank plant Einsatz von einer Milliarde KI-Agenten in der Wirtschaft
