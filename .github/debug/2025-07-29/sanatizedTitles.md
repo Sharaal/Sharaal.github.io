@@ -1,0 +1,3 @@
+- Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten
+- DeepSeek: Chinesisches Start-up fordert große KI-Player mit ressourcenschonendem Modell heraus
+- Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet
