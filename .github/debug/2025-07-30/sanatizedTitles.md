@@ -1,0 +1,3 @@
+- KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme
+- DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen
+- OpenAI führt neuen "Study Mode" für ChatGPT ein, der das Lernen interaktiv gestaltet
