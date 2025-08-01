@@ -5,10 +5,6 @@ title: "Spotify lässt erschossenen Musiker mit KI neues Lied singen"
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Spotify hat kürzlich für Aufsehen gesorgt, als auf dem offiziellen Profil des 1989 erschossenen Country-Musikers Blaze Foley ein neuer Song mit dem Titel "Together" veröffentlicht wurde. Das Besondere daran: Der Song wurde vollständig von einer Künstlichen Intelligenz (KI) generiert – ohne Zustimmung der Erben oder des Labels. Der Vorfall hat eine hitzige Debatte über die ethischen und rechtlichen Grenzen von KI in der Musikindustrie ausgelöst.
 
 <!--more-->
@@ -23,8 +19,4 @@ Der Fall Blaze Foley ist kein Einzelfall. Auch auf den Profilen anderer verstorb
 - [Heute.at](https://www.heute.at/s/spotify-laesst-erschossenen-musiker-neues-lied-singen-120121365)  
 - [20 Minuten](https://www.20min.ch/story/spotify-laesst-tote-musiker-mit-ki-singen-103387668)  
 - [Musikexpress](https://www.musikexpress.de/ohne-label-zustimmung-ki-songs-auf-spotify-profilen-toter-musiker-3064633/)  
-- [DJ Lab](https://www.dj-lab.de/spotify-ki-song-verstorbener-kuenstler-veroeffentlicht/)  
-
---- 
-
-Falls du Anpassungen möchtest, lass es mich wissen!
+- [DJ Lab](https://www.dj-lab.de/spotify-ki-song-verstorbener-kuenstler-veroeffentlicht/)

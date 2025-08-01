@@ -5,10 +5,6 @@ title: "Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit 
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Google hat mit ScreenAI ein neues KI-Modell vorgestellt, das die Interaktion mit Bildschirminhalten revolutionieren könnte. ScreenAI kombiniert visuelle und sprachliche Verarbeitung, um Benutzeroberflächen (UIs) und Infografiken zu verstehen, zu analysieren und mit ihnen zu interagieren. Die Technologie ermöglicht es, UI-Elemente zu identifizieren, ihre Funktion zu erklären und sogar Anweisungen wie "Klicke auf den Suchbutton" auszuführen. Besonders beeindruckend ist die Fähigkeit, den Inhalt eines Bildschirms zusammenzufassen oder Fragen zu spezifischen Elementen zu beantworten.
 
 <!--more-->
@@ -21,7 +17,3 @@ Trotz der beeindruckenden Fortschritte betonen die Forscher, dass ScreenAI noch 
 - [Google Research Blog](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 - [Golem.de](https://www.golem.de/news/screenai-googles-ki-versteht-user-interfaces-und-bedient-sie-2403-183437.html)
 - [The Decoder](https://the-decoder.de/googles-screenai-navigiert-zuverlaessig-ueber-smartphone-oberflaechen/)
-
---- 
-
-Falls du Anpassungen oder Ergänzungen möchtest, lass es mich wissen!

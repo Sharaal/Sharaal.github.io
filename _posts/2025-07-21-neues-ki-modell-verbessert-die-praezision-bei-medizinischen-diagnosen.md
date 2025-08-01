@@ -5,8 +5,6 @@ title: "Neues KI-Modell verbessert die Präzision bei medizinischen Diagnosen"
 aigenerated: true
 ---
 
-### Neues KI-Modell verbessert die Präzision bei medizinischen Diagnosen
-
 Ein Forschungsteam der Universität Würzburg hat ein bahnbrechendes KI-Modell entwickelt, das die Interpretation von dreidimensionalen medizinischen Bilddaten revolutioniert. Das Modell, das speziell für die Analyse von Röntgen- und MRT-Bildern optimiert wurde, übertrifft bestehende Technologien in Präzision und Geschwindigkeit. Es gewann kürzlich einen internationalen Wettbewerb, bei dem es gegen führende KI-Systeme aus der ganzen Welt antrat. Die Forscher betonen, dass das Modell nicht nur präzisere Diagnosen ermöglicht, sondern auch die Arbeitsbelastung von Radiologen erheblich reduziert, indem es potenzielle Anomalien automatisch hervorhebt.
 
 <!--more-->

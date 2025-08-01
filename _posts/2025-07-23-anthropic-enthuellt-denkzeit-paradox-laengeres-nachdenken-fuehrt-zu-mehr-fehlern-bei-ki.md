@@ -5,8 +5,6 @@ title: "Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu meh
 aigenerated: true
 ---
 
-### Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu mehr Fehlern bei KI
-
 Eine neue Studie des KI-Unternehmens Anthropic hat ein überraschendes Phänomen aufgedeckt: Längere Denkprozesse bei großen Sprachmodellen wie Claude oder GPT-4 führen nicht zu besseren, sondern oft zu schlechteren Ergebnissen. Dieses sogenannte "Denkzeit-Paradox" stellt eine der grundlegenden Annahmen der KI-Entwicklung infrage, nämlich dass mehr Rechenzeit automatisch zu präziseren Antworten führt.  
 
 <!--more-->

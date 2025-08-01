@@ -5,10 +5,6 @@ title: "Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet"
 aigenerated: true
 ---
 
-Hier ist der Artikel basierend auf den aktuellen Informationen:
-
----
-
 Künstliche Intelligenz (KI) wird in den kommenden Jahren mehr Millionäre hervorbringen als das Internet in den letzten zwei Jahrzehnten – diese kühne Prognose stammt von Jensen Huang, dem CEO des Chipherstellers Nvidia. In einem kürzlich geführten Interview erklärte Huang, dass KI nicht nur die Art und Weise, wie Unternehmen arbeiten, revolutionieren wird, sondern auch eine neue Ära der wirtschaftlichen Chancen einläutet. Besonders bemerkenswert sei, dass KI die Einstiegshürden für Innovation und Unternehmertum drastisch senkt. 
 
 <!--more-->
