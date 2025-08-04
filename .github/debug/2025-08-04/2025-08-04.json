@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-04T18:05:22.321Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet,Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten,Tencent-KI \"HunyuanWorld 1.0\" erstellt 3D-Welten in Sekunden,Softbank plant Einsatz von einer Milliarde KI-Agenten in der Wirtschaft,Alibaba präsentiert KI-Brille \"Quark AI Glasses\" als Konkurrenz zu Meta,Spotify lässt erschossenen Musiker mit KI neues Lied singen,KI-gestützter Katzen-Translator: Verstehen, was die Katze will,China schlägt weltweites Regelwerk für KI-Sicherheit vor,OpenAI sichert sich mit 30-Milliarden-Dollar-Deal Rechenkapazitäten bei Oracle,DeepMind und OpenAI erreichen Meilenstein: Sprach-KI glänzt bei Mathe-Olympiade,Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu mehr Fehlern bei KI,Photonischer Chip revolutioniert Rechenleistung mit Licht,OpenAI testet heimlich GPT-5: Leaks und Spekulationen,ChatGPT-Agent übernimmt eigenständig Aufgaben im Web,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_PduaarJGBZJoh2P9wv8rdjNF",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "0e6ae5a4-5a11-40ce-90a6-6485cd818105"
+        },
+        {
+          "role": "tool",
+          "id": "826f4f2e-d242-41e3-ac09-562d49b034bc",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_PduaarJGBZJoh2P9wv8rdjNF",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI für den Menschen – Intelligente Lösungen für die ...",
+                    "url": "https://www.dfki.de/web",
+                    "type": "website-preview",
+                    "text": "### ICML 2025: DFKI-Forschung warnt vor trügerischer Erklärbarkeit in KI-Systemen\n   21.07.2025\n2. © Dominik Wagner, Eichmeister Kreativagentur GmbH\n\n   ### Professor Wolfgang Wahlster mit Rudolf-Diesel-Medaille 2025 ausgezeichnet\n   14.07.2025\n3. \n\n   ### Erfolg im EXIST-Leuchtturmwettbewerb Startup Factories: DFKI ist Partner im ausgezeichneten Konsortium Southwest X\n   11.07.2025\n\n# Unsere Forschungsbereiche und Standorte\n\n## Forschungsbereiche und Leitung: [...] ### „AI for Society“ – PwC Deutschland und DFKI starten Initiative für praxistaugliche KI für Verwaltung und Gesellschaft\n   23.07.2025\n2. © Fransiska-Sophie Göttsch\n\n   ### Bremen ist wieder Weltmeister: B-Human siegt beim RoboCup 2025\n   22.07.2025\n3. Portraits Gründungsmitglieder Alangu und Avatar für Gebärdensprachübersetzung\n\n   ### DFKI Spin-off alangu: KI-basierte Gebärdensprachübersetzung als Schlüssel zur digitalen Barrierefreiheit\n   26.06.2025\n\nEvents\n\nAlle Events [...] 1. © Deutsches Auswandererhaus\n\n   ### „Verlockung Weltall“: Neue Ausstellung mit Roboter CESAR im Deutschen Auswandererhaus\n   14.07.2025\n2. © 6G-Plattform\n\n   ### Kooperation in 6G gestärkt: Memorandum of Understanding zwischen Deutschland und Japan\n   07.07.2025\n3. © 6G-Plattform\n\n   ### Berlin 6G Conference 2025: Wie das DFKI vertrauenswürdige KI-Kommunikationssysteme mitgestaltet\n   30.06.2025\n\nWissenschaftliche Exzellenz\n\nAlle Artikel\n\n1. © DFKI",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Aktuelle Nachrichten & Hintergründe",
+                    "url": "https://www.zdfheute.de/thema/kuenstliche-intelligenz-ki-100.html",
+                    "type": "website-preview",
+                    "text": "Widerspruchsfrist endet:Meta startet KI-Training mit Nutzerdaten\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nImage 15: 26.07.2023, Baden-Württemberg, Karlsruhe: Schüler eines Gymnasiums sitzen vor einem Computer und benutzen ein KI-Tool.\n\nmit Video [...] Aktuelle Nachrichten zu Künstlicher Intelligenz\n-----------------------------------------------\n\nImage 1: Unterricht an einer Grundschule\n\nProjekt in Sachsen-Anhalt:Wie KI bei Lehrermangel helfen kann\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nvon Lana Ulman\n\nImage 2: Gorilladame Fatou feiert 68. Geburtstag im Zoo Berlin\n\n9:04 min [...] Nachrichten | heute:KI-Einsatz in der Medizin\n------------------------------------------------------------------------------------------------------------------------------------\n\nvon Laura Koop\n\nImage 7: heute journal - der Podcast mit Stefan Leifert und Dunja Hayali\n\n46:45 min",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Ratgeber und Tipps | heise online",
+                    "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 7: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### Sprachmodell für medizinische Fragen von Google veröffentlicht 14.07.2023 14 MIT Technology Review\n\nMehr Artikel laden\n\nAlle Inhalte geladen\n\nAnzeige [...] Image 17: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### Microsoft will den Vertrag mit OpenAI bis 2030 aussitzen Streit um die Beteiligung bei Umstrukturierung: Microsoft soll sich auf Plan B vorbereiten, falls die Verhandlungen mit OpenAI scheitern. 19.06.2025 10:53 Uhr 23 [...] Image 23: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### KI: Stromverbrauch global bald bei 1 Prozent, G7-Staaten gehen Energiehunger an Die G7-Staaten haben vereinbart, den enormen Stromverbrauch durch KI sowie deren Potenziale für Energieeffizienz und Innovation stärker in den Blick zu nehmen. 18.06.2025 18:05 Uhr 19",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: Wie KI unsere Zukunft verändert - DIE ZEIT",
+                    "url": "https://www.zeit.de/thema/kuenstliche-intelligenz",
+                    "type": "website-preview",
+                    "text": "Urheberrecht und KI: Sam Altman, chief executive officer of OpenAI Inc., at Station F during the AI Action Summit in Paris, France, on Tuesday, Feb. 11, 2025. France is set to announce a total of 109 billion in investment in artificial intelligence projects in the country by companies, funds and other sources over the coming years, President Emmanuel Macron said on the eve of a two-day AI Action Summit. Photographer: Nathan Laine/Bloomberg via Getty Images [...] Sprechen wir bald alle wie ChatGPT? Forscher zeigen: KI verändert nicht nur Texte – sondern auch, wie wir miteinander reden.\n\nBilly Corgan: Billy Corgan of US band Smashing Pumpkins performs on the third day of the 2019 Alive Festival in Oeiras in the outskirts of Lisbon on July 13, 2019. (Photo by PATRICIA DE MELO MOREIRA / AFP)        (Photo credit should read PATRICIA DE MELO MOREIRA/AFP via Getty Images)\n\n### Billy Corgan: \"Mich werden Sie nicht los\" [...] Striktere KI-Regeln sollen für mehr Sicherheit sorgen, die Bahnstrecke Berlin-Hamburg wird gesperrt, und Passbilder gibt es nur noch digital. Das ändert sich im August.",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "KI: Neue EU-Vorgaben verlangen von Anbietern eine Offenlegung ...",
+                    "url": "https://logistik-heute.de/news/ki-neue-eu-vorgaben-verlangen-von-anbietern-eine-offenlegung-von-trainingsdaten-und-schutzmassnahmen-225448.html",
+                    "type": "website-preview",
+                    "text": "(dpa) Seit dem 2. August gelten in der EU neue Transparenzpflichten für KI-Anbieter wie ChatGPT oder Gemini. Sie müssen offenlegen, mit welchen Daten ihre Modelle trainiert wurden und welche Maßnahmen sie zum Schutz von Urheberrechten ergreifen. [...] Seit dem 2. August gelten in der EU neue Transparenzvorgaben für Anbieter von „General-Purpose AI“ – also KI-Systemen mit allgemeinem Verwendungszweck. Modelle wie ChatGPT oder Gemini müssen offenlegen, wie sie funktionieren und mit welchen Daten sie trainiert wurden. [...] Die Betreiber müssen künftig etwa offenlegen, wie ihre Systeme funktionieren und mit welchen Daten sie trainiert wurden. Besonders leistungsstarke Modelle, die potenziell auch eine Gefahr für die Allgemeinheit darstellen könnten, sollen zudem Sicherheitsvorkehrungen protokollieren müssen. Grundlage der neuen Vorgaben ist das EU-KI-Gesetz „AI Act“, das im Mai 2024 beschlossen wurde.",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "KI verstehen - Podcast - Deutschlandfunk",
+                    "url": "https://www.deutschlandfunk.de/ki-verstehen-102.html",
+                    "type": "website-preview",
+                    "text": "Image 50: Digital gerenderte 3D-Grafik vieler miteinander verbundener Laptops. 12.09.2024 KI für alle Open-Source-Modelle demokratisieren Künstliche Intelligenz --------------------------------------------------------------------------------- Ob als Bildgenerator, Chatbot oder Transkriptions-Tool: Offene KI-Modelle versprechen Transparenz, Datenschutz und Innovation. Auch Konzerne wie Meta machen Sprachmodelle frei zugänglich. Gehört Open-Source-KI die Zukunft – oder ist sie eine Gefahr? [...] Image 16: Eine Frau steht neben einem humanoiden Roboter mit orange farbenem Trägershirt, an welchem eine Startnummer befestigt ist. 29.05.2025 KI und Robotik reloaded Hype um humanoide Roboter ------------------------------------------------------------ Beim ersten Halbmarathon für zweibeinige Roboter strauchelten viele. Doch diverse Firmen wollen sie mit Künstlicher Intelligenz fit für den Alltag machen. Als Robo-Butler sollen sie Hemden bügeln, Tisch decken, Getränke reichen. Das dauert [...] Image 29: Vor blauem Hintergrund steht eine Person im Anzug an einer Art durchsichtigem Bildschirm mit Fenstern, Textreihen und Statusanzeigen. 27.02.2025 KI aus China Wie DeepSeek & Co. die Tech-Branche aufmischen ---------------------------------------------------------------------- Das chinesische Startup DeepSeek hat im Januar ein Börsenbeben ausgelöst. Sein KI-Sprachmodell R1 macht den US-Techgiganten Konkurrenz. Wie gut ist DeepSeek wirklich und welche anderen KI-Entwicklungen aus",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n#### MDR AKTUELL - Das Nachrichtenradio Strengere KI-Regeln für ChatGPT und Co.\n\n#### Strengere KI-Regeln für ChatGPT und Co.\n\nAuf große KI-Systeme kommen in der EU strengere Transparenzpflichten zu\n\nMDR AKTUELL\n\nSa\n02.08.2025\n09:11Uhr\n\n03:09 min\n\nLink des Audios [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Rechte: MITTELDEUTSCHER RUNDFUNK\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "AI Act: Diese neuen KI-Regeln gelten ab heute | BR24",
+                    "url": "https://www.br.de/nachrichten/netzwelt/ai-act-diese-neuen-ki-regeln-gelten-ab-heute,UseXy1J",
+                    "type": "website-preview",
+                    "text": "Heute treten neue EU-Regeln für künstliche Intelligenz in Kraft. Große KI-Modelle müssen in Zukunft mit Datensteckbriefen veröffentlicht werden. Ist der AI Act Verbraucherschutz oder Innovationsbremse?\n\nÜber dieses Thema berichtet: Bayern 2 Die Welt am Morgen am 02.08.2025 um 10:05 Uhr. [...] Der AI Act ist die große KI-Regulierung der Europäischen Union. Er wurde bereits 2024 verabschiedet, kommt aber erst stufenweise zur Anwendung. Heute startet die wichtigste Phase für die großen Tech-Konzerne: Alle Anbieter von sogenannten Foundation-Models – den Grundlagenmodellen, auf denen ChatGPT, Claude oder Gemini basieren – müssen erstmals umfassende Transparenzpflichten erfüllen. [...] Die wichtigste Frage lautet: Schadet sich Europa mit seinen strengen Regeln selbst? Denn während die EU detaillierte Compliance-Vorgaben entwickelt, tut die Trump-Regierung in den USA gerade das genaue Gegenteil: Erst vor einer Woche wurden auch die letzten KI-Regeln aus der Zeit von Joe Biden zurückgenommen. Stattdessen setzen die USA auf massive Investitionen in Rechenzentren und Energieversorgung. Als Gegner im KI-Wettrennen gilt hier China – Europa spielt in der Diskussion praktisch keine",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "7-Tage-Überblick - kompakte News vom 02.08.2025 | tagesschau.de",
+                    "url": "https://www.tagesschau.de/archiv/allemeldungen",
+                    "type": "website-preview",
+                    "text": "Sportschau Logo\nMediathek Logo\nAudiothek Logo\nKiKA Logo\n\n# 4. August 2025\n\n## Nachrichten kompakt\n\n### Nachrichten vom\n\n## 4. August 2025\n\n19:33 Uhr\n\n### Wie sich Trumps Wirtschaftspolitik auswirkt\n\n18:27 Uhr\n\n### Nach Austausch mit AfD: Union distanziert sich von Abgeordneter Ludwig\n\nmarktbericht\n18:11 Uhr\n\n### Marktbericht: DAX wieder im Aufwind\n\nkommentar\n17:48 Uhr\n\n### Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver\n\n17:35 Uhr [...] ### Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern\n\n03:17 Uhr\n\n### Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens\n\n03:01 Uhr\n\n### Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot\n\n03:00 Uhr\n\n### Politiker von Union und SPD fordern mehr Härte bei Bürgergeld\n\n01:44 Uhr\n\n### Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen\n\n## Komplettes Meldungsarchiv\n\nDatumsauswahl - August 2025 [...] ### Israels Regierungschef Netanjahu: \"Die Hamas will keinen Deal\"\n\npodcast\n07:26 Uhr\n\n### Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose\n\n07:24 Uhr\n\n### Verpackungsmüll: So macht Einweg weiter Probleme\n\n07:24 Uhr\n\n### Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts\n\n05:48 Uhr\n\n### Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland\n\n05:47 Uhr\n\n### Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen\n\n05:47 Uhr",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen  \n- Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt  \n- KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus  ",
+          "id": "3abc68ef-787b-4764-9c4f-33f9296ed3a8"
+        }
+      ]
+    }
+  }
+}

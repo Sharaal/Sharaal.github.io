@@ -1,0 +1,3 @@
+- Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen
+- Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt
+- KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus
