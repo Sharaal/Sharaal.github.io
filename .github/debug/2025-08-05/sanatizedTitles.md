@@ -1,0 +1,3 @@
+- Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025
+- Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen
+- DFKI warnt vor trügerischer Erklärbarkeit in KI-Systemen

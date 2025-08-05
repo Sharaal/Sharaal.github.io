@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-05T18:05:29.955Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet,Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten,Tencent-KI \"HunyuanWorld 1.0\" erstellt 3D-Welten in Sekunden,Softbank plant Einsatz von einer Milliarde KI-Agenten in der Wirtschaft,Alibaba präsentiert KI-Brille \"Quark AI Glasses\" als Konkurrenz zu Meta,Spotify lässt erschossenen Musiker mit KI neues Lied singen,KI-gestützter Katzen-Translator: Verstehen, was die Katze will,China schlägt weltweites Regelwerk für KI-Sicherheit vor,OpenAI sichert sich mit 30-Milliarden-Dollar-Deal Rechenkapazitäten bei Oracle,DeepMind und OpenAI erreichen Meilenstein: Sprach-KI glänzt bei Mathe-Olympiade,Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu mehr Fehlern bei KI,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_jO1yIKPrKhZTpvKHulfZknWp",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "fd3b9c00-a1bc-4f8f-8124-31fa2c01dd68"
+        },
+        {
+          "role": "tool",
+          "id": "0daff420-28e5-4369-ba13-9825256b13b7",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_jO1yIKPrKhZTpvKHulfZknWp",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI für den Menschen – Intelligente Lösungen für die ...",
+                    "url": "https://www.dfki.de/web",
+                    "type": "website-preview",
+                    "text": "### ICML 2025: DFKI-Forschung warnt vor trügerischer Erklärbarkeit in KI-Systemen\n   21.07.2025\n2. © Dominik Wagner, Eichmeister Kreativagentur GmbH\n\n   ### Professor Wolfgang Wahlster mit Rudolf-Diesel-Medaille 2025 ausgezeichnet\n   14.07.2025\n3. \n\n   ### Erfolg im EXIST-Leuchtturmwettbewerb Startup Factories: DFKI ist Partner im ausgezeichneten Konsortium Southwest X\n   11.07.2025\n\n# Unsere Forschungsbereiche und Standorte\n\n## Forschungsbereiche und Leitung: [...] ### „AI for Society“ – PwC Deutschland und DFKI starten Initiative für praxistaugliche KI für Verwaltung und Gesellschaft\n   23.07.2025\n2. © Fransiska-Sophie Göttsch\n\n   ### Bremen ist wieder Weltmeister: B-Human siegt beim RoboCup 2025\n   22.07.2025\n3. Portraits Gründungsmitglieder Alangu und Avatar für Gebärdensprachübersetzung\n\n   ### DFKI Spin-off alangu: KI-basierte Gebärdensprachübersetzung als Schlüssel zur digitalen Barrierefreiheit\n   26.06.2025\n\nEvents\n\nAlle Events [...] 1. © Deutsches Auswandererhaus\n\n   ### „Verlockung Weltall“: Neue Ausstellung mit Roboter CESAR im Deutschen Auswandererhaus\n   14.07.2025\n2. © 6G-Plattform\n\n   ### Kooperation in 6G gestärkt: Memorandum of Understanding zwischen Deutschland und Japan\n   07.07.2025\n3. © 6G-Plattform\n\n   ### Berlin 6G Conference 2025: Wie das DFKI vertrauenswürdige KI-Kommunikationssysteme mitgestaltet\n   30.06.2025\n\nWissenschaftliche Exzellenz\n\nAlle Artikel\n\n1. © DFKI",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Das sind die 7 besten KI-Newsletter im August 2025 - BASIC thinking",
+                    "url": "https://www.basicthinking.de/blog/2025/08/05/beste-ki-newsletter/",
+                    "type": "website-preview",
+                    "text": "Aktuelle Nachrichten wie beispielsweise der AI Aktionsplan von US-PrÃ¤sident Donald Trump dienen dabei nur als AufhÃ¤nger. Diese News werden von Fachjournalisten ausfÃ¼hrlich analysiert und in einen grÃ¶Ãeren Kontext eingeordnet. âThe Algorithmâ richtet sich gezielt an ein interessiertes Fachpublikum und Spezialisten, die auf der Suche nach tiefgreifenden Analysen sind. FÃ¼r ein schnelles Screening der wichtigsten KI News ist der Newsletter eher ungeeignet.\n\n## 3. TLDR AI [...] Vodafone Business\n\n### Vodafone Business-Kracher: Doppeltes Datenvolumen + 10 GB pro Monat\n\nKI-Regl EU AI Act KI-Verordnung EuropÃ¤ische Union KÃ¼nstliche Integlligenz\n\n### Neue KI-Regeln: Das Milliarden-Dilemma der EU\n\nEnergiewende wattline GmbH\n\n### Was die Energiewende fÃ¼r Unternehmen wirklich bedeutet\n\nGeothermie Bohrung Quaise Energy ErdwÃ¤rme\n\n### Geothermie: Unternehmen will LÃ¶cher schmelzen statt bohren\n\nLieblingssongs Tech-Bosse, Songs Platten Schallplatten Lieder Vinyl [...] TLDR AI berichtet kurz und knapp Ã¼ber die wichtigsten News und neuen Tools und KI-Programme (Headlines & Launches), fasst eigene Analysen kurz zusammen (Deep Dives & Analysis), prÃ¤sentiert Trends und Entwicklungen fÃ¼r Entwickler und Forscher (Engineering & Research) und schlieÃt mit gemischtes Meldungen (Miscellaneous) und weiterfÃ¼hrenden Link (Quick Links).\n\n## 4. AI Breakfast",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n#### MDR AKTUELL - Das Nachrichtenradio Strengere KI-Regeln für ChatGPT und Co.\n\n#### Strengere KI-Regeln für ChatGPT und Co.\n\nAuf große KI-Systeme kommen in der EU strengere Transparenzpflichten zu\n\nMDR AKTUELL\n\nSa\n02.08.2025\n09:11Uhr\n\n03:09 min\n\nLink des Audios [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Rechte: MITTELDEUTSCHER RUNDFUNK\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "KI | Die Geschichte der Künstlichen Intelligenz | mebis Magazin",
+                    "url": "https://mebis.bycs.de/beitrag/ki-geschichte-der-ki",
+                    "type": "website-preview",
+                    "text": "Fußnoten\n--------\n\n### Autor/in\n\nAK Bildung in der digital vernetzten Welt - Allgemeinbildung\n\n### Veröffentlichung\n\n13\\. Juni 2024\n\n### Letzte Änderung\n\n13\\. Juni 2024\n\n### Empfohlene Zitierweise\n\nAK Bildung in der digital vernetzten Welt - Allgemeinbildung, in: mebis – Landesmedienzentrum Bayern (2024). KI | Die Geschichte der Künstlichen Intelligenz. Verfügbar unter: \n\n### Lizenzangaben\n\n   Beitragsbild: © istock.com/Yevhen Lahunov / bearbeitet\n\nWeitere Beiträge\n---------------- [...] Weitere textgenerierende Systeme anderer US-amerikanischer Technologie-Giganten wie der Bing Chat der Firma Microsoft (Februar 2023) oder Bard der Firma Google (März 2023) wurden kurz darauf veröffentlicht. Seitdem liefern sich diese und andere Unternehmen einen Konkurrenzkampf um Marktanteile und die fortschrittlichsten Sprachmodelle zur Verarbeitung und Erzeugung natürlicher Sprache.\n\nImage 20\n\nISB\n\nBildgenerierende Systeme (Midjourney, Stable Diffusion, Dall-E und Co) [...] Sumit, R. & Senthamilarasu, D. (2020). _Applied Deep Learning and Computer Vision for Self-Driving Cars_ (Build Autonomous Vehicles Using Deep Neural Networks and Behavior-cloning Techniques). Packt Publishing.\n    \n   Turing, A. (2021). _Computing Machinery and Intelligence / Können Maschinen Denken? (Englisch/Deutsch)_ (Great Papers Philosophie). Deutschland: Reclam Verlag.",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "AI Act: Diese neuen KI-Regeln gelten ab heute | BR24",
+                    "url": "https://www.br.de/nachrichten/netzwelt/ai-act-diese-neuen-ki-regeln-gelten-ab-heute,UseXy1J",
+                    "type": "website-preview",
+                    "text": "Heute treten neue EU-Regeln für künstliche Intelligenz in Kraft. Große KI-Modelle müssen in Zukunft mit Datensteckbriefen veröffentlicht werden. Ist der AI Act Verbraucherschutz oder Innovationsbremse?\n\nÜber dieses Thema berichtet: Bayern 2 Die Welt am Morgen am 02.08.2025 um 10:05 Uhr. [...] Der AI Act ist die große KI-Regulierung der Europäischen Union. Er wurde bereits 2024 verabschiedet, kommt aber erst stufenweise zur Anwendung. Heute startet die wichtigste Phase für die großen Tech-Konzerne: Alle Anbieter von sogenannten Foundation-Models – den Grundlagenmodellen, auf denen ChatGPT, Claude oder Gemini basieren – müssen erstmals umfassende Transparenzpflichten erfüllen. [...] Die wichtigste Frage lautet: Schadet sich Europa mit seinen strengen Regeln selbst? Denn während die EU detaillierte Compliance-Vorgaben entwickelt, tut die Trump-Regierung in den USA gerade das genaue Gegenteil: Erst vor einer Woche wurden auch die letzten KI-Regeln aus der Zeit von Joe Biden zurückgenommen. Stattdessen setzen die USA auf massive Investitionen in Rechenzentren und Energieversorgung. Als Gegner im KI-Wettrennen gilt hier China – Europa spielt in der Diskussion praktisch keine",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "EU AI Act Zeitplan: Wichtige Termine und Fristen erklärt - DataGuard",
+                    "url": "https://www.dataguard.de/eu-ai-act/timeline",
+                    "type": "website-preview",
+                    "text": "Haupttermin: August 2026 \n\nAb August 2026 müssen Betreiber von KI-Systemen, die das Potenzial haben, erhebliche Folgen für Einzelpersonen mit sich zu bringen, die EU-KI-Verordnung einhalten. \n\nSo werden beispielsweise Modelle, die in Bereichen wie Biometrie, kritische Infrastrukturen, Bildung, Beschäftigung oder öffentliche Dienste eingesetzt werden, genauer unter die Lupe genommen. [...] # Der Zeitplan für die EU-KI-Verordnung: wichtige Termine für Anbieter, Entwickler und Betreiber\n\nDie EU-KI-Verordnung trat im August 2024 in Kraft und bringt einen schrittweisen Umsetzungszeitplan für Unternehmen, die KI-Produkte entwickeln, verwenden oder importieren. Je nach Risikostufe und Rolle in der Lieferkette gelten unterschiedliche Fristen für die Einhaltung der Vorschriften. Hier finden Sie eine Aufschlüsselung der wichtigsten Daten. [...] August 2025: Für Anbieter, deren GPAI-System noch nicht auf dem Markt ist\n\n August 2026: Für Akteure von KI-Systemen mit hohem Risiko\n\n August 2027: Für Akteure von GPAI-Systemen, die bereits auf dem Markt sind\n\n### Szenario #1: Anbieter von neuen GPAI-Systemen\n\nHaupttermin: August 2025 \n\nKI-Systeme für allgemeine Zwecke, die nach dem 2. August 2025 auf den Markt kommen, müssen den Bestimmungen des Gesetzes entsprechen.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Zalando: KI-Feed treibt starkes Wachstum und Gewinn im Q2 an",
+                    "url": "https://www.wallstreet-online.de/nachricht/19720274-zalando-ki-feed-treibt-starkes-wachstum-gewinn-q2",
+                    "type": "website-preview",
+                    "text": "|  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| DAX23.911,82+0,45 % | Gold3.380,22+0,20 % | Öl (Brent)67,83-1,12 %\") | Dow Jones44.188,38+0,04 % | US Tech 10023.123,26-0,24 % | EUR/USD1,15794+0,08 % | Einstellungen |\n\nEinstellungen\nwallstreetONLINE Logo\nLupe\nSuche\nEntfernen\n\nLight/Dark Switch\nPush Switch\nSmartbroker+\nSmartbroker+\ncheckAd\nvorwärts\nvorwärts\nvorwärts\nAufrufe\n0 Kommentare\n\n# Zalando: KI-Feed treibt starkes Wachstum und Gewinn im Q2 an [...] Zalando setzt im zweiten Quartal 2025 neue Maßstäbe: Mit beeindruckendem Wachstum und innovativen Technologien erobert der Online-Riese die Herzen der Kund\\innen.\n\nZalando: KI-Feed treibt starkes Wachstum und Gewinn im Q2 an\n\nDer nächste wichtige Termin, Veröffentlichung der Ergebnisse des zweiten Quartals 2025, bei Zalando ist am 06.08.2025.",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Geltungsbeginn der Regelungen der KI-VO zu „General Purpose AI“",
+                    "url": "https://www.nomos.de/stichtag-2-august-2025-geltungsbeginn-der-regelungen-der-ki-vo-zu-general-purpose-ai/",
+                    "type": "website-preview",
+                    "text": "Die verwendeten Begriffe sind nicht geschlechtsspezifisch.\n\nStand: 11. Juli 2022\n\n### Inhaltsübersicht [...] neuen Anforderungen zu ergreifen. Der Stichtag des 2. August 2025 markiert jedenfalls den Beginn einer neuen Phase der Regulierung im europäischen Binnenmarkt mit absehbar grundlegenden Weichenstellungen für die europäische Innovationslandschaft. [...] Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025  \n- Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen  \n- DFKI warnt vor trügerischer Erklärbarkeit in KI-Systemen",
+          "id": "9c648466-e3d4-4a28-b914-5f570142b080"
+        }
+      ]
+    }
+  }
+}

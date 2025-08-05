@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-05T18:05:55.718Z",
+    "prompt": "\nSchreibe mir einen News Artikel mit dem Titel \"Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen\". \nDer Artikel soll etwa 1 Seite lang sein und mit Markdown formatiert sein. Der Titel soll nicht im Artikel enthalten sein, der Artikel soll direkt mit dem ersten Absatz beginnen. Füge ein <!--more--> zwischen dem ersten und zweiten Absatz ein.\nVerwende dabei nur Informationen der letzten 7 Tage, sodass der Artikel nur die aktuellen Neuigkeiten zu dem Thema enthält.\nFüge am Ende des Artikels einen Absatz mit den verlinkten Quellen hinzu.\nDer Artikel soll in deutscher Sprache sein.\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_fg1VnXbt0dBWHZKPbBnG2srX",
+              "toolName": "web_search",
+              "args": {
+                "query": "Meta AI europäische Handys Datenschützer Warnung August 2025"
+              }
+            }
+          ],
+          "id": "fa4a5e78-be6c-4750-852c-59c03c99de0d"
+        },
+        {
+          "role": "tool",
+          "id": "f3a610e6-a4c6-4568-a5da-28bcad88762e",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_fg1VnXbt0dBWHZKPbBnG2srX",
+              "toolName": "web_search",
+              "result": {
+                "input": "Meta AI europäische Handys Datenschützer Warnung August 2025",
+                "output": [
+                  {
+                    "title": "2.8.2025: EU-AI-Regelung gilt; Google unterzeichnet AI Act - BornCity",
+                    "url": "https://www.borncity.com/blog/2025/08/01/google-unterzeichnet-ai-akt-meta-verweigert-sich-italien-untersucht-ai-in-whatsapp/",
+                    "type": "website-preview",
+                    "text": "ParagraphNoch einige KI-Informationssplitte aus dem Gebiet \"Rechtliches\". Zum 2. August 2025 wird in der EU die neue AI-Regulierung (AI Act) wirksam. Dazu gibt es in der EU AI code of practice, der Regeln für den KI-Einsatz festlegt. Google hat erklärt, sich an diesen AI Codex zu halten und den AI Act zu unterzeichnen. Meta lehnt das vehement ab. Italien hat nun eine Prüfung gegen Meta eingeleitet, weil die Meta AI in WhatsApp ohne Nutzerzustimmung eingeführt wurde.\n\nParagraph [...] ## Italien untersucht Meta AI in WhatsApp\n\nItalien hat derweil eine Untersuchung gegen Meta eingeleitet, weil in WhatsApp einen Meta AI zum Einsatz kommt. Der Vorwurf lautet, dass Meta keine Nutzerzustimmung dazu einholt. Das geht aus einer Pressemitteilung der italienischen Behörden hervor. Euroactiv hat das Thema in diesem Beitrag weiter aufbereitet. Ein deutschsprachiger Beitrag findet sich bei heise. [...] ### Google akzeptiert AI code of practice\n\nGoogle hat zum 30. Juli 2025 im Blog-Beitrag We will sign the EU AI Code of Practice erklärt, sich gemeinsam mit mehreren anderen Unternehmen, darunter auch US-amerikanische Modellanbieter, dem Verhaltenskodex der Europäischen Union für allgemeine KI anzuschließen.\n\n### Meta lehnt den Codex ab",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Meta stellt sich gegen die KI-Pläne der EU | heise online",
+                    "url": "https://www.heise.de/news/Meta-stellt-sich-gegen-die-KI-Plaene-der-EU-10493568.html",
+                    "type": "website-preview",
+                    "text": "Ab dem 2. August 2025 gilt die in Artikel 50 des AI Acts verankerte Kennzeichnungspflicht für KI-generierte Inhalte. Dieses wichtige Kapitel des Acts bezieht sich auf die sogenannte \"General Purpose AI\" (GPAI), also Systeme wie Sprach-KIs, Bildgeneratoren und Musikkomponiermaschinen. Fast alle Anbieter haben ihren Firmensitz in den USA, beispielsweise der Anbieter von GPT, OpenAI, sowie Anthropic (Claude), Google (Gemini) und Meta (Llama). [...] Kurz vor Inkrafttreten eines weiteren Teils der EU-KI-Verordnung („AI Act“) hat Meta, der US-Konzern hinter Facebook und Instagram, entschieden, den freiwilligen Verhaltenskodex der Europäischen Kommission für KI-Anbieter nicht zu unterzeichnen. Der Konzern kritisiert den Kodex als rechtlich unsicher, überregulierend und innovationsfeindlich. [...] In einem LinkedIn Post schreibt Joel Kaplan, Chief Global Affairs Officer bei Meta: \"Europa ist bei der KI auf dem Holzweg. Wir haben den Verhaltenskodex der Europäischen Kommission für allgemeine KI-Modelle (GPAI) sorgfältig geprüft, und Meta wird ihn nicht unterzeichnen.\" Laut Kaplan behindert der Kodex europäische KI-Innovationen. Er könne die Entwicklung und fortschrittlicher KI-Modelle bremsen und die Möglichkeiten von Start-ups einschränken.",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Meta AI auch in Europa: Hilfreiches Tool oder ungehemmte ...",
+                    "url": "https://www.tagesschau.de/wirtschaft/digitales/meta-ai-104.html",
+                    "type": "website-preview",
+                    "text": "Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Über WhatsApp hat sich Sven Geitz mit einem",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "Am 2. August 2025 treten in der EU verbindliche Regeln für KI-Modelle mit allgemeinem Verwendungszweck in Kraft – und das betrifft direkt",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "EU-Kommission gibt Orientierung für neue KI-Regeln ab August",
+                    "url": "https://de.finance.yahoo.com/nachrichten/eu-kommission-gibt-orientierung-f%C3%BCr-122638397.html",
+                    "type": "website-preview",
+                    "text": "Die Pflichten gelten zwar ab August 2025, die behördliche Kontrolle wird jedoch gestaffelt eingeführt: Ab 2026 kann das neu geschaffene EU-KI-",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Neuer blauer Kreis bei WhatsApp: Was steckt dahinter? | MDR.DE",
+                    "url": "https://www.mdr.de/ratgeber/digitales/blauer-kreis-meta-whats-app-ki-ai-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nMeta AI auf einem Smart Phone mit den Logos verschiedener soialer Netzwerke\nMeta AI auf einem Smart Phone mit den Logos verschiedener soialer Netzwerke\n\n# Servicestunde | 08.04.2025 Neuer blauer Kreis bei WhatsApp: Was steckt dahinter?\n\n## Hauptinhalt\n\n08. April 2025, \n15:00 Uhr [...] Eva Maria Weiß vom IT-Magazin Heise Online erklärt: Der blaue Kreis sei das Logo von Meta und stehe für die Integration einer neuen KI-Funktion namens \"Meta AI\". Diese künstliche Intelligenz ist bereits in den USA und anderen Ländern verfügbar und wird nun auch in Deutschland und der EU eingeführt.\n\n### Warum sehe ich einen blauen Kreis bei WhatsApp? [...] Meta betont, dass die KI keine vollständige Überwachung der WhatsApp-Kommunikation ermöglicht. Die Chats bleiben Ende-zu-Ende verschlüsselt und nur die Kommunikationspartner können die Nachrichten lesen. Die KI verarbeitet jedoch die Anfragen und speichert die Daten, was bei sensiblen Fragen bedacht werden sollte.\n\n### Neuer Abschnitt",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "AI Act: Meta verweigert sich freiwilligen EU-Sicherheitsrichtlinien",
+                    "url": "https://www.golem.de/news/ai-act-meta-stellt-sich-gegen-ki-plaene-der-eu-2507-198276.html",
+                    "type": "website-preview",
+                    "text": "Für die Ihnen angezeigten Verarbeitungszwecke können Cookies, Geräte-Kennungen\noder andere Informationen auf Ihrem Gerät gespeichert oder abgerufen werden. [...] Für die Nutzung mit Werbung:\nWir erheben personenbezogene Daten und übermitteln diese auch an bis zu 160 Drittanbieter,\ndie uns helfen, unsere Webseite und Angebote zu verbessern und zu finanzieren.\nEine Verarbeitung der auf Ihrem Gerät gespeicherten Informationen - z. B. Cookies\noder persönliche Identifikatoren wie IP-Adressen - sowie Ihres individuellen Nutzungsverhaltens\nerfolgt dabei zu den folgenden Zwecken: [...] Es können genaue Standortdaten verarbeitet werden,\num sie für einen oder mehrere Verarbeitungszwecke zu nutzen.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "WhatsApp zeigt blauen Ring für Meta AI: So schalten Sie ihn aus",
+                    "url": "https://www.stern.de/digital/smartphones/whatsapp-zeigt-blauen-ring-fuer-meta-ai--so-schalten-sie-ihn-aus-35607340.html",
+                    "type": "website-preview",
+                    "text": "Meta hat seine KI in WhatsApp, Instagram & Co. integriert – sehr zum Ärger vieler Nutzer. Doch der Bot lässt sich abschalten. So geht's.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Regeln für ChatGPT: So will die EU die KI-Verordnung umsetzen",
+                    "url": "https://netzpolitik.org/2025/regeln-fuer-chatgpt-so-will-die-eu-die-ki-verordnung-umsetzen/",
+                    "type": "website-preview",
+                    "text": "KI-Systeme wie ChatGPT müssen sich ab dem 2. August an die KI-Verordnung halten. Mit neuen Leitlinien und einem Kodex will die EU-Kommission",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "KI in Europa: Google unterstützt Verhaltenskodex der EU - Golem.de",
+                    "url": "https://www.golem.de/news/ki-in-europa-google-unterstuetzt-verhaltenskodex-der-eu-2507-198695.html",
+                    "type": "website-preview",
+                    "text": "Für die Ihnen angezeigten Verarbeitungszwecke können Cookies, Geräte-Kennungen\noder andere Informationen auf Ihrem Gerät gespeichert oder abgerufen werden. [...] Für die Nutzung mit Werbung:\nWir erheben personenbezogene Daten und übermitteln diese auch an bis zu 160 Drittanbieter,\ndie uns helfen, unsere Webseite und Angebote zu verbessern und zu finanzieren.\nEine Verarbeitung der auf Ihrem Gerät gespeicherten Informationen - z. B. Cookies\noder persönliche Identifikatoren wie IP-Adressen - sowie Ihres individuellen Nutzungsverhaltens\nerfolgt dabei zu den folgenden Zwecken: [...] Anzeigen und Inhalte können basierend auf einem Profil personalisiert werden.\nEs können mehr Daten hinzugefügt werden, um Anzeigen und Inhalte besser zu personalisieren.\nDie Performance von Anzeigen und Inhalten kann gemessen werden.\nErkenntnisse über Zielgruppen, die die Anzeigen und Inhalte betrachtet haben, können abgeleitet werden.\nDaten können verwendet werden, um Benutzerfreundlichkeit, Systeme und Software aufzubauen oder zu verbessern.",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "```markdown\nMeta hat seine KI-Plattform „Meta AI“ nun auch auf europäischen Smartphones verfügbar gemacht. Die Integration erfolgt über beliebte Apps wie WhatsApp und Instagram, was für viele Nutzer zunächst wie ein praktisches Upgrade erscheint. Die KI soll dabei helfen, Anfragen schneller zu beantworten, Inhalte zu generieren und die Kommunikation zu verbessern. Doch Datenschützer schlagen Alarm: Die Nutzung der KI könnte die Ende-zu-Ende-Verschlüsselung von Nachrichten untergraben und sensible Daten gefährden. Besonders in Italien wurde bereits eine Untersuchung eingeleitet, da Meta die Zustimmung der Nutzer für die Aktivierung der KI nicht eingeholt haben soll.\n\n<!--more-->\n\nDie Einführung von Meta AI fällt zeitlich mit dem Inkrafttreten des EU-weiten „AI Act“ zusammen, der strengere Regeln für den Einsatz von Künstlicher Intelligenz vorschreibt. Während andere Tech-Giganten wie Google den neuen Verhaltenskodex der EU unterzeichnet haben, lehnt Meta diesen ab. Der Konzern kritisiert die Regelungen als innovationsfeindlich und rechtlich unsicher. Datenschützer hingegen sehen in Metas Vorgehen eine Missachtung der europäischen Datenschutzstandards. Besonders problematisch sei, dass die KI Anfragen speichert und verarbeitet, was bei sensiblen Themen ein erhebliches Risiko darstellt.\n\nDie Diskussion um Meta AI zeigt, wie schwierig der Balanceakt zwischen technologischer Innovation und Datenschutz ist. Während Meta betont, dass die Chats weiterhin verschlüsselt bleiben, warnen Experten davor, dass die KI dennoch Zugriff auf Metadaten und Inhalte haben könnte. Nutzer sollten sich daher bewusst sein, welche Daten sie preisgeben und wie diese verarbeitet werden.\n\n### Quellen\n- [BornCity: Italien untersucht Meta AI in WhatsApp](https://www.borncity.com/blog/2025/08/01/google-unterzeichnet-ai-akt-meta-verweigert-sich-italien-untersucht-ai-in-whatsapp/)\n- [Heise Online: Meta stellt sich gegen die KI-Pläne der EU](https://www.heise.de/news/Meta-stellt-sich-gegen-die-KI-Plaene-der-EU-10493568.html)\n- [Tagesschau: Meta AI auch in Europa – Datenschützer warnen](https://www.tagesschau.de/wirtschaft/digitales/meta-ai-104.html)\n```",
+          "id": "58ce8961-6d1d-4d09-a4e6-d787f914bf30"
+        }
+      ]
+    }
+  }
+}
