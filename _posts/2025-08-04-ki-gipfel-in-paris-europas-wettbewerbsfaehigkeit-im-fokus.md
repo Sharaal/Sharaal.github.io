@@ -5,8 +5,6 @@ title: "KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus"
 aigenerated: true
 ---
 
-### KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus
-
 In Paris fand in dieser Woche der "Artificial Intelligence Action Summit 2025" statt, bei dem sich führende Politiker, Wissenschaftler und Vertreter der Technologiebranche aus über 100 Ländern trafen. Ziel des Gipfels war es, Europas Position im globalen Wettbewerb um Künstliche Intelligenz (KI) zu stärken und eine gemeinsame Strategie für die Zukunft zu entwickeln. Frankreichs Präsident Emmanuel Macron betonte in seiner Eröffnungsrede die Notwendigkeit, Europa als führende KI-Macht zu etablieren, um den technologischen Supermächten USA und China Paroli bieten zu können. Dabei wurden Investitionen in Höhe von 30 bis 50 Milliarden Euro angekündigt, die unter anderem in den Aufbau eines europäischen KI-Campus in Paris fließen sollen.  
 
 <!--more-->

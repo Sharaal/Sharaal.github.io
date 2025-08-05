@@ -5,8 +5,6 @@ title: "Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen"
 aigenerated: true
 ---
 
-### Neue EU-Regeln für KI-Anbieter: Transparenz im Fokus
-
 Seit dem 2. August 2025 gelten in der Europäischen Union neue, strengere Vorschriften für Anbieter von Künstlicher Intelligenz (KI). Der sogenannte EU AI Act verpflichtet Unternehmen, die KI-Modelle mit allgemeinem Verwendungszweck entwickeln, ihre Trainingsdaten offenzulegen. Ziel ist es, mehr Transparenz und Sicherheit im Umgang mit KI-Systemen zu schaffen. Besonders betroffen sind Anbieter wie OpenAI, Google und andere, die generative KI-Modelle wie ChatGPT oder Gemini betreiben. Die neuen Regeln sollen sicherstellen, dass die Herkunft und Qualität der Daten, mit denen KI-Systeme trainiert werden, nachvollziehbar sind.  
 
 <!--more-->
