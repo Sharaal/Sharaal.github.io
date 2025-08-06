@@ -1,0 +1,3 @@
+- BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten
+- Deepseek-App wegen Datenschutzverstößen in Deutschland verboten
+- MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt

@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-06T18:05:15.583Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet,Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten,Tencent-KI \"HunyuanWorld 1.0\" erstellt 3D-Welten in Sekunden,Softbank plant Einsatz von einer Milliarde KI-Agenten in der Wirtschaft,Alibaba präsentiert KI-Brille \"Quark AI Glasses\" als Konkurrenz zu Meta,Spotify lässt erschossenen Musiker mit KI neues Lied singen,KI-gestützter Katzen-Translator: Verstehen, was die Katze will,China schlägt weltweites Regelwerk für KI-Sicherheit vor,Anthropic enthüllt Denkzeit-Paradox: Längeres Nachdenken führt zu mehr Fehlern bei KI,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_MtIyrK6lJTpYvtwzBQEJK06N",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "0855c540-a9bb-4b9d-9f6c-dcc26d222d6e"
+        },
+        {
+          "role": "tool",
+          "id": "aafd0d5f-df5f-4d89-9e40-a9da5b87804f",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_MtIyrK6lJTpYvtwzBQEJK06N",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Er soll eine neue Generation von Geräten für Künstliche Intelligenz entwerfen. Die Menschen in Deutschland nutzen immer häufiger und intensiver Anwendungen Künstlicher Intelligenz, zeigt eine Umfrage vom Digitalverband Bitkom. Gleichzeitig fürchten viele die Abhängigkeit von KI-Anbietern aus dem Ausland. Europa will in der Entwicklung und Anwendung Künstlicher Intelligenz weniger abhängig von den USA und von China werden. Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. KI und der Energieverbrauch Europa will in Sachen KI nicht abgehängt werden und fördert die dafür nötigen Supercomputer. Europa und USA uneins über Umgang mit Künstlicher Intelligenz Europa und USA uneins über Umgang mit Künstlicher Intelligenz Von T.",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Strengere KI-Regeln für ChatGPT und Co. treten in Kraft - Tagesschau",
+                    "url": "https://www.tagesschau.de/ausland/europa/eu-regeln-ki-100.html",
+                    "type": "website-preview",
+                    "text": "Für ChatGPT, Gemini und andere große Systeme künstlicher Intelligenz gelten in Europa ab heute strengere Regeln. Worum geht es - und welche",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen.",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Ratgeber und Tipps | heise online",
+                    "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+                    "type": "website-preview",
+                    "text": "KI-Update: Neue OpenAI-Modelle, KI am Schachbrett, AI-Slop, Genie 3, KI-Hasen. Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Neue EU-KI-Regeln ab August 2025 - Althammer & Kill",
+                    "url": "https://www.althammer-kill.de/aktuelles/news/detail/neue-ki-regeln-august-2025",
+                    "type": "website-preview",
+                    "text": "Die EU-KI-Verordnung bringt ab dem 2. August 2025 neue, verbindliche Vorgaben für GPAI-Modelle, insbesondere für solche mit systemischem",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Aktuelle Nachrichten & Hintergründe",
+                    "url": "https://www.zdfheute.de/thema/kuenstliche-intelligenz-ki-100.html",
+                    "type": "website-preview",
+                    "text": "Was ist künstliche Intelligenz? Welche Beispiele von Textgenerator bis Bilderstellung gibt es? Ist KI fehlerfrei? Aktuelle News und Hintergründe.",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "KI - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/ki",
+                    "type": "website-preview",
+                    "text": "EU-Gesetz für künstliche Intelligenz Strengere Regeln für ChatGPT und Co. in Kraft · TikTok Wie mit KI-Videos Rassismus verbreitet wird.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "Klicken Sie auf \"Alle Cookies erlauben\", um alle Arten von Cookies zu akzeptieren oder klicken Sie auf \"Einstellungen übernehmen\" um nur jene Cookies zu zulassen, die für den Betrieb und Funktion der Webseite unbedingt erforderlich sind. Die gehypte KI-App Deepseek sei nach Ansicht der Berliner Datenschutzverantwortlichen Meike Kamp \"rechtswidriger Inhalt\" und somit aus den App-Stores von Google und Apple zu entfernen.Kamp wirft DeepSeek eine illegale Übermittlung von personenbezogenen Daten von Nutzerinnen und Nutzern der App nach China vor. Image 20 Wie Cheeer und Sport1 Fan Engagement neu denken wollen – mit KI --------------------------------------------------------------- Eine digitale Sportsfreundin zur EM, die alle News kennt und Fragen beantwortet: Mit diesem Konzept möchte die neue Partnerschaft zwischen dem Schweizer Startup Cheeer und Sport1 das Fan Engagement auf eine neue Ebene heben – mit Unterstützung von Künstlicher Intelligenz.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Business, Forschung & mehr | THE ...",
+                    "url": "https://the-decoder.de/",
+                    "type": "website-preview",
+                    "text": "Ähnlich wie bei Safe Super Intelligence, dem Start-up des Ex-OpenAI-Chefwissenschaftlers Ilya Sutskever, das mit mehr als 30 Milliarden bewertet wird, basiert die Bewertung wohl in erster Linie auf den handelnden Personen: Beide Unternehmen haben keine öffentlich bekannten Produkte oder Umsätze, dafür aber einen namhaften Ruf. Anders als SSI verspricht Muratis Start-up keine Superintelligenz; stattdessen soll es um eine Mensch-KI-Zusammenarbeit und anpassbare KI-Systeme gehen. **Die BBC droht dem US-KI-Start-up Perplexity mit rechtlichen Schritten wegen angeblich unerlaubter Nutzung von BBC-Inhalten zum Training von KI-Systemen.** In einem Schreiben fordert die BBC unter anderem das Ende des sogenannten \"Scrapings\", die Löschung gespeicherter Inhalte und eine finanzielle Entschädigung. Die BBC kritisiert, dass Perplexity Inhalte wortwörtlich übernommen habe, damit eigene Angebote unterlaufe und sein Standard-KI-Modell Sonar mit BBC-Inhalten trainiert zu haben.",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "7-Tage-News | heise online",
+                    "url": "https://www.heise.de/newsticker/",
+                    "type": "website-preview",
+                    "text": "*   14:00 Uhr### Kochautomat: Bosch Cookit im Test 38 Kommentare heise+ exklusiv *   09:00 Uhr### Mit Muse durch die eigenen Fotos: Musebox für den Mac im Test 2 Kommentare Mac & i *   10:30 Uhr### Zwei externe Webcams für den Mac im Test – mit besonderen Funktionen 3 Kommentare Mac & i *   12:08 Uhr### MIT: Imaging-System lässt Roboter in verschlossene Boxen gucken 3 Kommentare mit Video *   10:30 Uhr### Fünf Tracker für Googles Find-My-Device-Netzwerk im Test 5 Kommentare heise+ exklusiv *   17:30 Uhr### Zwei Docks mit Thunderbolt 5 im Test 1 Kommentare c't Magazin *   12:00 Uhr### c't-Webinar: Digitaler Baukasten für Fachabteilungen heise-Angebot 3 Kommentare c't Magazin *   10:00 Uhr### c't-Workshop: Einführung in den Kea-DHCP-Server heise-Angebot 3 Kommentare c't Magazin",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten  \n- Deepseek-App wegen Datenschutzverstößen in Deutschland verboten  \n- MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt  ",
+          "id": "0d11f4ff-04a8-4f91-b81d-dfb8355c5585"
+        }
+      ]
+    }
+  }
+}
