@@ -5,8 +5,6 @@ title: "Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 a
 aigenerated: true
 ---
 
-### Meta-Chef kritisiert generative KI und stellt V-JEPA 2 vor
-
 In einer überraschenden Wendung hat Yann LeCun, der Chefwissenschaftler von Meta, generative KI-Modelle als "Sackgasse" bezeichnet. Während viele Unternehmen auf generative Ansätze wie ChatGPT oder Bildgeneratoren setzen, verfolgt Meta mit dem neuen Modell V-JEPA 2 einen fundamental anderen Ansatz. LeCun argumentiert, dass generative KI zwar beeindruckende Ergebnisse liefern könne, jedoch nicht in der Lage sei, ein tiefes Verständnis der physikalischen Welt zu entwickeln. Stattdessen setzt Meta auf die sogenannte "Joint Embedding Predictive Architecture" (JEPA), die es V-JEPA 2 ermöglicht, physikalische Zusammenhänge zu verstehen und vorherzusagen.
 
 <!--more-->
