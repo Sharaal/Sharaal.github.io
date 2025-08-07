@@ -1,0 +1,3 @@
+- Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland
+- Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung
+- Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative

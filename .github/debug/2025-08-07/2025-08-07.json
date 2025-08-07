@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-07T18:05:27.577Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet,Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten,Tencent-KI \"HunyuanWorld 1.0\" erstellt 3D-Welten in Sekunden,Softbank plant Einsatz von einer Milliarde KI-Agenten in der Wirtschaft,Alibaba präsentiert KI-Brille \"Quark AI Glasses\" als Konkurrenz zu Meta,China schlägt weltweites Regelwerk für KI-Sicherheit vor,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_wNP8BER8qzdBAWfiu9T36wmq",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "23f7a2dc-3a23-46ae-8f17-74ffc1e14215"
+        },
+        {
+          "role": "tool",
+          "id": "043a094f-5f61-48b3-bc7d-f5db35a27b84",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_wNP8BER8qzdBAWfiu9T36wmq",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Aktuelle Nachrichten & Hintergründe",
+                    "url": "https://www.zdfheute.de/thema/kuenstliche-intelligenz-ki-100.html",
+                    "type": "website-preview",
+                    "text": "Widerspruchsfrist endet:Meta startet KI-Training mit Nutzerdaten\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nImage 15: 26.07.2023, Baden-Württemberg, Karlsruhe: Schüler eines Gymnasiums sitzen vor einem Computer und benutzen ein KI-Tool.\n\nmit Video [...] Aktuelle Nachrichten zu Künstlicher Intelligenz\n-----------------------------------------------\n\nImage 1: Unterricht an einer Grundschule\n\nProjekt in Sachsen-Anhalt:Wie KI bei Lehrermangel helfen kann\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nvon Lana Ulman\n\nImage 2: Gorilladame Fatou feiert 68. Geburtstag im Zoo Berlin\n\n9:04 min [...] Nachrichten | heute:KI-Einsatz in der Medizin\n------------------------------------------------------------------------------------------------------------------------------------\n\nvon Laura Koop\n\nImage 7: heute journal - der Podcast mit Stefan Leifert und Dunja Hayali\n\n46:45 min",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: Aktuelle News, Informationen & Diskussionen",
+                    "url": "https://www.welt.de/themen/kuenstliche-intelligenz/",
+                    "type": "website-preview",
+                    "text": "#### Nvidia plant in Deutschland erste KI-Plattform für industrielle Anwendungen\n\nDer US-Konzern Nvidia will in Deutschland die erste KI-Plattform mit Fokus auf industrielle Anwendungen aufbauen. Das kündigte Nvidia-Chef Huang in Paris an. Am Freitag werde er dazu Kanzler Merz in Berlin treffen.\n\n   40 Sek\n\nImage 7: Apple CEO Tim Cook waves during Apple's annual World Wide Developers Conference at the company's headquarters in Cupertino, California, U.S., June 9, 2025. REUTERS/Laure Andrillon [...] Image 50: (FILES) This photo illustration taken on January 13, 2025 in Toulouse shows screens displaying the logos of xAI and Grok, a generative artificial intelligence chatbot developed by xAI, the American company specializing in artificial intelligence and it's founder South African businessman Elon Musk. Musk on March 28, 2025 said his artificial intelligence startup xAI is buying his social networking platform X in a deal valuing the company once known as Twitter at $33 billion. (Photo by [...] Image 16: 23.05.2025, Sachsen, Dresden: Die Logos der Apps von Facebook (l-r), Messenger, Instagram und WhatsApp werden auf dem Bildschirm eines iPhone vor dem Logo der KI-Software Meta AI des Facebook-Konzern Meta angezeigt (Illustration). Im Fall der Eil-Klage von Verbraucherschützern gegen den Facebook-Konzern Meta wegen der geplanten Verwendung von Nutzerdaten für KI-Training will das Oberlandesgericht Köln seine Entscheidung am Freitag verkünden. Foto: Sebastian Kahnert/dpa +++",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "KI - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/ki",
+                    "type": "website-preview",
+                    "text": "Sportschau Logo\nMediathek Logo\nAudiothek Logo\nKiKA Logo\n\n# KI - aktuelle Nachrichten\n\n## KI\n\nElon Musk\n\n### Geldregen für Neuralink Musks Gehirnchip-Firma - Fortschritt oder Risiko?\n\nElon Musk hat sich für seine Gehirnchip-Firma Neuralink weitere 650 Millionen Dollar besorgt. Das bringt den Milliardär seinem Ziel, einer Symbiose von Mensch und KI, wieder ein Stück näher. Von Angela Göpfert.\nmehr\n\n15 Minuten. Der tagesschau-Podcast am Morgen [...] Eine Gewitterfront zieht am Abend über den Großraum Ulm hinweg.\n\n### Deutscher Wetterdienst Süddeutschland stehen schwere Unwetter bevor\n\nDie Talbrücke Rinsdorf an der Autobahn 45 im nordrhein-westfälischen Siegerland.\n\n### A45 in Nordrhein-Westfalen 70 Meter hohe Talbrücke erfolgreich verschoben\n\nCansin Köktürk\n\n### Bundestag Rauswurf wegen \"Palestine\"-Shirts\n\nSendungsbild\n\nSendung\n\n### tagesschau 20:00 Uhr, 04.06.2025 [...] Nach dem Messerangriff in Hamburg: Wie Bahnhöfe sicherer werden könnten. Instagram und Facebook wollen ihre KI mit Nutzerdaten trainieren. Wie eine neue Spritze Neurodermitis-Patienten helfen kann.\nardaudiothek\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Stauvermeidung durch KI\n\nSendungsbild",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "KI News: Aktuelle Nachrichten zur Künstlichen Intelligenz",
+                    "url": "https://www.handelsblatt.com/themen/kuenstliche-intelligenz",
+                    "type": "website-preview",
+                    "text": "Published Time: 2018-08-31T15:12:08+02:00\n\nKI News: Aktuelle Nachrichten zur Künstlichen Intelligenz\n\n===============\n\nMenü\n\n\n\nHandelsblatt Abo Suche  \n\nAnmelden\n\n   Meine News \n\n   Image 79: H+ Exklusiv für Abonnenten \n\n   Newsletter \n\n   Podcasts \n\n   ePaper \n\n   Startseite \n\n   Schlagzeilen \n\n   Finanzen \n       Märkte \n\n       Banken + Versicherungen \n\n       Anlagestrategie \n\n       Immobilien \n\n       Musterdepots \n\n       Vorsorge \n\n       Steuern + Recht \n\n       Geldpolitik [...] Journalismus Live \n\n   Wochenende \n\n   Energie-Technik\n   Ukraine\n   Inflation\n   US-Strafzölle\n   Elektromobilität\n\nAlle Themen\n\n   Newsletter \n\n   Podcasts \n       Morning Briefing \n\n       Today \n\n       Disrupt \n\n       KI-Briefing \n\n       Economic Challenges \n\n       Crime \n\n       Rethink Work \n\n       Green & Energy \n\n       Deals \n\n       Beyond the obvious \n\n       Wall Street mit Markus Koch \n\n   Videos \n       Unternehmen \n\n       Finanzen \n\n       Politik \n\n       Panorama [...] Börsenkurse \n\n   Unternehmen \n       Industrie \n\n       Energie \n\n       Handel + Konsumgüter \n\n       Dienstleister \n\n       Medien \n\n       Mittelstand \n\n       Management \n\n   Politik \n       Deutschland \n\n       Konjunktur \n\n       International \n\n       Research Institute \n\n   Technologie \n       IT + Telekommunikation \n\n       Künstliche Intelligenz \n\n       Forschung + Innovation \n\n       Gadgets \n\n       Medizin + Gesundheit \n\n   Mobilität \n       Oldtimer \n\n       Motor",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Business, Forschung & mehr | THE ...",
+                    "url": "https://the-decoder.de/",
+                    "type": "website-preview",
+                    "text": "# THE-DECODER.de\n\nKI-News 24/7: Wirtschaft, Forschung & mehr\n\n## MIT-Studie zeigt \"kognitive Schuld\" durch ChatGPT - was das für die Praxis bedeutet\n\nMIT-Studie zeigt \n\n## Metas KI-Chef nennt generative KI eine Sackgasse - und liefert mit V-JEPA 2 die Alternative\n\nMetas KI-Chef nennt generative KI eine Sackgasse - und liefert mit V-JEPA 2 die Alternative\n\n## Alle Apple-Intelligence-Updates von der WWDC 25 auf einen Blick\n\nAlle Apple-Intelligence-Updates von der WWDC 25 auf einen Blick [...] ## EmoNet: Open-Source-KI soll menschliche Emotionen verstehen\n\nEmoNet: Open-Source-KI soll menschliche Emotionen verstehen\nEmoNet: Open-Source-KI soll menschliche Emotionen verstehen\n\n## Meta-Chef Zuckerberg wirft im KI-Wettrennen mit Milliarden um sich\n\nMeta-Chef Zuckerberg wirft im KI-Wettrennen mit Milliarden um sich\nMeta-Chef Zuckerberg wirft im KI-Wettrennen mit Milliarden um sich\n\n## Hailuo 02: MiniMax verbessert Video-KI und ist deutlich günstiger als Google [...] ## Apple denkt angeblich über Perplexity-Übernahme nach – Meta ist schon abgeblitzt\n\nApple denkt angeblich über Perplexity-Übernahme nach – Meta ist schon abgeblitzt\nApple denkt angeblich über Perplexity-Übernahme nach – Meta ist schon abgeblitzt\n\n## Google startet Audio-Suche-Chat und AI Audio Overviews\n\nGoogle startet Audio-Suche-Chat und AI Audio Overviews\nGoogle startet Audio-Suche-Chat und AI Audio Overviews",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n#### MDR AKTUELL - Das Nachrichtenradio Strengere KI-Regeln für ChatGPT und Co.\n\n#### Strengere KI-Regeln für ChatGPT und Co.\n\nAuf große KI-Systeme kommen in der EU strengere Transparenzpflichten zu\n\nMDR AKTUELL\n\nSa\n02.08.2025\n09:11Uhr\n\n03:09 min\n\nLink des Audios [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Rechte: MITTELDEUTSCHER RUNDFUNK\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Ratgeber und Tipps | heise online",
+                    "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+                    "type": "website-preview",
+                    "text": "### Preisanstieg bei KI-Coding-Tools: The Free Lunch Is Over\n\nNach einer Phase unglaublich günstiger Angebote für Dienste zur KI-gestützten Programmierung haben alle Anbieter nun die Limits begrenzt und die Preise erhöht.\n\nNvidias KI-Beschleuniger H100\n\n### Nvidias Antwort an China: Kill-Switch wäre \"eine offene Einladung für Desaster\"\n\nNvidia weist Anschuldigungen der chinesischen Regierung entschieden zurück. Die eigenen KI-Chips sollen keine Hintertüren aufweisen. [...] Der Thementag am 29. Oktober gibt einen Überblick über aktuelle Entwicklungen und hilft, das passende LLM für den Einsatz im Unternehmen auszuwählen.\n\nFinger blauer KI-Hand zeigt auf Finger einer menschlichen Hand\n\n### KI-Agenten, Teil 3: Adaptive Designs optimieren Entwicklung und Nutzererlebnis\n\nKI-Agenten verändern die digitale Produktentwicklung: Mit individuellen Anpassungen rücken Effizienz und Nutzerfokus zusammen. [...] ### Wie Studierende KI an der Uni nutzen – und was Experten davon halten\n\nKI verändert den Hochschulalltag. Studierende nutzen KI für Hausarbeiten, was neue Herausforderungen für die Wissensabfrage schafft. Wie reagieren Hochschulen?\n\n### KI-Update: Neue OpenAI-Modelle, KI am Schachbrett, AI-Slop, Genie 3, KI-Hasen\n\nDas \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.\n\nCounting,Euro,Banknote,Falling,Isolated.,Money,Cash,Texture,On,White",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz & Machine Learning News - t3n",
+                    "url": "https://t3n.de/tag/kuenstliche-intelligenz/",
+                    "type": "website-preview",
+                    "text": "Netzwerktechniker (m/w/d)\n\nnetgo\n\nvor 2 Tagen\n\n10115 Berlin\n\nMatrix42 Consultant (m/w/d)\n\nnetgo\n\nvor 2 Tagen\n\n10115 Berlin\n\nSplunk Engineer, Schwerpunkt Managed Services m/w/d\n\nConsist Software Solutions GmbH\n\nvor 3 Tagen\n\n10115 Berlin\n\n1\n\n2\n\n3\n\nAlle JobsDeinen Job jetzt schalten!\n\nSpreading knowledge & future optimism.\n\nyeebase media [...] Künstliche Intelligenz & Machine Learning News | t3n\n===============\n                                   \n\nAnzeige\n\nAnzeige\n\nt3n – digital pioneers konfrontiert. Beide sind Oberbegriff für eine Technologie, die menschliche Denk- und Handlungsprozesse nachbilden soll. Ein Teilgebiet der KI ist maschinelles Lernen (Machine Learning). Darunter wiederum lässt sich Deep Learning einordnen. [...] Hingegen beschränkt sich die schwache KI auf einzelne Fähigkeiten des Menschen: beispielsweise Bild-, Text- oder Spracherkennung. Diese Technologien haben längst Einzug in unseren Alltag gefunden, wie zum Beispiel in Form von Sprachassistenten wie dem Google Assistant oder Amazons Alexa. Algorithmen, Roboter  Social Media Manager (m/w/d)\n\nFleurop AG\n\nvor 1 Tag\n\n12203 Berlin\n\nProjektleiter (m/w/d) in der Software- und Systemtechnik\n\nEBP Deutschland GmbH\n\nvor 2 Tagen\n\n10115 Berlin",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland  \n- Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung  \n- Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative  ",
+          "id": "03f4e1e7-1a22-4e81-a6e3-853e49167a8f"
+        }
+      ]
+    }
+  }
+}
