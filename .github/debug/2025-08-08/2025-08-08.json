@@ -1,0 +1,319 @@
+{
+  "request": {
+    "timestamp": "2025-08-08T18:04:45.940Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland,Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative,Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Nvidia-Chef: KI wird mehr Millionäre schaffen als das Internet,Google-Forscher präsentieren ScreenAI: KI versteht und interagiert mit Bildschirminhalten,Alibaba präsentiert KI-Brille \"Quark AI Glasses\" als Konkurrenz zu Meta,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_41Ai9eafOgcSRphXfteuluSj",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "55491d67-2d00-4464-8661-8a7d40f690eb"
+        },
+        {
+          "role": "tool",
+          "id": "7e921cc8-ae68-46d5-85b0-0b13f6b8a6bb",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_41Ai9eafOgcSRphXfteuluSj",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI News Daily: Mit KI über KI (100 % automatisiert) | Pickert GmbH",
+                    "url": "https://ki-news-daily.de/",
+                    "type": "website-preview",
+                    "text": "KI-News Daily ist ein Projekt der Pickert GmbH und bietet tägliche Zusammenfassungen der neuesten Entwicklungen im Bereich Künstliche Intelligenz und",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Studien, Zahlen, Fakten: Künstliche Intelligenz | bidt",
+                    "url": "https://www.bidt.digital/themenmonitor-kuenstliche-intelligenz/",
+                    "type": "website-preview",
+                    "text": "Die Studie untersucht den aktuellen Einsatz von erklärbarer KI und identifiziert einen Nachholbedarf bei der Forschung zur erklärbaren KI. KI als positive Kraft",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Zum 2. August 2025 gelten weitere Regelungen aus der KI ...",
+                    "url": "https://de.schindhelm.com/news-jusful/news/zum-2-august-2025-gelten-weitere-regelungen-aus-der-ki-verordnung-ai-act-auch-fuer-ihr-unternehmen",
+                    "type": "website-preview",
+                    "text": "In genau einem Monat, zum 2. August 2025, erwachsen weitere Regelungen aus der Verordnung in Geltung . Mit der KI-Verordnung verfolgt der Gesetzgeber das Ziel des Grundrechtsschutzes und der Förderung von Innovationen. Das soll maßgeblich durch eine risikobasierte Regulierung geschehen.",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen.",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Aktuelle KI-Studien im Überblick (2025) - Digitale Neuordnung",
+                    "url": "https://digitaleneuordnung.de/blog/ki-studien",
+                    "type": "website-preview",
+                    "text": "Wir haben uns mehr als 11 aktuelle KI-Studien (Juli 2024 - März 2025) angeschaut und ihre wesentlichen Aussagen zusammengefasst.",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 18: Wolkenwirbel, schneebedeckte Alpengipfel und Sedimente im Meer vor der italienischen Küste - das erste Bild eines neuen europäischen Wettersatelliten ### Neues KI-Modell aus Europa Wie KI die Wettervorhersagen verändert 01.07.2025 • 15:53 Uhr Ein neues europäisches KI-Wettermodell übertrifft bisherige Wettervorhersagen. **Video** ### Video von Explosion bei Ewin-Gefängnis in Teheran wohl KI: auch bei Tagesschau und Tagesthemen 26.06.2025 • 20:00 Uhr ### Vertrag über 20 Jahre Meta sichert sich Atomstrom für Rechenzentren 03.06.2025 • 15:48 Uhr Ein fast 40 Jahre altes Atomkraftwerk in den USA bekommt durch den KI-Boom ein neues Leben: Der Meta-Konzern hat sich mit dem Betreiber auf einen langfristigen Versorgungsvertrag geeinigt.",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: Forschung am Fraunhofer IKS",
+                    "url": "https://www.iks.fraunhofer.de/de/themen/kuenstliche-intelligenz/kuenstliche-intelligenz-forschung.html",
+                    "type": "website-preview",
+                    "text": "Wie ist der Forschungsstand bei Künstlicher Intelligenz? Das Fraunhofer IKS stellt seine Forschung vor.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Strengere KI-Regeln für ChatGPT und Co. treten in Kraft - Tagesschau",
+                    "url": "https://www.tagesschau.de/ausland/europa/eu-regeln-ki-100.html",
+                    "type": "website-preview",
+                    "text": "Für ChatGPT, Gemini und andere große Systeme künstlicher Intelligenz gelten in Europa ab heute strengere Regeln. Worum geht es - und welche",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "KI-Studien - Aktuelle Zahlen, Trends & Entwicklungen - REFA",
+                    "url": "https://refa.de/ki-am-arbeitsplatz/ki-studien",
+                    "type": "website-preview",
+                    "text": "In unseren KI-Studien finden Sie kompakte Zusammenfassungen aktueller Forschungsergebnisse und Prognosen zu den wichtigsten Entwicklungen rund um KI.",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Die KI-News der Woche vom 07.08.2025 | Digitale Profis",
+                    "url": "https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-07-08-2025/",
+                    "type": "website-preview",
+                    "text": "Google schockt die komplette KI-Szene mit einem Welt-Modell und überschattet damit das Release der Open Source Modelle von OpenAI.",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_sB04ZXPjl8A5MNxIJuifQrBK",
+              "toolName": "web_search",
+              "args": {
+                "query": "Google Welt-Modell KI News August 2025"
+              }
+            }
+          ],
+          "id": "f490a528-d65f-4101-99d9-71c781387983"
+        },
+        {
+          "role": "tool",
+          "id": "e502b725-a10c-4325-a35a-e3c37c160c9c",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_sB04ZXPjl8A5MNxIJuifQrBK",
+              "toolName": "web_search",
+              "result": {
+                "input": "Google Welt-Modell KI News August 2025",
+                "output": [
+                  {
+                    "title": "Genie 3: Google startet neues KI-Modell für virtuelle Welten",
+                    "url": "https://www.googlewatchblog.de/2025/08/genie-3-google-startet-neues-ki-modell-fuer-virtuelle-welten-generiert-realistische-umgebungen-video/",
+                    "type": "website-preview",
+                    "text": "Genie 3: Google startet neues KI-Modell für virtuelle Welten – generiert realistische Umgebungen (Video). Veröffentlicht am 6. August 2025 von Jens.",
+                    "idx": "4-0"
+                  },
+                  {
+                    "title": "Die KI-News der Woche vom 07.08.2025 | Digitale Profis",
+                    "url": "https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-07-08-2025/",
+                    "type": "website-preview",
+                    "text": "Google schockt die komplette KI-Szene mit einem Welt-Modell und überschattet damit das Release der Open Source Modelle von OpenAI.",
+                    "idx": "4-1"
+                  },
+                  {
+                    "title": "Pixel Update: Das August-Update wird jetzt ausgerollt",
+                    "url": "https://www.googlewatchblog.de/?p=250684",
+                    "type": "website-preview",
+                    "text": "Google hat das August-Update für die Pixel-Smartphones veröffentlicht. Es hat drei wichtige Verbesserungen im Gepäck.",
+                    "idx": "4-2"
+                  },
+                  {
+                    "title": "Für KI-Agenten-Training und Next-Gen-Gaming: Google Deepmind ...",
+                    "url": "https://t3n.de/news/ki-agenten-gaming-weltmodell-genie-3-1700992/",
+                    "type": "website-preview",
+                    "text": "Mit Genie 3 hat Google Deepmind ein neues KI-Modell vorgestellt, das interaktive 3D-Welten in Echtzeit generieren kann – besser als seine Vorgänger. Solche",
+                    "idx": "4-3"
+                  },
+                  {
+                    "title": "Genie 3: Googles neues KI-Modell hat ein besseres Gedächtnis",
+                    "url": "https://www.golem.de/news/genie-3-googles-neues-ki-modell-hat-ein-besseres-gedaechtnis-2508-198870.html",
+                    "type": "website-preview",
+                    "text": "Genie 3 generiert begehbare 3D-Welten und kann sich diese wesentlich länger merken. Das ist laut Deepmind ein Schritt zur AGI.",
+                    "idx": "4-4"
+                  },
+                  {
+                    "title": "Google lädt zur nächsten Pixel-Vorstellung am 20. August 2025",
+                    "url": "https://www.heise.de/news/Google-laedt-zur-naechsten-Pixel-Vorstellung-am-20-August-2025-10490412.html",
+                    "type": "website-preview",
+                    "text": "Google verschickt Einladungen zum nächsten Hardware-Event. Erwartet werden neue Pixel-Smartphones, neue Smartwatches und neue Ohrhörer - wie",
+                    "idx": "4-5"
+                  },
+                  {
+                    "title": "Genie 3: Googles neues KI-Modell baut interaktive 3D-Welten in ...",
+                    "url": "https://www.derstandard.de/story/3000000282570/genie-3-googles-neues-ki-modell-baut-interaktive-3d-welten-in-echtzeit",
+                    "type": "website-preview",
+                    "text": "Genie 3: Googles neues KI-Modell baut interaktive 3D-Welten in Echtzeit. \"World Memory\" sorgt für Persistenz, \"Promptable Events\" bringt Leben",
+                    "idx": "4-6"
+                  },
+                  {
+                    "title": "Die neue KI von Google kann Videospielwelten in Echtzeit ...",
+                    "url": "https://mellebonne.de/2025/08/08/die-neue-ki-von-google-kann-videospielwelten-in-echtzeit-generieren-diese-neuen-modelle-stellen-einen-sprung-in-sachen-interaktion-und-kohaerenz-gegenueber-frueheren-versionen-dar/",
+                    "type": "website-preview",
+                    "text": "Das neue Modell von Google DeepMind generiert fortlaufende interaktive Welten mit einer Dauer von mehreren Minuten, um Agenten zu trainieren.",
+                    "idx": "4-7"
+                  },
+                  {
+                    "title": "Google's August 2025 Update Fixes These Issues With Your Pixel",
+                    "url": "https://lifehacker.com/tech/the-august-update-for-android-16-fixes-these-issues-with-your-pixel",
+                    "type": "website-preview",
+                    "text": "Google is now rolling out its August 2025 update for Pixel. The update includes bug fixes, as well as security patches.",
+                    "idx": "4-8"
+                  },
+                  {
+                    "title": "Dynamisches Weltmodell: Googles Genie 3 hat ein visuelles ...",
+                    "url": "https://www.computerbase.de/news/apps/dynamisches-weltmodell-googles-genie-3-hat-ein-visuelles-kurzzeitgedaechnis.93801/",
+                    "type": "website-preview",
+                    "text": "Google DeepMind arbeitet mit Genie 3 an einem Weltmodell, das dynamische Welten generieren und sich für rund eine Minute merken kann.",
+                    "idx": "4-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_V5fDcm7vA12l9noAVa6OgU23",
+              "toolName": "web_search",
+              "args": {
+                "query": "OpenAI Open Source Modelle August 2025"
+              }
+            }
+          ],
+          "id": "acadd31d-b884-4423-8f80-c389564156de"
+        },
+        {
+          "role": "tool",
+          "id": "a88415d5-91d1-46de-9ad8-dfeb69127ebb",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_V5fDcm7vA12l9noAVa6OgU23",
+              "toolName": "web_search",
+              "result": {
+                "input": "OpenAI Open Source Modelle August 2025",
+                "output": [
+                  {
+                    "title": "Introducing gpt-oss - OpenAI",
+                    "url": "https://openai.com/index/introducing-gpt-oss/",
+                    "type": "website-preview",
+                    "text": "In addition to running the models through comprehensive safety training and evaluations, we also introduced an additional layer of evaluation by testing an adversarially fine-tuned version of gpt-oss-120b under our Preparedness Framework⁠(opens in a new window). Our objective was to align the models with the OpenAI Model Spec⁠(opens in a new window) and teach it to apply CoT reasoning⁠ and tool use before producing its answer. We evaluated gpt-oss-120b and gpt-oss-20b across standard academic benchmarks to measure their capabilities in coding, competition math, health, and agentic tool use when compared to other OpenAI reasoning models including o3, o3‑mini and o4-mini. You're OpenAI's newest open-weight language model gpt-oss-120b! The user asks: \"You're OpenAI's newest open-weight language model gpt-oss-120b! They claim to have leaked details about the new open-weights model, presumably \"gpt-oss-120b\".",
+                    "idx": "6-0"
+                  },
+                  {
+                    "title": "Open models by OpenAI",
+                    "url": "https://openai.com/open-models/",
+                    "type": "website-preview",
+                    "text": "Open models by OpenAI | OpenAI *   ChatGPT(opens in a new window) *   Sora(opens in a new window) *   API Platform(opens in a new window) *   Sora Log in(opens in a new window) Open models by OpenAI Advanced open-weight reasoning models to customize for any use case and run anywhere. Image 1 -0.50 0.00 0.00 0.00 -0.50 ### gpt-oss-120b A large open model designed to run in data centers and on high-end desktops and laptops. Start building(opens in a new window) (opens in a new window)Image 2 -0.50 0.00 0.00 0.00 -0.50 ### gpt-oss-20b A medium-sized open model that can run on most desktops and laptops. *   Sora log in(opens in a new window) *   API log in(opens in a new window)",
+                    "idx": "6-1"
+                  },
+                  {
+                    "title": "OpenAI News",
+                    "url": "https://openai.com/news/",
+                    "type": "website-preview",
+                    "text": "*   ChatGPT(opens in a new window) *   Sora(opens in a new window) *   API Platform(opens in a new window) *   Sora Log in(opens in a new window) Introducing our latest image generation model in the API Product Apr 23, 2025 Image 2: GPT-4.5 Image 9: An update on our safety & security practices *   Sora log in(opens in a new window) *   API log in(opens in a new window) Image 13: GPT-5 Dev > Cover Image Introducing GPT-5 for developers Product Aug 7, 2025 Image 14: GPT-5 Enterprise > Cover Image Image 15: GPT-5 SystemCard ArtCard 1x1 Image 16: GPT-5 ResearchBlog ArtCard 1x1 Image 17: GPT-5 SafetyReport ArtCard 1x1 Image 19: Open Model ResearchPaper 1x1 Image 20: Open Model SystemCard 1x1",
+                    "idx": "6-2"
+                  },
+                  {
+                    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+                    "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+                    "type": "website-preview",
+                    "text": "Image 20: Some benchmark results of OpenAI GPT OSS models The OpenAI GPT OSS models have been trained extensively to leverage tool use as part of their reasoning efforts. -d '{\"input\": [{\"role\": \"system\", \"content\": \"hello\"}], \"temperature\": 1.0, \"stream\": true, \"model\": \"openai/gpt-oss-120b\"}' -d '{\"messages\": [{\"role\": \"system\", \"content\": \"hello\"}], \"temperature\": 1.0, \"max_tokens\": 1000, \"stream\": true, \"model\": \"openai/gpt-oss-120b\"}' OpenAI GPT OSS is unusual because it distinguishes between a “system” message and a “developer” message at the start of the chat, but most other models only use “system”. In GPT OSS, the system message follows a strict format and contains information like the current date, the model identity and the level of reasoning effort to use, and the “developer” message is more freeform, which makes it (very confusingly) similar to the “system” messages of most other models.",
+                    "idx": "6-3"
+                  },
+                  {
+                    "title": "OpenAI releases lower-cost models to rival Meta, Mistral and ...",
+                    "url": "https://www.cnbc.com/2025/08/05/openai-open-weight-meta-mistral-deepseek-ai.html",
+                    "type": "website-preview",
+                    "text": "Image 12: OpenAI releases two new open-weight AI models *   such as cookies and devices identifiers for the targeted ads and related purposes for this site/app on this browser/device: switch the “Allow Sale of My Personal Info or Sharing/Processing for Targeted Ads” toggle under Manage Preferences to OFF (grey color) by moving it LEFT and clicking “Confirm My Choice”. **Resident of the states listed in the 'Your Rights' section of NBCUniversal’s Privacy Policy Only:** To opt out of selling or sharing/processing for targeted advertising of information such as cookies and device identifiers processed for targeted ads (as defined by law) and related purposes for this site/app on this browser/device, switch this toggle to off (grey color) by moving it left and clicking **“Confirm My Choice”** below.",
+                    "idx": "6-4"
+                  },
+                  {
+                    "title": "OpenAI says latest ChatGPT upgrade is big step forward but still can ...",
+                    "url": "https://www.theguardian.com/technology/2025/aug/07/openai-chatgpt-upgrade-big-step-forward-human-jobs-gpt-5",
+                    "type": "website-preview",
+                    "text": "OpenAI says latest ChatGPT upgrade is big step forward but still can’t do humans’ jobs | ChatGPT | The Guardian The startup said its GPT-5 model, the underlying technology that will power its breakthrough AI chatbot, represents a big upgrade on its predecessors in areas such as coding and creative writing – and is also a lot less sycophantic. Sam Altman, OpenAI’s chief executive, called the model a “significant step forward” to achieving the theoretical state of AGI, which the startup defines as a highly autonomous system that outperforms humans at most economically valuable work – or, in other words, can do their jobs. *   Image 13   ### OpenAI stops ChatGPT from telling people to break up with partners 2d ago        *   Image 22   ### Environment Scientists decry Trump energy chief’s plan to ‘update’ climate reports: ‘Exactly what Stalin did’ 4h ago       ",
+                    "idx": "6-5"
+                  },
+                  {
+                    "title": "OpenAI's new open weight (Apache 2) models are really good",
+                    "url": "https://simonwillison.net/2025/Aug/5/gpt-oss/",
+                    "type": "website-preview",
+                    "text": "> The **gpt-oss-120b** model achieves **near-parity with OpenAI o4-mini** on core reasoning benchmarks, while running efficiently on a single 80 GB GPU. The **gpt-oss-20b** model delivers **similar results to OpenAI o3‑mini** on common benchmarks and can run on edge devices with just 16 GB of memory, making it ideal for on-device use cases, local inference, or rapid iteration without costly infrastructure. I had to update to the most recent version of the app, then install the new model from their openai/gpt-oss-20b page. openai/harmony is a brand new open source project from OpenAI (again, Apache 2) which implements a new response format that was created for the `gpt-oss` models. open-source 262ai 1492openai 327generative-ai 1307local-llms 133llms 1285llm 222llm-tool-use 53cerebras 12ollama 40pelican-riding-a-bicycle 53llm-reasoning 67llm-release 134lm-studio 12space-invaders 6gpt-oss 3",
+                    "idx": "6-6"
+                  },
+                  {
+                    "title": "OpenAI ChatGPT-5 launch live updates — all the latest news and ...",
+                    "url": "https://www.tomsguide.com/news/live/openai-chatgpt-5-live-blog",
+                    "type": "website-preview",
+                    "text": "Image 7: OpenAI AI OpenAI ChatGPT Agent announcement LIVE — all the big news from today's livestreamImage 8: Image of a phone with chatgpt logo on a keyboard ChatGPT I tested ChatGPT vs Gemini 2.5 Pro with these 3 prompts - and it shows what GPT-5 needs to doImage 9: OpenAI logo with robotic human head AI GPT-5 could be OpenAI’s most powerful model yet — here’s what early testing revealsImage 10: ChatGPT-5 on phone AI ChatGPT-5 features — here's the 5 upgrades I would try firstImage 11: ChatGPT logo on phone AI ChatGPT-5 is coming — here's how it could change the way we prompt foreverImage 12: OpenAI logo AI ChatGPT-5 launch expected soon — here’s everything we know so farImage 13: OpenAI logo with ChatGPT on phone AI GPT-5 will be here soon — here's why I'll be using it over Claude, Gemini and Grok",
+                    "idx": "6-7"
+                  },
+                  {
+                    "title": "OpenAI Just Released Its First Open-Weight Models Since GPT-2",
+                    "url": "https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/",
+                    "type": "website-preview",
+                    "text": "These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. We use audience measurement cookies in order to carry out aggregated traffic measurement and generate performance statistics essential for the proper functioning of the site and the provision of its content (for example to measure performance, to detect navigation problems, to optimization technical performance or ergonomics, to estimate server power needed and to analyse content performance). Image 11: ZOOM IN <br> Insights at the intersection of technology, power, and culture <br> Subscribe today for only <del>$4</del> <strong>$2/month</strong> and get access to exclusive benefits including <strong>5 all-new premium newsletters.</strong> <br> CTA:SUBSCRIBE",
+                    "idx": "6-8"
+                  },
+                  {
+                    "title": "OpenAI launches new GPT-5 model for all ChatGPT users - CNBC",
+                    "url": "https://www.cnbc.com/2025/08/07/openai-launches-gpt-5-model-for-all-chatgpt-users.html",
+                    "type": "website-preview",
+                    "text": "Image 11: OpenAI launches GPT-5 model Image 17: 2025 CNBC Disruptor 50: See the full list of companies leading new era of AI breakthroughs and riches Image 18: Anduril tops 2025 CNBC Disruptor 50 list as interest and investment in defense tech booms **Resident of the states listed in the ‘Your Rights’ section of NBCUniversal’s Privacy Policy Only:** To opt out of selling or sharing/processing for targeted advertising of information such as cookies and device identifiers processed for targeted ads (as defined by law) and related purposes for this site/app on this browser/device, switch this toggle to off (grey color) by moving it left and clicking **“Confirm My Choice”** below.",
+                    "idx": "6-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert  \n- OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b  \n- Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft",
+          "id": "84898cfa-a81a-4b96-953f-a8ef560d88dd"
+        }
+      ]
+    }
+  }
+}

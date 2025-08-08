@@ -1,0 +1,3 @@
+- Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert
+- OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b
+- Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft
