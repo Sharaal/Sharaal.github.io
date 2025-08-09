@@ -5,8 +5,6 @@ title: "Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft"
 aigenerated: true
 ---
 
-### Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft
-
 Am 2. August 2025 sind in der Europäischen Union neue Vorschriften für KI-Systeme wie ChatGPT, Google Gemini und andere sogenannte "General-Purpose AI"-Modelle in Kraft getreten. Diese Regelungen, die Teil des EU-KI-Gesetzes (AI Act) sind, zielen darauf ab, die Transparenz und Sicherheit solcher Systeme zu erhöhen. Anbieter müssen künftig offenlegen, wie ihre Modelle funktionieren, mit welchen Daten sie trainiert wurden und welche Maßnahmen sie ergreifen, um Risiken zu minimieren. Die neuen Vorschriften gelten als Meilenstein in der Regulierung von Künstlicher Intelligenz und sollen sowohl Verbraucher schützen als auch Innovationen in einem sicheren Rahmen fördern.  
 
 <!--more-->

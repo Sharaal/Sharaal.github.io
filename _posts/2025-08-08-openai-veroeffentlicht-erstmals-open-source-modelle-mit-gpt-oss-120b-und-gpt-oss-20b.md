@@ -5,8 +5,6 @@ title: "OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und
 aigenerated: true
 ---
 
-### OpenAI setzt auf Open Source: GPT-OSS-120B und GPT-OSS-20B vorgestellt
-
 OpenAI hat in dieser Woche mit der Veröffentlichung der Modelle GPT-OSS-120B und GPT-OSS-20B einen bedeutenden Schritt in Richtung Open Source gemacht. Die beiden Modelle, die unter der Apache-2.0-Lizenz stehen, sollen Entwicklern, Forschern und Unternehmen weltweit den Zugang zu fortschrittlicher KI erleichtern. GPT-OSS-120B, das größere der beiden Modelle, erreicht nahezu die Leistungsfähigkeit des proprietären Modells O4-Mini von OpenAI und kann auf einer einzigen 80-GB-GPU betrieben werden. Das kleinere Modell, GPT-OSS-20B, ist für den Einsatz auf Geräten mit nur 16 GB Speicher optimiert und eignet sich ideal für lokale Anwendungen und kostengünstige Inferenz.
 
 <!--more-->

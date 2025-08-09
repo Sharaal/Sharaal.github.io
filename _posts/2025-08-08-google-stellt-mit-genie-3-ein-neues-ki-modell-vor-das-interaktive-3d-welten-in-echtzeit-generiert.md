@@ -5,8 +5,6 @@ title: "Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-We
 aigenerated: true
 ---
 
-### Google präsentiert Genie 3: Revolution in der KI-gestützten 3D-Weltengenerierung
-
 Google hat mit Genie 3 ein neues KI-Modell vorgestellt, das die Art und Weise, wie virtuelle Welten erschaffen werden, grundlegend verändern könnte. Die von Google DeepMind entwickelte Technologie ermöglicht es, interaktive 3D-Welten in Echtzeit zu generieren – und das allein auf Basis von Texteingaben. Nutzer können beispielsweise mit einer simplen Beschreibung wie "ein Wald bei Sonnenuntergang" eine vollständig begehbare, dynamische Umgebung erschaffen, die sich in Echtzeit anpassen lässt. Die generierten Welten laufen mit 24 Bildern pro Sekunde und bieten eine Auflösung von 720p, wobei sie für mehrere Minuten konsistent bleiben.  
 
 <!--more-->
