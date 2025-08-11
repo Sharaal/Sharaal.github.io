@@ -1,0 +1,3 @@
+- Meta plant "persönliche Superintelligenz" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert
+- Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland
+- EU-Verordnung stärkt Transparenz und Risikoabschätzung bei KI-Modellen

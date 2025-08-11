@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-11T18:05:10.923Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft,OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland,Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative,Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,OpenAI führt neuen \"Study Mode\" für ChatGPT ein, der das Lernen interaktiv gestaltet,KI-gestützte Software revolutioniert die Automobilindustrie: BMW setzt auf autonome Fertigungssysteme,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_VUxd13jivB3aoIJQTqmW2anm",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "2d82cc4d-2465-4b8c-9174-c8c2fc82ca25"
+        },
+        {
+          "role": "tool",
+          "id": "95a05ded-b370-4bc3-a33a-531769314b0c",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_VUxd13jivB3aoIJQTqmW2anm",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "### Meta, Microsoft und der KI-Boom\"Persönliche Superintelligenz\" für alle? 31.07.2025 • 11:52 Uhr Meta-Chef Mark Zuckerberg hat eine Vision: Superintelligenz soll für jeden verfügbar sein. Unterdessen schafft Microsoft dank des KI-Booms den Sprung in den Vier-Billionen-Dollar-Club an der Börse. mehr\n\nImage 9: Sendungsbild\n\nPlayer: video Update Wirtschaft vom 30.07.2025\n\nVideo ### Update Wirtschaft vom 30.07.2025 30.07.2025 • 09:00 Uhr Update Wirtschaft vom 30.07.2025 mehr [...] Player: video Künstliche Intelligenz im Alltag\n\nVideo ### Künstliche Intelligenz im Alltag 26.07.2025 • 20:00 Uhr\n\nImage 12: Sendungsbild\n\nPlayer: video Trotz Risiken: KI ist aus dem Alltag nicht mehr wegzudenken\n\nVideo ### Trotz Risiken: KI ist aus dem Alltag nicht mehr wegzudenken 26.07.2025 • 14:00 Uhr Trotz Risiken: KI ist aus dem Alltag der Menschen nicht mehr wegzudenken mehr\n\nImage 13: Sendungsbild\n\nPlayer: video Künstliche Intelligenz im Alltag [...] Player: video Anja Kohl, HR, zu Investitionen in KI\n\nVideo ### Anja Kohl, HR, zu Investitionen in KI 15.07.2025 • 17:00 Uhr\n\nImage 16: Meta-Gründer und CEO Mark Zuckerberg spricht auf der LlamaCon 2025, einer KI-Entwicklerkonferenz, in Menlo Park, Kalifornien.\n\nPlayer: audio 100 Millionen Dollar pro Jahr. Kampf um KI-Fachleute eskaliert: Warum so hohe Summen?",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Aktuelle KI-Studien im Überblick (2025) - Digitale Neuordnung",
+                    "url": "https://digitaleneuordnung.de/blog/ki-studien",
+                    "type": "website-preview",
+                    "text": "- [x] \n\nInhaltsverzeichnis\n\n \n\n   Bond Capital \"Trends in Artificial Intelligence\"\n\n   McKinsey \"The State of AI 2024\"\n\n   Deloitte \"KI-Studie Q4/2024\"\n\n   BCG - \"Where's the Value in AI?\"\n\n   Bitkom \"Industrie 4.0 und KI in der Produktion\"\n\n   Statistisches Bundesamt \"KI-Nutzung in deutschen Unternehmen\" (November 2024)\n\n   Accenture \"Reinventing Enterprise Operations with Gen AI\"\n\n   IBM \"ROI of AI Report\"\n\n   KPMG \"AI Quarterly Pulse Survey Q4 2024\" (Januar 2025) [...] Bond Capital \"Trends in Artificial Intelligence\"\n   McKinsey \"The State of AI 2024\"\n   Deloitte \"KI-Studie Q4/2024\"\n   Bitkom \"Industrie 4.0 und KI in der Produktion\"\n   KPMG \"AI Quarterly Pulse Survey Q4 2024\"\n   KPMG \"Generative KI in der deutschen Wirtschaft 2025\"\n   KPMG/University of Melbourne \"Trust in AI - Global Study 2025\"\n   BCG - \"Where's the Value in AI?\"\n   Statistisches Bundesamt \"KI-Nutzung in deutschen Unternehmen\" (November 2024) [...] Deloitte \"KI-Studie Q4/2024\"\n----------------------------\n\nIn der KI-Studie von Deloitte wurden 2.772 Führungskräfte in 14 Ländern zwischen Juli und September 2024 befragt. Dabei liegt Deutschland im weltweiten Vergleich an zweiter Stelle beim Mitarbeiterzugang zu GenAI-Tools. Zudem zeigen 62% der deutschen Befragten gesteigertes Interesse an autonomen KI-Agenten, deutlich über dem weltweiten Durchschnitt von 52%.\n\nFakten-Liste:",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Antworten (4)\n\n  Antworten auf Kommentar\n  + Antwort von  So ein Schwachsinn\n     , geschrieben am \n\n    02.08.2025, 15:40 Uhr\n    :\n\n    Inkompetente Nutzung ist nicht das Problem der AI.\n\n    weitere Antworten\n  + Antwort von  Paul S.\n     , geschrieben am \n\n    02.08.2025, 17:10 Uhr\n    :",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "2. August 2025 – Ein weiterer Meilenstein auf dem Weg zur ... - Noerr",
+                    "url": "https://www.noerr.com/de/insights/2-august-2025-ein-weiterer-meilenstein-auf-dem-weg-zur-anwendbarkeit-der-ki-verordnung",
+                    "type": "website-preview",
+                    "text": "# 2. August 2025 – Ein weiterer Meilen­stein auf dem Weg zur Anwend­barkeit der KI-Verordnung [...] #### 2. August 2025 – Ein weiterer Meilen­stein auf dem Weg zur Anwend­barkeit der KI-Verordnung [...] Mit Inkrafttreten der weiteren Vorschriften der KI-Verordnung am 2. August 2025 rückt die vollständige Umsetzung dieses zentralen Regulierungsvorhabens in greifbare Nähe. Die nun geltenden Regelungen stärken nicht nur die Marktüberwachung und die behördlichen Strukturen, sondern adressieren insbesondere auch die besonderen Risiken und Transparenzanforderungen von KI-Modellen mit allgemeinem Verwendungszweck. Die kommenden Monate werden zeigen, wie effektiv die neuen Vorgaben in der Praxis",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Max-Planck-Gesellschaft",
+                    "url": "https://www.mpg.de/kuenstliche-intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 19: Psychologischer Blick auf künstliche Intelligenz\n\n### Psychologischer Blick auf künstliche Intelligenz\n\n 6. Februar 2023\n\nKünstliche Intelligenz\n\n Forscher testen die kognitiven Fähigkeiten des Sprachmodells GPT-3 mehr\n\nImage 20: „Künstliche Intelligenz ist nicht neugierig“\n\n### „Künstliche Intelligenz ist nicht neugierig“\n\n13. Februar 2023\n\nKünstliche IntelligenzPsychologie [...] Image 9: Frau in weinrotem Blazer sitzt am Tisch und lächelt, spricht zu weiterer Frau im Vordergrund, links im Bild\n\n### Besuch bei Meeyoung Cha\n\n13. Januar 2025\n\nInformatikKünstliche Intelligenz\n\nÜber den ereignisreichen Weg von Meeyoung Cha in die Welt der Datenwissenschaften und wie KI hilft, Falschinformationen in sozialen Medien zu findenmehr\n\nImage 10: Forschungshighlights 2024\n\n### Forschungshighlights 2024\n\n19. Dezember 2024 [...] ### Frühwarnsystem für Falschmeldungen\n\n 3. Oktober 2018\n\nKulturwissenschaftenKünstliche IntelligenzSozialwissenschaften\n\n Fake News in Sozialen Medien effizienter und treffgenauer bekämpfen: Manuel Gomez Rodriguez vom Max-Planck-Institut für Softwaresysteme kombiniert Verfahren der Künstlichen Intelligenz mit der Auswertung von Signalen, in denen sich menschliches Urteil widerspiegelt mehr",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Gesetzliche Neuregelungen August 2025 | Bundesregierung",
+                    "url": "https://www.bundesregierung.de/breg-de/aktuelles/neuregelungen-august-25-2368672",
+                    "type": "website-preview",
+                    "text": "Ab 2. August 2025 müssen Anbieter von KI-Modellen, die vielseitig einsetzbar sind, Informationspflichten aus der europäischen KI-Verordnung befolgen. Es geht zum Beispiel um Anwendungen, die flexibel Texte, Audios, Bilder oder Videos erzeugen können. Für besonders leistungsfähige KI-Modelle, die ein sogenanntes systemisches Risiko darstellen, gelten zusätzliche Pflichten zur Risikoabschätzung und -minderung.\n\nWeitere Informationen zur Nutzung von Künstlicher Intelligenz\")",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "KI | Die Geschichte der Künstlichen Intelligenz | mebis Magazin",
+                    "url": "https://mebis.bycs.de/beitrag/ki-geschichte-der-ki",
+                    "type": "website-preview",
+                    "text": "Fußnoten\n--------\n\n### Autor/in\n\nAK Bildung in der digital vernetzten Welt - Allgemeinbildung\n\n### Veröffentlichung\n\n13\\. Juni 2024\n\n### Letzte Änderung\n\n13\\. Juni 2024\n\n### Empfohlene Zitierweise\n\nAK Bildung in der digital vernetzten Welt - Allgemeinbildung, in: mebis – Landesmedienzentrum Bayern (2024). KI | Die Geschichte der Künstlichen Intelligenz. Verfügbar unter: \n\n### Lizenzangaben\n\n   Beitragsbild: © istock.com/Yevhen Lahunov / bearbeitet\n\nWeitere Beiträge\n---------------- [...] Weitere textgenerierende Systeme anderer US-amerikanischer Technologie-Giganten wie der Bing Chat der Firma Microsoft (Februar 2023) oder Bard der Firma Google (März 2023) wurden kurz darauf veröffentlicht. Seitdem liefern sich diese und andere Unternehmen einen Konkurrenzkampf um Marktanteile und die fortschrittlichsten Sprachmodelle zur Verarbeitung und Erzeugung natürlicher Sprache.\n\nImage 20\n\nISB\n\nBildgenerierende Systeme (Midjourney, Stable Diffusion, Dall-E und Co) [...] Sumit, R. & Senthamilarasu, D. (2020). _Applied Deep Learning and Computer Vision for Self-Driving Cars_ (Build Autonomous Vehicles Using Deep Neural Networks and Behavior-cloning Techniques). Packt Publishing.\n    \n   Turing, A. (2021). _Computing Machinery and Intelligence / Können Maschinen Denken? (Englisch/Deutsch)_ (Great Papers Philosophie). Deutschland: Reclam Verlag.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Laut Bundesministerium für Digitales und Staatsmodernisierung (BMDS) befindet sich der Entwurf für das Gesetz derzeit in der Abstimmung innerhalb der Bundesregierung. Anschließend müssen sich die Länder noch damit befassen und es folgt eine öffentliche Beteiligung. Man wolle die Umsetzung der KI-Verordnung zügig vorantreiben und zeitnah nach Abschluss der öffentlichen Beteiligung damit ins Kabinett. \"Mit Blick auf die Bundestagswahlen, den Regierungswechsel und die erforderliche Neuabstimmung",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: Forschung am Fraunhofer IKS",
+                    "url": "https://www.iks.fraunhofer.de/de/themen/kuenstliche-intelligenz/kuenstliche-intelligenz-forschung.html",
+                    "type": "website-preview",
+                    "text": "Die Landkarte verdeutlicht die herausragende Stellung, die Forschung zu Künstlicher Intelligenz in Deutschland hat. Nicht umsonst präsentierte die Bundesregierung im November 2018 eine nationale »Strategie Künstliche Intelligenz«. Ziel ist »KI made in Germany« zu einem internationalen Markenzeichen für moderne, sichere und gemeinwohlorientierte KI-Anwendungen zu etablieren. [...] Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per E-Mail:  \nbusiness.development@iks.fraunhofer.de\n\n## Navigation und Social Media\n\n### Folgen Sie uns\n\nQuelle: Fraunhofer-Gesellschaft  \nFraunhofer-Institut für Kognitive Systeme IKS - Künstliche Intelligenz: Forschung am Fraunhofer IKS\n\nOnline im Internet; URL: \n\nDatum: 11.8.2025 17:08 [...] Gerade die unterschiedlichen Lernverfahren von Künstlicher Intelligenz sind dabei aktuell von großem Interesse für die Forschung:\n\n## KI-Forschung am Fraunhofer IKS in München",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Stand heute und Prognose - dmsfactory",
+                    "url": "https://www.dmsfactory.com/blog/ki-aktueller-stand-und-prognosen/",
+                    "type": "website-preview",
+                    "text": "Aktualisiert Oktober 2024\n  \n  \nDieser Artikel wurde ursprünglich im Jahr 2022 veröffentlicht und enthält wertvolle Informationen, die nun mit aktuellen Daten und neuen Erkenntnissen ergänzt wurden. Angesichts der schnelllebigen Entwicklungen im Bereich der KI-Technologien haben wir uns dazu entschieden den Artikel zu bearbeiten und neu zu veröffentlichen, um Ihnen die neusten Informationen zur Verfügung stellen zu können. [...] zu machen. [...] In diesem Artikel bringen wir Sie auf den aktuellen Stand der KI-Entwicklung und zeigen Ihnen, was wir in der Zukunft noch erwarten können. Informieren Sie sich, um die Thematik richtig einordnen zu können!\n\nSie haben sich noch gar nicht mit dem Thema Künstliche Intelligenz beschäftigt? Dann schauen Sie sich am besten zuerst unseren Artikel „Künstliche Intelligenz – Definition und Geschichte“ an und lesen dann hier weiter.",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Meta plant „persönliche Superintelligenz“ für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert  \n- Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland  \n- EU-Verordnung stärkt Transparenz und Risikoabschätzung bei KI-Modellen",
+          "id": "65ea19c5-2f50-4353-9172-e4c9ad7a4357"
+        }
+      ]
+    }
+  }
+}
