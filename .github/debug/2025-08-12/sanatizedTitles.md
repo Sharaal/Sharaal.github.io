@@ -1,0 +1,3 @@
+- MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten
+- Runway bringt Plattform für Abenteuerspiele per Texteingabe
+- Zwei US-Amerikaner wegen illegalem Export von KI-Chips nach China angeklagt

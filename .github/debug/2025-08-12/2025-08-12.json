@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-12T18:05:00.039Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft,OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland,Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative,Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,Neue EU-Regeln: KI-Anbieter müssen Trainingsdaten offenlegen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,DeepMind entwickelt KI-Modell zur globalen Überwachung von Umweltveränderungen,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_NpXG82pcEJ43MUoEwMSrtXTh",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "b45a1336-272e-491d-b60a-868ae6bdb6f3"
+        },
+        {
+          "role": "tool",
+          "id": "9d280bdc-a4ea-477a-aad6-f59e602f7193",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_NpXG82pcEJ43MUoEwMSrtXTh",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI News Daily: Mit KI über KI (100 % automatisiert) | Pickert GmbH",
+                    "url": "https://ki-news-daily.de/",
+                    "type": "website-preview",
+                    "text": "Die 4 wichtigsten KI-News der letzten 24 Stunden\n\n\n\nIn nur 5 Minuten auf dem neusten Stand\n\n\n\nTäglich ab 6 Uhr\n\nPodcast hören\n\n### KI-Video-Podcast\n\n\n\nDie 4 wichtigsten KI-News der letzten 7 Tage\n\n\n\nAvatar-Video, vollautomatisch generiert\n\n\n\nJeden Sonntag frisch auf YouTube\n\nVideos ansehen\n\n### KI-News (Newsletter)\n\n\n\nDie wichtigsten Neuigkeiten aus KI & Tech\n\n\n\nTäglich zur Mittagspause in deine Inbox\n\n\n\nAlle relevanten Links\n\nZum Newsletter anmelden [...] Runway bringt mit „Game Worlds“ eine Plattform, um Abenteuerspiele per Texteingabe zu erstellen. Kreativität ohne Programmierkenntnisse! #kinewsdaily\n\nImage 7: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h\n\nMITs SEAL revolutioniert KI-Training: Modelle generieren eigenständig Daten und übertreffen bestehende Systeme. #kinewsdaily\n\nImage 8: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h [...] MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten\n-------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nJuni 30, 2025\n\nEin neues Verfahren des MIT ermöglicht...\n\nImage 4: Meta investiert 29 Milliarden Dollar in KI-Rechenzentren",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "### Meta, Microsoft und der KI-Boom\"Persönliche Superintelligenz\" für alle? 31.07.2025 • 11:52 Uhr Meta-Chef Mark Zuckerberg hat eine Vision: Superintelligenz soll für jeden verfügbar sein. Unterdessen schafft Microsoft dank des KI-Booms den Sprung in den Vier-Billionen-Dollar-Club an der Börse. mehr\n\nImage 9: Sendungsbild\n\nPlayer: video Update Wirtschaft vom 30.07.2025\n\nVideo ### Update Wirtschaft vom 30.07.2025 30.07.2025 • 09:00 Uhr Update Wirtschaft vom 30.07.2025 mehr [...] Player: video Künstliche Intelligenz im Alltag\n\nVideo ### Künstliche Intelligenz im Alltag 26.07.2025 • 20:00 Uhr\n\nImage 12: Sendungsbild\n\nPlayer: video Trotz Risiken: KI ist aus dem Alltag nicht mehr wegzudenken\n\nVideo ### Trotz Risiken: KI ist aus dem Alltag nicht mehr wegzudenken 26.07.2025 • 14:00 Uhr Trotz Risiken: KI ist aus dem Alltag der Menschen nicht mehr wegzudenken mehr\n\nImage 13: Sendungsbild\n\nPlayer: video Künstliche Intelligenz im Alltag [...] Player: video Anja Kohl, HR, zu Investitionen in KI\n\nVideo ### Anja Kohl, HR, zu Investitionen in KI 15.07.2025 • 17:00 Uhr\n\nImage 16: Meta-Gründer und CEO Mark Zuckerberg spricht auf der LlamaCon 2025, einer KI-Entwicklerkonferenz, in Menlo Park, Kalifornien.\n\nPlayer: audio 100 Millionen Dollar pro Jahr. Kampf um KI-Fachleute eskaliert: Warum so hohe Summen?",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "KI macht Forschende kreativ und China ist damit am erfolgreichsten",
+                    "url": "https://www.forschung-und-lehre.de/forschung/ki-macht-forschende-kreativ-und-china-ist-damit-am-erfolgreichsten-7027",
+                    "type": "website-preview",
+                    "text": "Seit vergangenem Monat müssen Hochschulleitungen für KI-Kompetenz unter Beschäftigten und Studierenden sorgen. Ein Balanceakt.\n\nKatrin Schmermund\n14.03.2025\n\n## ScienceDirect AI Elsevier-KI soll Recherchezeit halbieren\n\nDas Verlagsunternehmen Elsevier führt auf ihrer Publikationsplattform \"ScienceDirect\" ein KI-Tool ein. Es soll die Forschungsarbeit erleichtern.\n\n12.03.2025 [...] cva\n\nArtikel drucken\n\nZum Seitenanfang\n\nSchlagwörter:\nKünstliche Intelligenz\nInternationales\nKreativität\n\n## Das könnte Sie auch interessieren\n\n## Digitale Werkzeuge Weitere Fehlerquelle von KI entdeckt\n\nEine Studie deutet darauf hin, dass KI-Modelle dem \"Kluger-Hans-Effekt\" unterliegen. Scheinkorrelationen führen zu richtigen Ergebnissen.\n\n18.03.2025\n\n## Europäische Verordnung Hochschulen müssen KI-Fitness steigern [...] Home\n Forschung\n KI macht Forschende kreativ und China ist damit am erfolgreichsten\n\n# Internationale Studie KI macht Forschende kreativ und China ist damit am erfolgreichsten\n\nEine EU-Studie zeigt, dass der Einsatz von KI die wissenschaftliche Fähigkeit steigert, Neues zu schaffen. China führt die KI-gestützten Forschung an.\n\n11.04.2025\n\nArtikel drucken",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "KI-News vom 06. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-06/",
+                    "type": "website-preview",
+                    "text": "KI-News vom 30. Juli 2025 [...] Neben dem Saugen kann der Roboter auch wischen und verfügt über verschiedene Reinigungsstufen. Die Total Surface 3.0 Technologie sorgt dafür, dass der Roboter automatisch zur Ladestation zurückkehrt und die Reinigung fortsetzt, sobald er wieder geladen ist.\n\nQuelle: lavanguardia.com\n\nAbruf der News bis zum 06. August 2025, 05:55 Uhr · Quellen: International\n\nÜber die Inhalte auf dieser Seite [...] Das Wichtigste:Zwei US-Amerikaner wurden wegen illegaler Export von KI-Chips nach China angeklagt. Das Bafög-System in Deutschland wird von Studenten als zu kompliziert und die Förderung als zu niedrig empfunden. Künstliche Intelligenz bietet neue Möglichkeiten im Immobilienmarkt und könnte Gehälter revolutionieren, indem sie variable Löhne ermöglicht. Microsoft und andere Tech-Giganten investieren massiv in KI, während KI in der Kriminalitätsbekämpfung eingesetzt wird.",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Antworten (4)\n\n  Antworten auf Kommentar\n  + Antwort von  So ein Schwachsinn\n     , geschrieben am \n\n    02.08.2025, 15:40 Uhr\n    :\n\n    Inkompetente Nutzung ist nicht das Problem der AI.\n\n    weitere Antworten\n  + Antwort von  Paul S.\n     , geschrieben am \n\n    02.08.2025, 17:10 Uhr\n    :",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Aktuelle KI-Studien im Überblick (2025) - Digitale Neuordnung",
+                    "url": "https://digitaleneuordnung.de/blog/ki-studien",
+                    "type": "website-preview",
+                    "text": "Wir haben uns mehr als 11 aktuelle KI-Studien (Juli 2024 - März 2025) angeschaut und ihre wesentlichen Aussagen zusammengefasst. Die Studien geben abseits des KI Hypes einen Blick auf den Einsatz von KI im Unternehmen und dokumentieren den Übergang von KI-Experimenten zu echter KI-Transformation. [...] | Trends in Artificial Intelligence | 2025 | Bond Capital |\n| The State of AI 2024 | 2025 | McKinsey |\n| KI-Studie Q4: Beschleunigung der KI-Transformation | 2025 | Deloitte |\n| Industrie 4.0: KI in der Produktion | 2025 | Bitkom |\n| AI Quarterly Pulse Survey Q4 2024 | 2025 | KPMG |\n| Generative KI in der deutschen Wirtschaft 2025 | 2025 | KPMG |\n| Trust in AI - Global Study 2025 | 2025 | KPMG/University of Melbourne |\n| Where's the Value in AI? | 2024 | BCG | [...] | KI-Nutzung in deutschen Unternehmen | 2024 | Statistisches Bundesamt |\n| Reinventing Enterprise Operations with Gen AI | 2024 | Accenture |\n| ROI of AI Report | 2024 | IBM |",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Zum 2. August 2025 gelten weitere Regelungen aus der KI ...",
+                    "url": "https://de.schindhelm.com/news-jusful/news/zum-2-august-2025-gelten-weitere-regelungen-aus-der-ki-verordnung-ai-act-auch-fuer-ihr-unternehmen",
+                    "type": "website-preview",
+                    "text": "Dr. Franz Mittendorfer\n  \n18.09.2025 18:00, Präsenz/Online\n\nGesellschaftsrecht I - Das Recht der Kapital- und Personengesellschaft - Rechtsformwahl, Vermögensordnung, Haftungsverfassung und Gründung\n\nDr. Gerald Schmidsberger\n  \n10.10.2025 09:00, Seegasthof Oberndorfer, Attersee am Attersee [...] zum 2. August 2025, erwachsen weitere Regelungen aus der Verordnung in Geltung. [...] Viel Euphorie und Hoffnung einerseits, aber auch Ängste und Sorgen andererseits: Mit seinen unzähligen Einsatzmöglichkeiten und seinem disruptiven Potenzial ist künstliche Intelligenz weiterhin in aller Munde. In Gestalt der KI-Verordnung (AI Act) hat der europäische Gesetzgeber den weltweit ersten Regulierungsversuch unternommen. In Kraft getreten ist die KI-Verordnung bereits am 1. August 2024. Der Geltungsbeginn der einzelnen Regelungen ist hingegen zeitlich gestaffelt. In genau einem Monat,",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz (KI) - Max-Planck-Gesellschaft",
+                    "url": "https://www.mpg.de/kuenstliche-intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 19: Psychologischer Blick auf künstliche Intelligenz\n\n### Psychologischer Blick auf künstliche Intelligenz\n\n 6. Februar 2023\n\nKünstliche Intelligenz\n\n Forscher testen die kognitiven Fähigkeiten des Sprachmodells GPT-3 mehr\n\nImage 20: „Künstliche Intelligenz ist nicht neugierig“\n\n### „Künstliche Intelligenz ist nicht neugierig“\n\n13. Februar 2023\n\nKünstliche IntelligenzPsychologie [...] Image 9: Frau in weinrotem Blazer sitzt am Tisch und lächelt, spricht zu weiterer Frau im Vordergrund, links im Bild\n\n### Besuch bei Meeyoung Cha\n\n13. Januar 2025\n\nInformatikKünstliche Intelligenz\n\nÜber den ereignisreichen Weg von Meeyoung Cha in die Welt der Datenwissenschaften und wie KI hilft, Falschinformationen in sozialen Medien zu findenmehr\n\nImage 10: Forschungshighlights 2024\n\n### Forschungshighlights 2024\n\n19. Dezember 2024 [...] ### Frühwarnsystem für Falschmeldungen\n\n 3. Oktober 2018\n\nKulturwissenschaftenKünstliche IntelligenzSozialwissenschaften\n\n Fake News in Sozialen Medien effizienter und treffgenauer bekämpfen: Manuel Gomez Rodriguez vom Max-Planck-Institut für Softwaresysteme kombiniert Verfahren der Künstlichen Intelligenz mit der Auswertung von Signalen, in denen sich menschliches Urteil widerspiegelt mehr",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Neue EU-KI-Regeln ab August 2025 - Althammer & Kill",
+                    "url": "https://www.althammer-kill.de/aktuelles/news/detail/neue-ki-regeln-august-2025",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz\n\n# Neue KI-Regeln ab August 2025: Wer jetzt nicht handelt, riskiert mehr als nur Bußgelder\n\nVerfasst von:\nFabian Brandenburger\n\nBerater für Datenschutz und Informationssicherheit\n\nDie EU zieht die Zügel an ab August 2025 gelten schärfere Anforderungen für KI mit allgemeinem Verwendungszweck. Unternehmen müssen jetzt reagieren, um Risiken zu minimieren und ihre Innovationsfähigkeit zu sichern.\n\n## General Purpose AI: Flexibel, mächtig und bald streng reguliert [...] Ob Chatbots, Bildgeneratoren oder multimodale Systeme, sogenannte General Purpose AI (GPAI) hat längst Einzug in den Geschäftsalltag gehalten. Doch mit der Vielseitigkeit kommt auch Verantwortung. Die EU-KI-Verordnung bringt ab dem 2. August 2025 neue, verbindliche Vorgaben für GPAI-Modelle, insbesondere für solche mit systemischem Risiko (GPAI+), also besonders mächtigen, potenziell missbrauchsanfälligen KI-Systemen.\n\n## Was ist GPAI und warum ist es relevant?",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Laut Bundesministerium für Digitales und Staatsmodernisierung (BMDS) befindet sich der Entwurf für das Gesetz derzeit in der Abstimmung innerhalb der Bundesregierung. Anschließend müssen sich die Länder noch damit befassen und es folgt eine öffentliche Beteiligung. Man wolle die Umsetzung der KI-Verordnung zügig vorantreiben und zeitnah nach Abschluss der öffentlichen Beteiligung damit ins Kabinett. \"Mit Blick auf die Bundestagswahlen, den Regierungswechsel und die erforderliche Neuabstimmung",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten  \n- Runway bringt Plattform für Abenteuerspiele per Texteingabe  \n- Zwei US-Amerikaner wegen illegalem Export von KI-Chips nach China angeklagt  ",
+          "id": "2bbe436d-903f-4659-be77-a129c44e3b9e"
+        }
+      ]
+    }
+  }
+}
