@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node -r dotenv-safe/config .github/scripts/ai-draft-news.js",
+    "archive": "node -r dotenv-safe/config .github/scripts/archive_posts.js",
     "slugify": "node .github/scripts/slugify.js"
   },
   "dependencies": {
