@@ -1,0 +1,3 @@
+- Microsoft testet neuen "Copilot-Modus" im Edge-Browser
+- Schwedischer Premierminister nutzt ChatGPT für "eine zweite Meinung"
+- BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein

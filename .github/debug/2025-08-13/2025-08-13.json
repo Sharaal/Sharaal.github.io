@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-13T18:05:25.693Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Runway bringt Plattform für Abenteuerspiele per Texteingabe,MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft,OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland,Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative,Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_NzqIhfqHpoY3QLUzvAHZj6tC",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage August 2025"
+              }
+            }
+          ],
+          "id": "1c2b5aeb-6926-4924-8d72-471d271e4436"
+        },
+        {
+          "role": "tool",
+          "id": "c5ff5ee7-107a-486b-9cd4-674ca77dd8f3",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_NzqIhfqHpoY3QLUzvAHZj6tC",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage August 2025",
+                "output": [
+                  {
+                    "title": "KI-News vom 13. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-13/",
+                    "type": "website-preview",
+                    "text": "Das Wichtigste:Künstliche Intelligenz (KI) entwickelt sich weiter und findet Anwendung in verschiedenen Bereichen wie Unterhaltung, Sicherheit und Bildung. Neue KI-Modelle wie ILMU und GPT-5 werden entwickelt, während Deutschland seine eigene KI-Strategie mit Fokus auf Datenkontrolle und Sicherheit verfolgt. Die Technologie beeinflusst auch die Gesellschaft, von der Beauty-Industrie bis hin zu religiösen Institutionen und gesellschaftlichen Debatten über Transgender-Rechte. [...] Published Time: 2025-08-13T08:03:11+02:00\n\nKI-News vom 13. August 2025 - Dr. DSGVO\n\n===============\nDrücke „Enter”, um zum Inhalt zu springen.\n\nMenü öffnen+\n\nImage 1: Dr. DSGVO - Digitaler Datenschutz\n\nMenü öffnen\n\n   Bullshit Basics\n   Website-Check\n   Newsletter\n   KI-Kurs\n   Datenschutzhinweise\n\nHinweis zu diesem Datenschutz-Blog:\n\n Anscheinend verwenden Sie einen Werbeblocker wie uBlock Origin oder Ghostery, oder einen Browser, der bestimmte Dienste blockiert. [...] In Kürze:Butterfly · GPT-5 · KI · Künstliche Intelligenz · KI-Sicherheit · Entwicklung von Alien · Datenhoheit · Landminenentfernung · KI-Unterricht · KI-Beauty-Trends · Technologie · KI in der islamischen Bildung · Transgender-Diskriminierung · Dojo eingestellt\n\nDieser Beitrag wurde mit Hilfe optimierter KI auf einem KI-Server in Deutschland mit Open-Source KI-Modellen erstellt. Eine manuelle Kuratierung findet statt.\n\nImage 4\n\nHier sind die top 14 News",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "KI-News vom 08. August 2025 - Sichere Lösungen - Wwwschutz",
+                    "url": "https://wwwschutz.de/blog/ki-news-2025-08-08/",
+                    "type": "website-preview",
+                    "text": "Verwendung von KI wirft ethische Fragen auf, wie die Datensicherheit bei ChatGPT und die Kritik an der Darstellung von Spielern in Tennis-Posters. [...] OpenAI hat mit GPT-5 die fünfte Generation ihrer KI-Technologie veröffentlicht. Diese wird als Maßstab für den Fortschritt der künstlichen Intelligenz angesehen und treibt unter anderem das Chatbot ChatGPT an. OpenAI strebt die Entwicklung einer künstlichen Generalintelligenz (AGI) an, die menschliche Fähigkeiten in wirtschaftlich wertvollen Bereichen übertreffen soll. [...] Das Wichtigste:GPT-5, das neueste KI-Modell von OpenAI, soll die Entwicklung einer künstlichen Generalintelligenz ermöglichen und vielfältige Aufgaben bewältigen. Künstliche Intelligenz wird in verschiedenen Bereichen eingesetzt, von der Gestaltung von Tennis-Posters bis hin zur Verbesserung der Energieeffizienz in der Produktion. Es ist wichtig zu beachten, dass KI-Systeme wie ChatGPT falsche medizinische Beratung geben können und nicht für medizinische Fragen genutzt werden sollten. Die",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "KI in Kürze: Ihr Überblick, über die wichtigsten KI-News 13.08.2025",
+                    "url": "https://blog.hubspot.de/marketing/ki-in-kuerze-13-08",
+                    "type": "website-preview",
+                    "text": "Und? Schon getestet? OpenAI hat am 7. August GPT‑5 veröffentlicht – ein multimodales Modell, das Text, Bilder, Audio und Video versteht. Ok, hört sich erst mal nach GPT-4 an, oder? In den letzten Tagen nach dem Launch wurde zwar viel Kritik am neuen Modell geäußert, es gibt aber auch beeindruckende Fortschritte. [...] Neu ist außerdem ein intelligenter Router, der automatisch zwischen verschiedenen Modellvarianten wie „Thinking“ und „Fast“ wechselt. Nutzer:innen können das Verhalten durch wählbare Persönlichkeiten steuern. Während die Leistungsfähigkeit im Großen und Ganzen überzeugt, gibt es jedoch noch einige Aspekte, die von OpenAI behoben werden müssen oder schon behoben wurden, denn GPT-5 neigt immer noch zu Halluzinationen, Inkonsistenzen und gibt teils auch auf Dinge eine Antwort, bei denen das Modell [...] 1. GPT-5: Das neues Modell von OpenAI ist da und das ist ne\n2. Microsoft testet neuen „Copilot-Modus“ im Edge-Browser\n3. Schwedischer Premierminister nutzt ChatGPT für „eine zweite Meinung“\n4. HubSpot Breeze AI im Einsatz\n5. Ihr LLM kennt die Zukunft – wie Sprachmodelle mehrere Wörter vorausdenken\n\n \n\n## GPT-5: Das neues Modell von OpenAI ist da und das ist neu",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "1.   Image 26: Trump verlässt den Roosevelt Room im Weißen Haus in Washington D.C. (USA). Player: video Janis Kluge, Stiftung Wissenschaft und Politik, mit Hintergrundinformationen zum geplanten Treffen zwischen Trump und Putin    interview ### Geplantes Treffen mit Putin \"Für Trump ein willkommener Ausweg\"  \n2.   Image 27: Mähdrescher ernten nach Sonnenuntergang Raps auf einem Acker. Bilder ### Blickpunkte Bilder des Tages vom 7. August 2025 [...] ### EU-Gesetz für künstliche Intelligenz Strengere Regeln für ChatGPT und Co. in Kraft 02.08.2025 • 08:22 Uhr Für ChatGPT, Gemini und andere große Systeme künstlicher Intelligenz gelten in Europa ab heute strengere Regeln. Worum geht es - und welche praktischen Auswirkungen hat das? _Von Kathrin Schmid._ mehr\n\nImage 7: Eine Person hält ein Apple iPhone 16 Pro in der Hand.\n\nPlayer: audio ARD-Börse: Starke Zahlen von Tech-Riesen Apple und Amazon\n\n00:00 LIVE 00:00\n\n00:00\n\nMenü\n---- [...] ### Vorzieheffekt steigert Nachfrage Apple erzielt Rekordquartal 01.08.2025 • 08:55 Uhr Dank eines Vorzieheffekts vieler Kunden hat Apple den höchsten Umsatz der Firmengeschichte im zweiten Quartal erzielt. Im Bereich KI zeigt sich der Konzern offen für Zukäufe, um zur Konkurrenz aufzuschließen. mehr\n\nImage 8: Das Logo von \"Meta AI\" auf einem Mobiltelefon\n\nPlayer: audio Quartalszahlen Meta\n\n00:00 LIVE 00:00\n\n00:00\n\nMenü\n----",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] Am 2. August 2025 treten in der EU verbindliche Regeln für KI-Modelle mit allgemeinem Verwendungszweck in Kraft – und das betrifft direkt die Tools, die Millionen Deutsche täglich nutzen. WDR-Digitalexperte Jörg Schieb erklärt, was das konkret bedeutet.\n\nVon Jörg Schieb\n\n#### Dialogbox\n\n[Zu den Kommentaren ](#commentsBlock) [...] EU-Kommission\n Meta\n OpenAI\n Anthropic\n\n## Kommentare zum Thema\n\n## 4 Kommentare\n\n Kommentar 4:\n  Keine Panik\n  schreibt am \n\n  04.08.2025, 01:05 Uhr\n  :",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten",
+                    "url": "https://www.forschung-und-lehre.de/recht/ki-anbieter-muessen-auf-transparenz-achten-7204",
+                    "type": "website-preview",
+                    "text": "Ab dem 2. August 2025 gelten auf Ebene der Europäischen Union (EU) zentrale Vorgaben für große Sprachmodelle auf Basis Künstlicher Intelligenz (KI) wie ChatGPT und Gemini. Die EU-Kommission hat daher am Freitag Leitlinien zur Umsetzung der neuen Regeln vorgestellt. Sie sollen Anbietern sogenannter General-Purpose-KI-Modelle helfen, ihre Transparenzpflichten unter dem EU-KI-Gesetz (AI Act) zu erfüllen. Das Papier erklärt etwa genauer, welche Modelle und Anbieter von den Neuregelungen betroffen [...] Die Kommission betont, sie wolle mit den Leitlinien rechtliche Klarheit schaffen und so Innovation ermöglichen. Neue Modelle sollen ab 2026 vom neuen EU-KI-Amt geprüft werden, ab 2027 sollen dann auch bereits bestehende Modelle kontrolliert werden.\n\nDeepSeek bald aus App-Stores entfernt?\n-------------------------------------- [...] KI-Anbieter müssen auf Transparenz achten\n===========================================================\n\nBald gelten neue Transparenzpflichten für Anbieter großer KI-Modelle. Derweil gehen deutsche Datenschützer gegen DeepSeek vor.\n\n 22.07.2025 \n\nArtikel drucken",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Gesetzliche Neuregelungen August 2025 | Bundesregierung",
+                    "url": "https://www.bundesregierung.de/breg-de/aktuelles/neuregelungen-august-25-2368672",
+                    "type": "website-preview",
+                    "text": "Ab 2. August 2025 müssen Anbieter von KI-Modellen, die vielseitig einsetzbar sind, Informationspflichten aus der europäischen KI-Verordnung befolgen. Es geht zum Beispiel um Anwendungen, die flexibel Texte, Audios, Bilder oder Videos erzeugen können. Für besonders leistungsfähige KI-Modelle, die ein sogenanntes systemisches Risiko darstellen, gelten zusätzliche Pflichten zur Risikoabschätzung und -minderung.\n\nWeitere Informationen zur Nutzung von Künstlicher Intelligenz\") [...] Weitere Informationen zur Cybersicherheit\")\n\n#### Mehr Transparenz und Sicherheit bei Nutzung Künstlicher Intelligenz (KI) [...] Kontakt\n Erklärung zur Barrierefreiheit\n Barriere melden\n Gebärdensprache\n Leichte Sprache\n Navigations-Hinweise\n\n English\n Français\n\n## Gesetze und Regelungen aktuell – August 2025 Was ist neu im August 2025?\n\nDie Mietpreisbremse wird bis Ende 2029 verlängert. Bürokratische Hürden werden abgebaut, Passbilder für den Ausweis müssen digital sein. Und: Der Bahnverkehr zwischen Hamburg und Berlin ist bis April 2026 eingeschränkt. Die gesetzlichen Neuregelungen im Überblick.\n\n4 Min. Lesedauer",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "Das Berliner Deep-Tech-Unternehmen BeatSquares erweitert sein Führungsteam: Ab dem 1. August 2025 übernimmt Peter Dyllick-Brenzinger die Rolle des Chief Product & Technology Officer (CPTO) und wird gleichzeitig Mitgründer. Die Personalie erfolgt in einer Phase starken Wachstums, in der BeatSquares seine modulare KI-Infrastruktur bei ersten Verlagspartnern einführt und den Launch eines Messenger-basierten Nachrichtenprodukts für Mitte des Jahres vorbereitet. [...] Laut einem Bericht des Marktforschungsunternehmens \"eMarketer\" wird der Einsatz von KI-gesteuerter Suchmaschinenwerbung in den USA in den kommenden Jahren massiv zunehmen. Während die Ausgaben für diese Form der Werbung im Jahr 2025 bei rund einer Milliarde US-Dollar liegen, wird für das Jahr 2029 ein Anstieg auf fast 26 Milliarden Dollar prognostiziert. Diese Entwicklung ist vor allem auf den rasanten Einsatz von KI-Technologie und die Verbesserung der Zielgruppenansprache zurückzuführen. [...] Disney und NBCUniversal haben am 11. Juni 2025 eine gemeinsame Klage gegen Midjourney eingereicht – eine der ersten großen Hollywood-Klagen gegen ein KI-Unternehmen. Sie werfen Midjourney vor, urheberrechtlich geschütztes Material ohne Genehmigung genutzt zu haben, um sein Bildgenerierungsprogramm zu trainieren. Dabei sollen ikonische Figuren wie Darth Vader, Elsa, die Minions, Shrek, Spider-Man und Homer Simpson nachgebildet worden sein.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Die KI-Verordnung sieht auch vor, dass ab 2. August 2025 feststeht, welche Behörden für die Umsetzung und Kontrolle der KI-Regeln zuständig sind. \"Jeder Mitgliedsstaat muss mindestens eine notifizierende Behörde und mindestens eine Marktüberwachungsbehörde als zuständige nationale Behörde einrichten oder benennen\", erklärt die Bundesnetzagentur auf MDR-Anfrage. Dafür bedarf es allerdings noch eines nationalen Durchführungsgesetzes. Das werde derzeit noch erarbeitet. [...] Ab 2. August 2025 müssen nach der europäischen KI-Verordnung sogenannte KI-Modelle mit allgemeinem Verwendungszweck bestimmte Informationspflichten erfüllen. Zudem sollte bis zu diesem Tag auch feststehen, welche Behörden in Deutschland für die Kontrolle der Umsetzung der KI-Verordnung verantwortlich sind. Wir fragen einen Experten, welche Auswirkungen die neuen Regeln für Unternehmen haben.\n\nvon Julia Vogt, Redaktion Wirtschaft und Ratgeber\n\nInhalt des Artikels: [...] Mitte Juli bis Mitte August ist Paarungszeit beim Rehwild. Dann ist der Bock los, der seine Rehdame jagt. Dadurch kann es vermehrt zu Wildwechseln auf den Straßen kommen. Es wird daher vor erhöhter Unfallgefahr gewarnt.\n\nMichael Klahre, Pressesprecher Feuerwehr DD im Porträt\nMichael Klahre, Pressesprecher Feuerwehr DD im Porträt\n\n#### MDR SACHSEN | 12.08.2025 | Audio Expertenrat: So arbeitet die Feuerwehr - Blick hinter die Kulissen",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Geltungsbeginn der Regelungen der KI-VO zu „General Purpose AI“",
+                    "url": "https://www.nomos.de/stichtag-2-august-2025-geltungsbeginn-der-regelungen-der-ki-vo-zu-general-purpose-ai/",
+                    "type": "website-preview",
+                    "text": "neuen Anforderungen zu ergreifen. Der Stichtag des 2. August 2025 markiert jedenfalls den Beginn einer neuen Phase der Regulierung im europäischen Binnenmarkt mit absehbar grundlegenden Weichenstellungen für die europäische Innovationslandschaft. [...] Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Microsoft testet neuen „Copilot-Modus“ im Edge-Browser  \n- Schwedischer Premierminister nutzt ChatGPT für „eine zweite Meinung“  \n- BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein  ",
+          "id": "2fad52bd-1c57-4401-b066-5614f5b82b6b"
+        }
+      ]
+    }
+  }
+}
