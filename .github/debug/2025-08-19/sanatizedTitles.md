@@ -1,0 +1,3 @@
+- GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback
+- KI-gestützte Antibiotika gegen resistente Bakterien entwickelt
+- Verbraucherschutzklagen gegen KI-Systeme wegen Datenschutzverletzungen

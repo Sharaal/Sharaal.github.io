@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-19T18:05:30.769Z",
+    "prompt": "\nSchreibe mir einen News Artikel mit dem Titel \"KI-gestützte Antibiotika gegen resistente Bakterien entwickelt\". \nDer Artikel soll etwa 1 Seite lang sein und mit Markdown formatiert sein. Der Titel soll nicht im Artikel enthalten sein, der Artikel soll direkt mit dem ersten Absatz beginnen. Füge ein <!--more--> zwischen dem ersten und zweiten Absatz ein.\nVerwende dabei nur Informationen der letzten 7 Tage, sodass der Artikel nur die aktuellen Neuigkeiten zu dem Thema enthält.\nFüge am Ende des Artikels einen Absatz mit den verlinkten Quellen hinzu.\nDer Artikel soll in deutscher Sprache sein.\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_p24TPZFkFlfInJDfvPBcoJ2b",
+              "toolName": "web_search",
+              "args": {
+                "query": "KI-gestützte Antibiotika gegen resistente Bakterien entwickelt Nachrichten August 2025"
+              }
+            }
+          ],
+          "id": "620b4bd0-0cfb-496e-8a1f-07854ed1f199"
+        },
+        {
+          "role": "tool",
+          "id": "f5665812-01d9-4310-a626-64968c9b05b0",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_p24TPZFkFlfInJDfvPBcoJ2b",
+              "toolName": "web_search",
+              "result": {
+                "input": "KI-gestützte Antibiotika gegen resistente Bakterien entwickelt Nachrichten August 2025",
+                "output": [
+                  {
+                    "title": "KI-News vom 18. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-18/",
+                    "type": "website-preview",
+                    "text": "Zwei neue Antibiotika, NG1 und DN1, wurden mit Hilfe von KI entwickelt und zeigten Wirksamkeit gegen resistente Bakterienstämme wie Gonorrhoe und MRSA. NG1 zielt speziell auf Gonorrhoe ab, während DN1 gegen MRSA wirksam ist. Die neuen Medikamente greifen die bakteriellen Membranen auf eine neue Weise an. Die Entwicklung ist noch in einem frühen Stadium und muss noch umfangreiche Tests durchlaufen.\n\nQuelle: The Independent [...] Künstliche Intelligenz wird zur Entwicklung neuer Antibiotika eingesetzt, um die wachsende Bedrohung durch resistente Bakterienstämme zu bekämpfen. KI-Algorithmen können Millionen von Molekülverbindungen analysieren und potenzielle Wirkstoffe identifizieren. [...] Wenn die KI ein Nutzeralter unter 18 Jahren schätzt, wird dieser benachrichtigt und aufgefordert, sein Alter zu verifizieren, um auf bestimmte Inhalte zugreifen zu können. Australien plant, YouTube für Kinder unter 16 Jahren zu verbieten, um sie vor schädlichen Inhalten zu schützen.\n\nQuelle: malaymail\n\nKI-Antibiotika: Neue Antibiotika gegen resistente Keime mithilfe von KI entwickelt",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "KI-Antibiotika soll gegen resistente Keime helfen - Nau.ch",
+                    "url": "https://www.nau.ch/news/forschung/ki-antibiotika-soll-gegen-resistente-keime-helfen-67032092",
+                    "type": "website-preview",
+                    "text": "# KI-Antibiotika soll gegen resistente Keime helfen\n\nJuli Rutsch\n\nUSA, 18.08.2025 - 16:47\n\nWissenschaftler nutzen KI, um neue Antibiotika gegen resistente Keime wie Gonorrhoe und MRSA zu entwickeln. Dies könnte gefährliche Infektionen vermeiden.\n\nki antibiotika [...] Ein Forschungsteam am Massachusetts Institute of Technology (MIT) setzte generative KI ein, um über 36 Millionen mögliche Wirkstoffe zu erzeugen. Ziel war die Entdeckung innovativer Verbindungen, die nicht auf bekannten Antibiotika basieren.\n\nDie Forscher meinten, so könnten neue Wirkmechanismen zur Bekämpfung von Antibiotikaresistenzen gefunden werden, berichtet «Euronews».\n\n## KI als neues Antibiotika [...] Die Weltgesundheitsorganisation WHO stuft resistente Erreger wie Gonorrhoe als grosse Bedrohung ein. Weltweit sterben jährlich Millionen an Infektionen, die durch resistente Bakterien verursacht werden.\n\nDie Entwicklung neuer Medikamente ist entscheidend, da herkömmliche Antibiotika zunehmend versagen, erklärt das MIT-Team in der Fachzeitschrift «Cell».\n\n## Auch andere Forschungsteams nutzen KI als Schlüssel",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "ERC Synergy Grant: Elf Mio. € für KI-gestützte Suche neuer Antibiotika",
+                    "url": "https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/erc-synergy-grant-deutsch-franzoesisches-team-erhaelt-elf-millionen-euro-fuer-die-ki-gestuetzte-suche-nach-neuen-antibiotika/",
+                    "type": "website-preview",
+                    "text": "Das ERC-Projekt des Trios startet 2025 und läuft sechs Jahre. Sein offizieller Name: „Deep learning analysis of imaging and metabolomic data to accelerate antibiotic discovery against antimicrobial resistance” (AI4AMR).\n\nCharlotte Schwenner\n\n### Pressekontakt\n\n### Forschungs­gruppen\n\n### Standorte\n\n### Verwandte Nachrichten\n\nDas Horizon Europe Projekt DEFENDER sucht neue Angriffspunkte für antivirale Therapien\n\n### Horizon Europe Projekt DEFENDER: Neue Angriffspunkte für antivirale Therapien [...] +49 531 6181-0  \n E-Mail schreiben\n\nNewsletter\n\n© 2025 Helmholtz-Zentrum für Infektionsforschung GmbH\n\nLogo von Helmholtz - Gemeinschaft deutscher Forschungszentren\nLogo brics\nLogo CiiM\nLogo CSSB\nLogo HIOH\nLogo HIPS\nLogo HIRI\nLogo TWINCORE [...] Immer mehr bakterielle Krankheitserreger sind gegen mehrere Antibiotika gleichzeitig resistent. Das ist eines der drängendsten Gesundheitsprobleme unserer Zeit. Um solchen Resistenzen entgegenzuwirken, braucht die Menschheit dringend neue Antibiotika – vor allem solche mit komplett neuartigen Wirkmechanismen.",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Wissenschaftler entwickeln mit KI Antibiotika gegen Gonorrhoe und ...",
+                    "url": "https://de.euronews.com/gesundheit/2025/08/16/neue-medikamente-dank-ki-antibiotika-gegen-gonorrhoe-und-mrsa",
+                    "type": "website-preview",
+                    "text": "Immer mehr Menschen sterben an Infektionen, die durch arzneimittelresistente Bakterien verursacht werden. Ein Forschungsteam des MIT hat nun künstliche Intelligenz (KI) eingesetzt, um potenzielle neue Wirkstoffe gegen sogenannte Superbugs zu entwickeln – also besonders hartnäckige bakterielle Erreger, die gegen herkömmliche Behandlungen resistent sind. [...] Euronews logo\nEin offizielles Bild des finnischen Politikers Eemeli Peltonen\nAnwohner kämpfen gegen ein Feuer, das sich auf das Dorf Rebordondo in der Nähe von Ourense im Nordwesten Spaniens ausbreitet, am Montag, 18. August 2025\nDATEI - Norwegens Marius Borg Hoiby und Kronprinzessin Mette-Marit in Oslo, 16. Juni 2022\nEuropa in Bewegung\n\nBrüssel, Meine Liebe? [...] Ein offizielles Bild des finnischen Politikers Eemeli Peltonen\nAnwohner kämpfen gegen ein Feuer, das sich auf das Dorf Rebordondo in der Nähe von Ourense im Nordwesten Spaniens ausbreitet, am Montag, 18. August 2025\nDATEI - Norwegens Marius Borg Hoiby und Kronprinzessin Mette-Marit in Oslo, 16. Juni 2022\nEuropa in Bewegung\n\nBrüssel, Meine Liebe?",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "KI entwickelt potenzielle Antibiotika gegen resistente Erreger - Watson",
+                    "url": "https://www.watson.ch/international/forschung/987577236-ki-entwickelt-potenzielle-antibiotika-gegen-resistente-erreger",
+                    "type": "website-preview",
+                    "text": "So lernte die KI, wie Bakterien auf verschiedene molekulare Strukturen reagieren. Zudem wurde alles herausgefiltert, was für Menschen potenziell giftig sein könnte.\n\nDie Ergebnisse der KI wurden im Labor und an Mäusen getestet. «Wir sind begeistert, weil wir zeigen, dass generative KI genutzt werden kann, um völlig neue Antibiotika zu entwerfen», sagte MIT-Professor James Collins der BBC. [...] Das Team des Massachusetts Institute of Technology (MIT) forschte mit einer KI an Medikamenten für die Krankheiten Gonnorhoe und MRSA.\n\nGonnorhoe, umgangssprachlich auch als Tripper bekannt, zählt zu den häufigsten sexuell übertragbaren Infektionen.\n\nMRSA steht für Methicillin-resistenter Staphylococcus aureus. Umgangssprachlich handelt es sich dabei um den «Krankenhauskeim», der sich vorwiegend ab den 1960er Jahren verbreitete. [...] Ursprünglich wurden Antibiotika erfunden, um Bakterien abzutöten. Diese entwickelten sich allerdings weiter, sodass einige von ihnen mittlerweile als resistent gegen Antibiotika gelten. Dank des Einsatz einer KI besteht für Patient:innen zukünftig wieder Hoffnung.\n\n### Antibiotikaresistenz fordert Menschenleben\n\nMehr als eine Million Menschen stirbt jährlich an Krankheiten, die mit Antibiotika nicht mehr heilbar sind. In Deutschland sind es jährlich bis zu 9700 Todesfälle.",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Wissenschaftler entwickeln Antibiotika gegen Gonorrhoe und MRSA",
+                    "url": "https://de.euronews.com/next/2025/08/16/neue-medikamente-dank-ki-antibiotika-gegen-gonorrhoe-und-mrsa?utm_source=news.google.com&utm_campaign=feeds_next&utm_medium=referral",
+                    "type": "website-preview",
+                    "text": "Immer mehr Menschen sterben an Infektionen, die durch arzneimittelresistente Bakterien verursacht werden. Ein Forschungsteam des MIT hat nun künstliche Intelligenz (KI) eingesetzt, um potenzielle neue Wirkstoffe gegen sogenannte Superbugs zu entwickeln – also besonders hartnäckige bakterielle Erreger, die gegen herkömmliche Behandlungen resistent sind. [...] Ein Wissenschaftler hält eine Petrischale.\nClose Button\nfacebook\nfacebook\ntwitter\ntwitter\nflipboard\nflipboard\nsend\nsend\nxing\nxing\nmessenger\nmessenger\nbluesky\nbluesky\ntelegram\ntelegram\nthreads\nthreads\nwhatsapp\nwhatsapp\n\n## Mit Hilfe von KI konnten MIT-Wissenschaftler neue Antibiotika gegen hartnäckige Gonorrhoe und MRSA entwickeln. Ziel der Forscher war es, völlig neue Wege zur Bekämpfung der antimikrobiellen Resistenz zu finden. [...] Die Wissenschaftler des Massachusetts Institute of Technology (MIT) gingen jedoch noch einen Schritt weiter und verwendeten KI, um hypothetische chemische Moleküle zu erzeugen, die entweder noch nicht entdeckt wurden oder noch nicht existieren.\n\n### Neue Wege für die Behandlung arzneimittelresistenter Erkrankungen",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Tripper und MRSA: KI entwickelt Medikament gegen resistente Erreger",
+                    "url": "https://www.watson.de/leben/good-news/767780627-tripper-und-mrsa-ki-entwickelt-medikament-gegen-resistente-erreger",
+                    "type": "website-preview",
+                    "text": "So lernte die KI, wie Bakterien auf verschiedene molekulare Strukturen reagieren. Zudem wurde alles herausgefiltert, was für Menschen potenziell giftig sein könnte.\n\nDie Ergebnisse der KI wurden im Labor und an Mäusen getestet. \"Wir sind begeistert, weil wir zeigen, dass generative KI genutzt werden kann, um völlig neue Antibiotika zu entwerfen\", sagte MIT-Professor James Collins der BBC. [...] watson\nburger\nwatson News auf Facebook\nwatson News auf Instagram\nwatson News auf Tiktok\nNavigation\n\n# Tripper und MRSA: KI entwickelt Medikament gegen resistente Erreger\n\nClose up on hands of unrecognizable scientist in vinyl gloves dripping liquid from pipette into petri dish studying microbiology at light table in laboratory, copy space\n\n## KI entwickelt potenzielle Antibiotika gegen resistente Erreger\n\nLena Breuer [...] Ursprünglich wurden Antibiotika erfunden, um Bakterien abzutöten. Diese entwickelten sich allerdings weiter, sodass einige von ihnen mittlerweile als resistent gegen Antibiotika gelten. Dank des Einsatz einer KI besteht für Patient:innen zukünftig wieder Hoffnung.\n\n### Antibiotikaresistenz fordert Menschenleben\n\nMehr als eine Million Menschen stirbt jährlich an Krankheiten, die mit Antibiotika nicht mehr heilbar sind. In Deutschland sind es jährlich bis zu 9700 Todesfälle.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "KI entwirft neue Antibiotika aus dem Nichts - All-AI.de",
+                    "url": "https://www.all-ai.de/news/topbeitraege/ki-medizin-antibiotika",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz hat zwei neue Antibiotika entworfen, die im Labor und im Tierversuch gegen multiresistente Bakterien wirken. NG1 und DN1 entstanden nicht in klassischen Datenbanken, sondern durch generative Modelle. Beide greifen die Bakterienmembran an und unterscheiden sich strukturell von bekannten Wirkstoffen. Kann dieser Ansatz die stockende Antibiotikaforschung neu beleben?\n\n## NEWS\n\n#### Vom Molekülfragment zum Wirkstoff [...] Der zweite Wirkstoff DN1 entstand ohne Startfragment. Ziel war der MRSA-Erreger, bekannt für seine Resistenz gegen viele Antibiotika. Die KI entwarf über 29 Millionen chemisch plausible Moleküle. Nach strenger Auswahl blieben rund 90 vielversprechende Kandidaten, von denen etwa zwei Dutzend im Labor hergestellt wurden. Sechs davon zeigten Aktivität, einer besonders deutlich: DN1. [...] Im ersten Entwicklungsschritt konzentrierte sich das Forschungsteam auf Gonorrhö-Erreger. Als Ausgangspunkt diente ein Fragment mit dem Kürzel F1, das unter 45 Millionen Kandidaten ausgewählt wurde. Die KI generierte daraus etwa sieben Millionen vollständige Moleküle. Nach mehreren Bewertungsrunden blieben 80 realistische Strukturen, zwei wurden schließlich synthetisiert.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Neue Antibiotika: MIT-Forschende entwickeln KI-basierte Lösungen ...",
+                    "url": "https://www.20min.ch/story/forschung-neue-antibiotika-aus-dem-ki-labor-hoffnung-gegen-spitalkeime-103399823",
+                    "type": "website-preview",
+                    "text": "# Neue Antibiotika: MIT-Forschende entwickeln KI-basierte Lösungen gegen MRSA und Gonorrhö\n\n## Forschung: Neue Antibiotika aus dem KI-Labor – Hoffnung gegen Spitalkeime\n\nForschende am MIT entwickeln mit KI zwei neue Antibiotika. Sie wirken in Tierversuchen gegen Gonorrhö und MRSA – zwei multiresistente Keime, die weltweit Probleme bereiten.\n\nMichael Andai\n\n### Darum gehts\n\nForschende am MIT haben mit KI zwei neue Antibiotika entwickelt, die gegen Gonorrhö und MRSA wirken. [...] Die Substanz NG1 blockiert ein wichtiges Protein der Gonorrhö-Bakterien, die zunehmend resistent sind.\n\nDN1 greift die Bakterienmembran von MRSA an, einem häufigen Spitalkeim.\n\nDie KI-Plattform analysierte 36 Millionen Verbindungen, um diese Wirkstoffe zu finden.\n\nDie Zulassung der Medikamente könnte noch 10 bis 15 Jahre dauern. [...] Die Substanz NG1 zielt auf Gonorrhö-Bakterien. Diese Infektion ist weltweit zunehmend resistent gegen Standardtherapien. NG1 blockiert das Protein LptA, das für die Bakterienmembran wichtig ist.",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "DFG unterstützt Projekt zu Antibiotika-Resistenzen mit 750.000 Euro",
+                    "url": "https://www.medizin.uni-muenster.de/fakultaet/news/ki-fuer-schnellere-diagnosen-dfg-unterstuetzt-projekt-zu-antibiotika-resistenzen-mit-750000-euro.html",
+                    "type": "website-preview",
+                    "text": "Intelligenz (KI) soll die Prognose und Bekämpfung von Antibiotika-Resistenzen verbessert werden. Die Deutsche Forschungsgemeinschaft (DFG) fördert das Vorhaben über die nächsten drei Jahre mit 750.000 Euro.",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "### KI-gestützte Antibiotika: Hoffnung im Kampf gegen resistente Bakterien\n\nWissenschaftler des Massachusetts Institute of Technology (MIT) haben mithilfe künstlicher Intelligenz (KI) zwei neue Antibiotika entwickelt, die gegen multiresistente Bakterien wie Gonorrhoe und MRSA wirksam sind. Die Substanzen, NG1 und DN1 genannt, wurden durch generative KI-Modelle entworfen, die Millionen von chemischen Verbindungen analysierten und optimierten. NG1 zielt auf Gonorrhoe-Bakterien ab, während DN1 die Membranen von MRSA-Bakterien angreift. Beide Wirkstoffe unterscheiden sich strukturell von bisherigen Antibiotika und könnten neue Wege im Kampf gegen die zunehmende Antibiotikaresistenz eröffnen.\n\n<!--more-->\n\nDie Entwicklung dieser Medikamente ist ein bedeutender Schritt, da herkömmliche Antibiotika zunehmend versagen. Laut der Weltgesundheitsorganisation (WHO) sterben jährlich Millionen Menschen an Infektionen, die durch resistente Bakterien verursacht werden. Die KI-gestützte Forschung ermöglicht es, in kürzester Zeit potenzielle Wirkstoffe zu identifizieren, die in der Natur oder durch traditionelle Methoden nicht entdeckt worden wären. Erste Tests im Labor und an Mäusen zeigen vielversprechende Ergebnisse, doch bis zur Marktreife könnten noch 10 bis 15 Jahre vergehen.\n\n### Quellen\n- [Dr. DSGVO: KI-News vom 18. August 2025](https://dr-dsgvo.de/ki-news-2025-08-18/)\n- [Nau.ch: KI-Antibiotika soll gegen resistente Keime helfen](https://www.nau.ch/news/forschung/ki-antibiotika-soll-gegen-resistente-keime-helfen-67032092)\n- [Euronews: Neue Medikamente dank KI](https://de.euronews.com/gesundheit/2025/08/16/neue-medikamente-dank-ki-antibiotika-gegen-gonorrhoe-und-mrsa)\n- [Watson: KI entwickelt potenzielle Antibiotika](https://www.watson.ch/international/forschung/987577236-ki-entwickelt-potenzielle-antibiotika-gegen-resistente-erreger)",
+          "id": "1ddabe0f-fd12-4bce-b1e2-5b93a9b6a69b"
+        }
+      ]
+    }
+  }
+}
