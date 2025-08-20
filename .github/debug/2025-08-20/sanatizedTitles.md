@@ -1,0 +1,3 @@
+- Google veröffentlicht KI-Modell für medizinische Fragen
+- G7-Staaten planen Maßnahmen gegen den Energieverbrauch von KI
+- Rhein-Main-Assistent der FAZ beantwortet regionale Fragen

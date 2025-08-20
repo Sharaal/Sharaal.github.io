@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-20T18:05:13.631Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Verbraucherschutzklagen gegen KI-Systeme wegen Datenschutzverletzungen,KI-gestützte Antibiotika gegen resistente Bakterien entwickelt,GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback,Schwedischer Premierminister nutzt ChatGPT für \"eine zweite Meinung\",Microsoft testet neuen \"Copilot-Modus\" im Edge-Browser,BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein,Runway bringt Plattform für Abenteuerspiele per Texteingabe,MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Strengere EU-Regeln für KI-Systeme wie ChatGPT treten in Kraft,OpenAI veröffentlicht erstmals Open-Source-Modelle mit gpt-oss-120b und gpt-oss-20b,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Nvidia plant erste KI-Plattform für industrielle Anwendungen in Deutschland,Meta-Chef nennt generative KI eine Sackgasse und präsentiert V-JEPA 2 als Alternative,Elon Musk sichert Neuralink 650 Millionen Dollar für Gehirnchip-Entwicklung,MIT entwickelt Imaging-System, das Roboter durch verschlossene Boxen sehen lässt,Deepseek-App wegen Datenschutzverstößen in Deutschland verboten,BBC verklagt US-KI-Startup Perplexity wegen unerlaubter Nutzung von Inhalten,Zalando steigert Gewinn durch KI-Feed im zweiten Quartal 2025,Meta AI jetzt auf europäischen Handys verfügbar, Datenschützer warnen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_jiabLBzKcfLTvZpd5OgxP4aO",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "c616d643-fcc2-4ffe-940e-791edb27f78d"
+        },
+        {
+          "role": "tool",
+          "id": "c1297437-5848-4798-9ebf-4aafc17803ef",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_jiabLBzKcfLTvZpd5OgxP4aO",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "Künstliche Intelligenz: News, Ratgeber und Tipps | heise online",
+                    "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 7: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### Sprachmodell für medizinische Fragen von Google veröffentlicht 14.07.2023 14 MIT Technology Review\n\nMehr Artikel laden\n\nAlle Inhalte geladen\n\nAnzeige [...] Image 17: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### Microsoft will den Vertrag mit OpenAI bis 2030 aussitzen Streit um die Beteiligung bei Umstrukturierung: Microsoft soll sich auf Plan B vorbereiten, falls die Verhandlungen mit OpenAI scheitern. 19.06.2025 10:53 Uhr 23 [...] Image 23: In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet. ### KI: Stromverbrauch global bald bei 1 Prozent, G7-Staaten gehen Energiehunger an Die G7-Staaten haben vereinbart, den enormen Stromverbrauch durch KI sowie deren Potenziale für Energieeffizienz und Innovation stärker in den Blick zu nehmen. 18.06.2025 18:05 Uhr 19",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "KI-News vom 18. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-18/",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz (KI) gerät in den Fokus von Verbraucherschutzklagen. KI-basierte Transkriptionswerkzeuge in Kundendienstsystemen werden kritisiert, da sie laut Klagen ohne Zustimmung Kundengespräche \"abhören\" und somit gegen das kalifornische Datenschutzgesetz verstoßen. Diese Entwicklung zeigt, wie neue Technologien wie KI zu neuen Rechtsstreitigkeiten und Herausforderungen im Bereich des Verbraucherschutzes führen.\n\nQuelle: Los Angeles Times\n\nKI-Trends 2025 [...] Das Wichtigste:Zwei KI-Startups und Unternehmen wie OpenAI und Yahoo könnten Googles Webbrowser Chrome übernehmen, da ein Gericht Google wegen Monopols missbraucht könnte zwingen könnte, Chrome zu verkaufen. Im Jahr 2025 werden Verbraucherschutzklagen verstärkt auf KI-basierte Systeme fokussieren, da diese Kundengespräche ohne Zustimmung aufnehmen und Datenschutzbestimmungen verletzen könnten. Senator Josh Hawley untersucht Meta wegen möglicher Missbrauch von KI-Chatbots, die \"romantische\" und [...] Zwei neue Antibiotika, NG1 und DN1, wurden mit Hilfe von KI entwickelt und zeigten Wirksamkeit gegen resistente Bakterienstämme wie Gonorrhoe und MRSA. NG1 zielt speziell auf Gonorrhoe ab, während DN1 gegen MRSA wirksam ist. Die neuen Medikamente greifen die bakteriellen Membranen auf eine neue Weise an. Die Entwicklung ist noch in einem frühen Stadium und muss noch umfangreiche Tests durchlaufen.\n\nQuelle: The Independent",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Aktuelle KI-Studien im Überblick (2025) - Digitale Neuordnung",
+                    "url": "https://digitaleneuordnung.de/blog/ki-studien",
+                    "type": "website-preview",
+                    "text": "- [x] \n\nInhaltsverzeichnis\n\n \n\n   Bond Capital \"Trends in Artificial Intelligence\"\n\n   McKinsey \"The State of AI 2024\"\n\n   Deloitte \"KI-Studie Q4/2024\"\n\n   BCG - \"Where's the Value in AI?\"\n\n   Bitkom \"Industrie 4.0 und KI in der Produktion\"\n\n   Statistisches Bundesamt \"KI-Nutzung in deutschen Unternehmen\" (November 2024)\n\n   Accenture \"Reinventing Enterprise Operations with Gen AI\"\n\n   IBM \"ROI of AI Report\"\n\n   KPMG \"AI Quarterly Pulse Survey Q4 2024\" (Januar 2025) [...] Bond Capital \"Trends in Artificial Intelligence\"\n   McKinsey \"The State of AI 2024\"\n   Deloitte \"KI-Studie Q4/2024\"\n   Bitkom \"Industrie 4.0 und KI in der Produktion\"\n   KPMG \"AI Quarterly Pulse Survey Q4 2024\"\n   KPMG \"Generative KI in der deutschen Wirtschaft 2025\"\n   KPMG/University of Melbourne \"Trust in AI - Global Study 2025\"\n   BCG - \"Where's the Value in AI?\"\n   Statistisches Bundesamt \"KI-Nutzung in deutschen Unternehmen\" (November 2024) [...] Deloitte \"KI-Studie Q4/2024\"\n----------------------------\n\nIn der KI-Studie von Deloitte wurden 2.772 Führungskräfte in 14 Ländern zwischen Juli und September 2024 befragt. Dabei liegt Deutschland im weltweiten Vergleich an zweiter Stelle beim Mitarbeiterzugang zu GenAI-Tools. Zudem zeigen 62% der deutschen Befragten gesteigertes Interesse an autonomen KI-Agenten, deutlich über dem weltweiten Durchschnitt von 52%.\n\nFakten-Liste:",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "MeMo:KI – Meinungsmonitor Künstliche Intelligenz - CAIS Research",
+                    "url": "https://www.cais-research.de/forschung/memoki/",
+                    "type": "website-preview",
+                    "text": "Došenović, P. (2021, Mai). Die Beobachtung von KI in Arbeit und Gesellschaft. Mit welchen Indikatoren können wir die Verbreitung und die Effekte von KI messen und analysieren? Welche gibt es und welche brauchen wir noch? Podiumsdiskussion im Rahmen der Konferenz „Algorithmen, Automatisierung und Arbeit – Wie KI unsere Arbeit und unser Leben besser machen kann.“ der Denkfabrik Digitale Arbeitsgesellschaft, Berlin (19. – 20.05.2021) [...] Kieslich, K., Došenović, P., Marcinkowski, F., & Keller, B. (2021, September). Artificial Intelligence: A promising future or a serious threat? An investigation into media coverage and public perceptions of AI in Germany. Präsentation in der Audience and Receptions Studies Section auf ECREA´S 8. European Communication Konferenz in Braga (07.-09.09. 2021). [...] Marcinkowski, F. (2022, Mai). Monitoring Public Opinion on AI. Vortrag im Workshop AI and the Common Sense, Nancy (23.-25.05.2022).\n\nKieslich, K. (2022, Mai). What Audience to Expect for Science Communication on AI? Vortrag im Theme Development Workshop „AI: Mitigating Bias and Disinformation“, Vision4AI (18.05.2022).",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Antworten (4)\n\n  Antworten auf Kommentar\n  + Antwort von  So ein Schwachsinn\n     , geschrieben am \n\n    02.08.2025, 15:40 Uhr\n    :\n\n    Inkompetente Nutzung ist nicht das Problem der AI.\n\n    weitere Antworten\n  + Antwort von  Paul S.\n     , geschrieben am \n\n    02.08.2025, 17:10 Uhr\n    :",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "KI - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/ki",
+                    "type": "website-preview",
+                    "text": "Sportschau Logo\nMediathek Logo\nAudiothek Logo\nKiKA Logo\n\n# KI - aktuelle Nachrichten\n\n## KI\n\nElon Musk\n\n### Geldregen für Neuralink Musks Gehirnchip-Firma - Fortschritt oder Risiko?\n\nElon Musk hat sich für seine Gehirnchip-Firma Neuralink weitere 650 Millionen Dollar besorgt. Das bringt den Milliardär seinem Ziel, einer Symbiose von Mensch und KI, wieder ein Stück näher. Von Angela Göpfert.\nmehr\n\n15 Minuten. Der tagesschau-Podcast am Morgen [...] Eine Gewitterfront zieht am Abend über den Großraum Ulm hinweg.\n\n### Deutscher Wetterdienst Süddeutschland stehen schwere Unwetter bevor\n\nDie Talbrücke Rinsdorf an der Autobahn 45 im nordrhein-westfälischen Siegerland.\n\n### A45 in Nordrhein-Westfalen 70 Meter hohe Talbrücke erfolgreich verschoben\n\nCansin Köktürk\n\n### Bundestag Rauswurf wegen \"Palestine\"-Shirts\n\nSendungsbild\n\nSendung\n\n### tagesschau 20:00 Uhr, 04.06.2025 [...] Nach dem Messerangriff in Hamburg: Wie Bahnhöfe sicherer werden könnten. Instagram und Facebook wollen ihre KI mit Nutzerdaten trainieren. Wie eine neue Spritze Neurodermitis-Patienten helfen kann.\nardaudiothek\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Stauvermeidung durch KI\n\nSendungsbild",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "Microsoft AI Learning Week: Fünf Tage voller KI-Impulse",
+                    "url": "https://www.microsoft.com/de-de/techwiese/news/microsoft-ai-learning-week-fuenf-tage-voller-ki-impulse.aspx",
+                    "type": "website-preview",
+                    "text": "Das neue Modell bietet tieferes Reasoning, höhere Performance und mehr Effizienz – ideal für komplexe Analysen, Agent-Workflows und schnellere Code-Generierung.\n\nZur News\n\n.NETArtificial IntelligenceAzureCloud NativeCodingGitHubOpen SourceSecurityVisual Studio\n\n## Freitag, 08. August 2025\n\n### Die wichtigsten News der Kalenderwoche 32/2025: Azure, KI, Security und mehr [...] Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.\n\nZur News\n\nArtificial IntelligenceAzureCloud NativeCoding\n\n## Mittwoch, 06. August 2025\n\n### Azure AI Foundry: Neue Features im Juli 2025 [...] Vom 8. bis 12. September 2025 dreht sich bei der Microsoft AI Learning Week alles um die neuesten Entwicklungen im Bereich künstlicher Intelligenz und Datenplattformen. In einer Mischung aus Grundlagen, technischen Deep Dives und praxisnahen Beispielen zeigt das kostenfreie Online-Event, wie sich KI-Technologien effektiv in Projekten einsetzen lassen – vom ersten Konzept bis zur skalierbaren Lösung.",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten",
+                    "url": "https://www.forschung-und-lehre.de/recht/ki-anbieter-muessen-auf-transparenz-achten-7204",
+                    "type": "website-preview",
+                    "text": "Unliebsame Arbeiten auslagern und von einer Maschine übernehmen lassen: So einfach ist es nicht, wenn die KI in der Lehre helfen soll.\n\nCharlotte Pardey 05.11.2024 \n\n[]( 28: Europaflaggen vor dem Sitz der Europäischen Kommission in Brüssel [...] Beliebt\nUni Hamburg prüft Doktorarbeit von Brosius-Gersdorf\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n 25.07.2025 \n\nErfolg hat eine Uhrzeit\n----------------------------------------------------------------------------------------------------------------------------------\n\n 24.07.2025 [...] Internationales Recht KI-Gesetz der EU endgültig beschlossen\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nDie EU-Staaten haben schärfere Regeln für den Einsatz von KI verabschiedet. Seit dem 1. August ist die KI-VO geltendes Recht.\n\n 05.08.2024 \n\nÜber Forschung & Lehre",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Google veröffentlicht KI-Modell für medizinische Fragen  \n- G7-Staaten planen Maßnahmen gegen den Energieverbrauch von KI  \n- Rhein-Main-Assistent der FAZ beantwortet regionale Fragen",
+          "id": "c5341d70-0acb-4020-866b-b057dee16c56"
+        }
+      ]
+    }
+  }
+}
