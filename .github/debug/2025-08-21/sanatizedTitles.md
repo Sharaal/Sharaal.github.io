@@ -1,0 +1,3 @@
+- Microsoft AI Learning Week: Fünf Tage voller KI-Impulse
+- Googles KI-Suche verändert alles – Was Marketer jetzt wissen müssen
+- EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten
