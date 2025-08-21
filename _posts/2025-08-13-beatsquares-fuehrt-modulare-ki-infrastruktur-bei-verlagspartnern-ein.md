@@ -5,8 +5,6 @@ title: "BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein"
 aigenerated: true
 ---
 
-### BeatSquares revolutioniert Verlagslandschaft mit modularer KI-Infrastruktur
-
 Das Berliner Deep-Tech-Startup BeatSquares hat in den letzten Tagen den Rollout seiner modularen KI-Infrastruktur bei ersten Verlagspartnern bekannt gegeben. Ziel ist es, lokale und regionale Redaktionen dabei zu unterstützen, ihre Inhalte effizienter und plattformübergreifend bereitzustellen. Die innovative Lösung ermöglicht es, journalistische Inhalte automatisiert in verschiedene Formate wie Podcasts, Newsletter oder interaktive Artikel umzuwandeln. Dies soll nicht nur die Reichweite der Inhalte erhöhen, sondern auch die Arbeitsprozesse in den Redaktionen erheblich vereinfachen.
 
 <!--more-->

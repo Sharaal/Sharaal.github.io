@@ -5,8 +5,6 @@ title: "EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten"
 aigenerated: true
 ---
 
-### EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten
-
 Am 2. August 2025 traten in der Europäischen Union neue Vorschriften für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck (General Purpose AI, GPAI) in Kraft. Diese Regelungen, die Teil des EU-KI-Gesetzes (AI Act) sind, zielen darauf ab, Transparenz, Sicherheit und Rechenschaftspflicht bei der Nutzung von KI-Systemen zu gewährleisten. Anbieter solcher Modelle, darunter auch große Sprachmodelle wie ChatGPT, sind nun verpflichtet, umfassende Informationen über die Funktionsweise ihrer Systeme bereitzustellen. Dazu gehören Angaben zu den Trainingsdaten, den zugrunde liegenden Algorithmen und den potenziellen Risiken der Nutzung. 
 
 <!--more-->

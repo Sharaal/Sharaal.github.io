@@ -5,8 +5,6 @@ title: "Microsoft AI Learning Week: Fünf Tage voller KI-Impulse"
 aigenerated: true
 ---
 
-### Microsoft AI Learning Week: Fünf Tage voller KI-Impulse
-
 Die Microsoft AI Learning Week, die vom 8. bis 12. September 2025 stattfindet, bietet eine einzigartige Gelegenheit, die neuesten Entwicklungen im Bereich der künstlichen Intelligenz (KI) zu entdecken. Das kostenlose Online-Event richtet sich an Fachleute, Entwickler und KI-Enthusiasten gleichermaßen und kombiniert Grundlagenwissen, technische Deep Dives und praxisnahe Anwendungsbeispiele. Ziel ist es, den Teilnehmern zu zeigen, wie KI-Technologien effektiv in Projekten eingesetzt werden können – von der ersten Idee bis hin zu skalierbaren Lösungen.
 
 <!--more-->

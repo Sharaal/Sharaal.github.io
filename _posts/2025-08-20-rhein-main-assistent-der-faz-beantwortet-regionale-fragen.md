@@ -5,8 +5,6 @@ title: "Rhein-Main-Assistent der FAZ beantwortet regionale Fragen"
 aigenerated: true
 ---
 
-### Rhein-Main-Assistent der FAZ: Ein neuer digitaler Begleiter für die Region
-
 Die "Frankfurter Allgemeine Zeitung" (FAZ) hat ein innovatives KI-gestütztes Feature eingeführt: den Rhein-Main-Assistenten. Dieses Tool ermöglicht es Leserinnen und Lesern, gezielt Fragen zu regionalen Themen zu stellen und fundierte Antworten zu erhalten. Der Assistent greift dabei ausschließlich auf Inhalte des Rhein-Main-Ressorts der FAZ zurück, die in den letzten Monaten veröffentlicht wurden. Ob Politik, Sicherheit, Sport, Kunst oder Kultur – der Rhein-Main-Assistent bietet eine breite Palette an Informationen, die speziell auf die Region zugeschnitten sind.
 
 <!--more-->

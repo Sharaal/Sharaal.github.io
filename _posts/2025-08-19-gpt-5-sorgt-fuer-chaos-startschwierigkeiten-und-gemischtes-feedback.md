@@ -5,8 +5,6 @@ title: "GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback"
 aigenerated: true
 ---
 
-### GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback
-
 Die Einführung von GPT-5, dem neuesten KI-Modell von OpenAI, hat in den letzten Tagen für viel Aufsehen gesorgt. Während das Unternehmen mit dem Versprechen antrat, die Benutzererfahrung durch eine automatische Modellauswahl zu verbessern, stieß diese Änderung auf gemischte Reaktionen. Viele Nutzer kritisierten, dass die Möglichkeit, zwischen verschiedenen Modellen zu wählen, entfernt wurde, was zu Verwirrung und Frustration führte. Besonders die Entscheidung, ältere Modelle wie GPT-4o nur noch eingeschränkt verfügbar zu machen, sorgte für Unmut. OpenAI-CEO Sam Altman reagierte auf die Kritik und kündigte an, die Modellauswahl für Plus-Nutzer wieder einzuführen, um die Flexibilität zu erhöhen.  
 
 <!--more-->

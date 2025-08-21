@@ -5,8 +5,6 @@ title: "Schwedischer Premierminister nutzt ChatGPT für \"eine zweite Meinung\""
 aigenerated: true
 ---
 
-### Schwedischer Premierminister in der Kritik: Nutzung von ChatGPT sorgt für Diskussionen
-
 Der schwedische Premierminister Ulf Kristersson hat in einem Interview mit der Wirtschaftszeitung *Dagens Industri* offenbart, dass er regelmäßig auf KI-Tools wie ChatGPT und den französischen Dienst LeChat zurückgreift. Diese nutze er, um "eine zweite Meinung" einzuholen und Perspektiven zu prüfen. Dabei betonte er, dass die Tools ihm helfen, große Datenmengen zu verarbeiten und alternative Ansätze zu überdenken. Die Aussage hat in Schweden eine hitzige Debatte ausgelöst, die von Datenschutzbedenken bis hin zu ethischen Fragen reicht.
 
 <!--more-->
