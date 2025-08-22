@@ -1,0 +1,3 @@
+- Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt
+- KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus
+- Jony Ive wechselt zu KI-Firma: Zusammenarbeit mit OpenAI angekündigt

@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-22T18:04:45.358Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Microsoft AI Learning Week: Fünf Tage voller KI-Impulse,Googles KI-Suche verändert alles – Was Marketer jetzt wissen müssen,EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten,Rhein-Main-Assistent der FAZ beantwortet regionale Fragen,Google veröffentlicht KI-Modell für medizinische Fragen,G7-Staaten planen Maßnahmen gegen den Energieverbrauch von KI,Verbraucherschutzklagen gegen KI-Systeme wegen Datenschutzverletzungen,KI-gestützte Antibiotika gegen resistente Bakterien entwickelt,GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback,Schwedischer Premierminister nutzt ChatGPT für \"eine zweite Meinung\",Microsoft testet neuen \"Copilot-Modus\" im Edge-Browser,BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein,Runway bringt Plattform für Abenteuerspiele per Texteingabe,MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_GauIypHUanKVdsXJkn7joytq",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "0caadf02-81d3-4676-9605-421298e8528e"
+        },
+        {
+          "role": "tool",
+          "id": "bd6408f0-4b31-4364-bd22-ff80badb4997",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_GauIypHUanKVdsXJkn7joytq",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI News Daily: Mit KI über KI (100 % automatisiert) | Pickert GmbH",
+                    "url": "https://ki-news-daily.de/",
+                    "type": "website-preview",
+                    "text": "Die 4 wichtigsten KI-News der letzten 24 Stunden\n\n\n\nIn nur 5 Minuten auf dem neusten Stand\n\n\n\nTäglich ab 6 Uhr\n\nPodcast hören\n\n### KI-Video-Podcast\n\n\n\nDie 4 wichtigsten KI-News der letzten 7 Tage\n\n\n\nAvatar-Video, vollautomatisch generiert\n\n\n\nJeden Sonntag frisch auf YouTube\n\nVideos ansehen\n\n### KI-News (Newsletter)\n\n\n\nDie wichtigsten Neuigkeiten aus KI & Tech\n\n\n\nTäglich zur Mittagspause in deine Inbox\n\n\n\nAlle relevanten Links\n\nZum Newsletter anmelden [...] Runway bringt mit „Game Worlds“ eine Plattform, um Abenteuerspiele per Texteingabe zu erstellen. Kreativität ohne Programmierkenntnisse! #kinewsdaily\n\nImage 7: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h\n\nMITs SEAL revolutioniert KI-Training: Modelle generieren eigenständig Daten und übertreffen bestehende Systeme. #kinewsdaily\n\nImage 8: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h [...] MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten\n-------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nJuni 30, 2025\n\nEin neues Verfahren des MIT ermöglicht...\n\nImage 4: Meta investiert 29 Milliarden Dollar in KI-Rechenzentren",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "KI-News vom 19. August 2025 - Sichere Lösungen - Wwwschutz",
+                    "url": "https://wwwschutz.de/blog/ki-news-2025-08-19/",
+                    "type": "website-preview",
+                    "text": "###### Das könnte Sie auch interessieren:\n\nKI-News vom 13. August 2025KI-News vom 12. August 2025KI-News vom 11. August 2025KI-News vom 10. August 2025KI-News vom 09. August 2025KI-News vom 08. August 2025 [...] Abruf der News bis zum 19. August 2025, 07:20 Uhr · Quellen: International\n\nMehr Power für Ihre Webseite\n\nEin vollautomatischer Newsletter zu Ihrem Lieblingsthema ist auch für Ihren Blog möglich.\n\nInfos anfordern per Mail an ki@it-logic.de oder über unser Kontaktformular\n\nÜber die Inhalte auf dieser Seite [...] Quelle: malaymail\n\nKI-Übernahme: Übernahme von Sequel Solutions durch Infinity Digital Consulting: Ein neuer Industriestandard für Answer Engine Optimization Tools soll geschaffen werden",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "AI Act ab 2. August 2025: Neue Pflichten & Sanktionen",
+                    "url": "https://www.srd-rechtsanwaelte.de/blog/neue-pflichten-sanktionen-aus-dem-ai-act-ab-2-august-2025",
+                    "type": "website-preview",
+                    "text": "Die wichtigsten Neuregelungen auf einen Blick\n Was ändert sich für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck (GPAI)?\n Welche Sanktionen aus dem AI Act gelten ab 2. August 2025?\n Notifizierende Behörden und notifizierte Stellen – Aufbau der Struktur in Deutschland\n Was ist ab dem 2. August 2025 wichtig für Unternehmen?\n\n#### Weitere Experten zum Thema\n\nIlan Leonard Selz, LL.M. (Minnesota)\n\nPhilipp Müller-Peltzer\n\nZurück zur Newsübersicht\n\n### Weitere Neuigkeiten\n\n07.08.2025 [...] Seit Juli 2025 bietet die Bundesnetzagentur außerdem ein KI-Service-Desk an. Das Service-Desk bietet unter anderem ein Selbsteinschätzungstool, ein umfassendes Informationsangebot, eine Kontaktfunktion und Hinweise zu kostenlosen Weiterbildungsangeboten.\n\n## Was ist ab dem 2. August 2025 wichtig für Unternehmen? [...] ### Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\nWeiterlesen … Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\n23.07.2025\n\n### Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\nWeiterlesen … Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\n22.07.2025\n\n### Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen\n\nWeiterlesen … Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz: News, Ratgeber und Tipps | heise online",
+                    "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+                    "type": "website-preview",
+                    "text": "Image 21: Bildausschnitt der NotebookLM Oberfläche ### Entwicklungsumgebung: IntelliJ IDEA 2025.2 bringt Support für Java 25 Das neue Release der JetBrains-IDE bringt Vorab-Support für Java 25 und Maven 4, während die KI-Tools AI Assistant und Junie neue Funktionen erhalten. 05.08.2025 10:42 Uhr 21 heise Developer [...] Image 23: Bildausschnitt der NotebookLM Oberfläche ### KI-Agenten, Teil 3: Adaptive Designs optimieren Entwicklung und Nutzererlebnis KI-Agenten verändern die digitale Produktentwicklung: Mit individuellen Anpassungen rücken Effizienz und Nutzerfokus zusammen. 05.08.2025 09:52 Uhr heise Developer [...] Image 10: Bildausschnitt der NotebookLM Oberfläche ### Stadt Chemnitz: KI-Übersetzer beschleunigen Verfahren und sparen Kosten Die Stadt Chemnitz setzt auf einen DSGVO-konformen KI-Simultanübersetzer, um leichter Sprachbarrieren zu überwinden. Die bisherige Bilanz ist positiv. 07.08.2025 13:12 Uhr 7",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "5 Stufen der KI-Entwicklung: Wann erreicht KI Superintelligenz?",
+                    "url": "https://nexperts.ai/openai-skizziert-5-stufen-der-ki-entwicklung-auf-dem-weg-zur-superintelligenz/",
+                    "type": "website-preview",
+                    "text": "10. Juli 2025\n\nWeiterlesen\n\nGenerative KI & Marketing\n\n### Googles KI-Suche verändert alles – Was Marketer jetzt wissen müssen\n\nGoogle baut seine Suchmaschine radikal um – mit weitreichenden Folgen für SEO und digitales Marketing. Der neue KI-Modus, bekannt als Generative Search Experience (GSE), bringt personalisierte Prompt-Vorschläge und AI Snapshots direkt in den Suchprozess. Was bedeutet das für Unternehmen und Content-Strategen?\n\n26. Juni 2025\n\nWeiterlesen\n\nTechnologie & Daten [...] ### Elon Musks Grok: Wie eine generative KI zum politischen und strategischen Machtinstrument wird\n\nMit Grok, dem KI-Chatbot seines Unternehmens xAI, will Elon Musk die Plattform X (ehemals Twitter) zur All-in-One-Kommunikationszentrale umbauen. Dabei trifft Technologie auf Politik, Datenschutz auf Marketing – und eine Vision auf zahlreiche offene Fragen.\n\n17. April 2025\n\nWeiterlesen\n\nTechnologie & Daten\n\n### Wenn Daten zur Ware werden: eBay trainiert KI mit personenbezogenen Informationen [...] Der US-Konzern Meta will ab Ende Mai öffentliche Inhalte seiner Nutzer auf Facebook und Instagram für das Training Künstlicher Intelligenz verwenden – ohne deren ausdrückliche Zustimmung. Verbraucherschützer in Deutschland reagieren empört und haben rechtliche Schritte eingeleitet. Der Fall wirft zentrale Fragen zum Umgang mit persönlichen Daten in der Ära generativer KI auf – und könnte europaweite Folgen haben.\n\n8. Mai 2025\n\nWeiterlesen\n\nGenerative KI & Marketing",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten",
+                    "url": "https://www.forschung-und-lehre.de/recht/ki-anbieter-muessen-auf-transparenz-achten-7204",
+                    "type": "website-preview",
+                    "text": "Unliebsame Arbeiten auslagern und von einer Maschine übernehmen lassen: So einfach ist es nicht, wenn die KI in der Lehre helfen soll.\n\nCharlotte Pardey 05.11.2024 \n\n[]( 28: Europaflaggen vor dem Sitz der Europäischen Kommission in Brüssel [...] Beliebt\nUni Hamburg prüft Doktorarbeit von Brosius-Gersdorf\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n 25.07.2025 \n\nErfolg hat eine Uhrzeit\n----------------------------------------------------------------------------------------------------------------------------------\n\n 24.07.2025 [...] Internationales Recht KI-Gesetz der EU endgültig beschlossen\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nDie EU-Staaten haben schärfere Regeln für den Einsatz von KI verabschiedet. Seit dem 1. August ist die KI-VO geltendes Recht.\n\n 05.08.2024 \n\nÜber Forschung & Lehre",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "KI verstehen - Podcast - Deutschlandfunk",
+                    "url": "https://www.deutschlandfunk.de/ki-verstehen-102.html",
+                    "type": "website-preview",
+                    "text": "Image 50: Digital gerenderte 3D-Grafik vieler miteinander verbundener Laptops. 12.09.2024 KI für alle Open-Source-Modelle demokratisieren Künstliche Intelligenz --------------------------------------------------------------------------------- Ob als Bildgenerator, Chatbot oder Transkriptions-Tool: Offene KI-Modelle versprechen Transparenz, Datenschutz und Innovation. Auch Konzerne wie Meta machen Sprachmodelle frei zugänglich. Gehört Open-Source-KI die Zukunft – oder ist sie eine Gefahr? [...] Image 16: Eine Frau steht neben einem humanoiden Roboter mit orange farbenem Trägershirt, an welchem eine Startnummer befestigt ist. 29.05.2025 KI und Robotik reloaded Hype um humanoide Roboter ------------------------------------------------------------ Beim ersten Halbmarathon für zweibeinige Roboter strauchelten viele. Doch diverse Firmen wollen sie mit Künstlicher Intelligenz fit für den Alltag machen. Als Robo-Butler sollen sie Hemden bügeln, Tisch decken, Getränke reichen. Das dauert [...] Image 29: Vor blauem Hintergrund steht eine Person im Anzug an einer Art durchsichtigem Bildschirm mit Fenstern, Textreihen und Statusanzeigen. 27.02.2025 KI aus China Wie DeepSeek & Co. die Tech-Branche aufmischen ---------------------------------------------------------------------- Das chinesische Startup DeepSeek hat im Januar ein Börsenbeben ausgelöst. Sein KI-Sprachmodell R1 macht den US-Techgiganten Konkurrenz. Wie gut ist DeepSeek wirklich und welche anderen KI-Entwicklungen aus",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "KI | Die Geschichte der Künstlichen Intelligenz - mebis Magazin",
+                    "url": "https://mebis.bycs.de/beitrag/ki-geschichte-der-ki",
+                    "type": "website-preview",
+                    "text": "Weitere textgenerierende Systeme anderer US-amerikanischer Technologie-Giganten wie der Bing Chat der Firma Microsoft (Februar 2023) oder Bard der Firma Google (März 2023) wurden kurz darauf veröffentlicht. Seitdem liefern sich diese und andere Unternehmen einen Konkurrenzkampf um Marktanteile und die fortschrittlichsten Sprachmodelle zur Verarbeitung und Erzeugung natürlicher Sprache.\n\nBildgenerierende Systeme (Midjourney, Stable Diffusion, Dall-E und Co) [...] Im November 2022 machte das US-amerikanische Unternehmen OpenAI den Chatbot ChatGPT öffentlich zugänglich. Schon innerhalb der ersten fünf Tage ab seiner Veröffentlichung registrierten sich eine Million Nutzer weltweit. GPT steht für „Generative Pre-trained Transformer“ und bezeichnet ein Sprachmodell, das darauf abzielt, sinnvolle, kohärente Antworten auf die schriftlichen Anfragen seiner Nutzer zu erzeugen. Die Antworten werden von einem tiefen neuronalen Netzwerk generiert, das darauf",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt  \n- KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus  \n- Jony Ive wechselt zu KI-Firma: Zusammenarbeit mit OpenAI angekündigt  ",
+          "id": "8b57fe16-4cab-43d0-a72c-c10c0c3c50db"
+        }
+      ]
+    }
+  }
+}
