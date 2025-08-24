@@ -1,0 +1,3 @@
+- Nvidia von Marktschwankungen betroffen: KI-Boom und Unsicherheiten an den Börsen
+- Neue EU-KI-Regeln: Strengere Anforderungen für General Purpose AI ab August 2025
+- KI-gestützte Gehirn-Computer-Schnittstelle ermöglicht Patienten mit Sprachverlust das Sprechen
