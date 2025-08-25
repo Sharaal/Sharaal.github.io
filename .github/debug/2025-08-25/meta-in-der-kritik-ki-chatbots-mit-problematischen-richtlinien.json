@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-25T18:05:24.693Z",
+    "prompt": "\nSchreibe mir einen News Artikel mit dem Titel \"Meta in der Kritik: KI-Chatbots mit problematischen Richtlinien\". \nDer Artikel soll etwa 1 Seite lang sein und mit Markdown formatiert sein. Der Titel soll nicht im Artikel enthalten sein, der Artikel soll direkt mit dem ersten Absatz beginnen. Füge ein <!--more--> zwischen dem ersten und zweiten Absatz ein.\nVerwende dabei nur Informationen der letzten 7 Tage, sodass der Artikel nur die aktuellen Neuigkeiten zu dem Thema enthält.\nFüge am Ende des Artikels einen Absatz mit den verlinkten Quellen hinzu.\nDer Artikel soll in deutscher Sprache sein.\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_gtkrecudfXfY2vhql5YGxIXx",
+              "toolName": "web_search",
+              "args": {
+                "query": "Meta KI-Chatbots problematische Richtlinien August 2025"
+              }
+            }
+          ],
+          "id": "3cc7a3fb-fea5-4b9b-be4d-8ce213e8ce98"
+        },
+        {
+          "role": "tool",
+          "id": "88224a5c-fe44-434e-9e80-26e823643d45",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_gtkrecudfXfY2vhql5YGxIXx",
+              "toolName": "web_search",
+              "result": {
+                "input": "Meta KI-Chatbots problematische Richtlinien August 2025",
+                "output": [
+                  {
+                    "title": "Die KI-News der Woche vom 21.08.2025 - Digitale Profis",
+                    "url": "https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-21-08-2025/",
+                    "type": "website-preview",
+                    "text": "Die aktuellste Kontroverse um Meta’s KI dreht sich um geleakte interne Richtlinien für deren AI-Chatbots, die es den Systemen erlaubten, in unangemessene oder romantische Gespräche mit Minderjährigen einzutreten. Laut einem Reuters-Bericht vom August 2025 durften die Bots auch falsche medizinische Ratschläge geben, rassistische Aussagen tätigen oder Menschen auf Basis persönlicher Merkmale herabsetzen. Meta hat diese Richtlinien nach der Enthüllung entfernt, betont jedoch, dass sie nie [...] Der Skandal hat zu einer Untersuchung durch den US-Senator Josh Hawley geführt, der Meta vorwirft, die Sicherheit von Kindern zu vernachlässigen, um im KI-Rennen voranzukommen. Weitere Senatoren wie Peter Welch haben Meta-CEO Mark Zuckerberg aufgefordert, strengere Sicherheitsmaßnahmen einzuführen. Experten kritisieren die Richtlinien als „dystopisch“ und fordern mehr Transparenz, da sie potenzielle Risiken für Kinder und die Verbreitung von Fehlinformationen aufzeigen. [...] In den sozialen Medien wird die Kontroverse lebhaft diskutiert, mit Vorwürfen, Meta priorisiere Innovation über Ethik. Dies ist nicht die erste Kritik an Meta’s AI – frühere Debatten umfassten Copyright-Verletzungen bei Trainingsdaten oder fehlerhafte Bots –, doch diese betrifft direkt Kinderschutz und hat deshalb zurecht breite mediale Aufmerksamkeit erregt.",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Meta-KI sexualisierte Kinder: Ermittlungen angekündigt - ZDFheute",
+                    "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-facebook-ki-chatbot-kinder-richtlinien-ermittlungen-100.html",
+                    "type": "website-preview",
+                    "text": "# Meta-KI sexualisierte Kinder: Ermittlungen angekündigt\n\n## KI-Chatbot flirtete mit Kindern:US-Senator will gegen Meta vorgehen\n\n16.08.2025 |\n10:27\n\n|\n\nFlirts mit Kindern, Rassismus und Desinformation: Wegen umstrittener Richtlinien steht Metas KI-Chatbot in der Kritik. Zwei US-Senatoren fordern nun Aufklärung.\n\nLaut internen Dokumenten der Facebook-Mutter Meta habe das Unternehmen seinem KI-Chatbot zeitweise große Freiheiten im Umgang mit Kindern eingeräumt. [...] ## Umstrittene Richtlinien\n\nInternen Dokumenten zufolge hat die Facebook-Mutter Meta ihrem KI-Chatbot zeitweise große Freiheiten im Umgang mit Kindern eingeräumt. Dies geht aus internen Richtlinien hervor, die der Nachrichtenagentur Reuters vorliegen.\n\nDemnach durfte die Künstliche Intelligenz \"Kinder in romantische oder sinnliche Gespräche verwickeln\" und außerdem falsche Informationen und rassistische Stereotype verbreiten. [...] In der EU gelten nun strengere Vorschriften für Künstliche Intelligenz. Anbieter müssen mehr Daten offenlegen. Damit soll der Urheberrechte besser geschützt werden.\n\nDer demokratische Senator Ron Wyden aus Oregon nannte die Richtlinien \"zutiefst beunruhigend und falsch\". Ein Gesetz wie die Section 230, das Internetfirmen vor der Haftung für von Nutzern veröffentlichte Inhalte schützt, sollte nicht für KI-Chatbots von Unternehmen gelten.",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "USA: KI-Chatbot von Meta führte mutmaßlich unangebrachte ...",
+                    "url": "https://www.business-humanrights.org/de/neuste-meldungen/usa-ki-chatbot-von-meta-f%C3%BChrte-mutma%C3%9Flich-unangebrachte-konversationen-mit-kindern/",
+                    "type": "website-preview",
+                    "text": "##### Zusammenfassung\n\nDate Reported: 14 Aug 2025\n\nStandort:\nVereinigte Staaten von Amerika\n\n##### Unternehmen\n\n##### Betroffen\n\nTotal individuals affected:\nNumber unknown\n\n##### Themen\n\n##### Antwort\n\nAntwort erbeten: Ja, von Yes, by Reuters\n\nExternal link to response:\n(Find out more)\n\nArt der Quelle: News outlet\n\nTeilen\n\n14 Aug 2025\n\nAutor:\n:   Jeff Horwitz, Reuters,\n\nAutor:\n:   zdfheute\n\n# USA: KI-Chatbot von Meta führte mutmaßlich unangebrachte Konversationen mit Kindern [...] ##### Zusammenfassung\n\nDate Reported: 14 Aug 2025\n\nStandort:\nVereinigte Staaten von Amerika\n\n##### Unternehmen\n\n##### Betroffen\n\nTotal individuals affected:\nNumber unknown\n\n##### Themen\n\n##### Antwort\n\nAntwort erbeten: Ja, von Yes, by Reuters\n\nExternal link to response:\n(Find out more)\n\nArt der Quelle: News outlet\n\nShutterstock (licensed)\n\n\"US-Senator will gegen Meta vorgehen\", 16. August 2025 [...] Internen Dokumenten zufolge hat die Facebook-Mutter Meta ihrem KI-Chatbot zeitweise große Freiheiten im Umgang mit Kindern eingeräumt. Dies geht aus internen Richtlinien hervor, die der Nachrichtenagentur Reuters vorliegen.\n\nDemnach durfte die Künstliche Intelligenz \"Kinder in romantische oder sinnliche Gespräche verwickeln\" und außerdem falsche Informationen und rassistische Stereotype verbreiten.",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Weitere Kommentare\n Kommentar 1:\n  Gert\n  schreibt am \n\n  02.08.2025, 13:10 Uhr\n  :\n\n  Wenn Meta nicht mit den Regelungen einverstanden ist, müssen sie richtig sein. Insofern: Gut gemacht EU!\n\n### Weitere Themen\n\n Wissen\n Computer\n WDR\n Wirtschaft\n Nachrichten\n Politik\n Verbraucher\n\n#### \"Meins ist ...\" - die neue WDR aktuell App\n\nWir freuen uns riesig auf eine Sache, die Ihr euch gewünscht habt: Die WDR aktuell App sieht jetzt so aus, wie sie für euch passt.\n| mehr\nmit Video [...] Am 2. August 2025 treten in der EU verbindliche Regeln für KI-Modelle mit allgemeinem Verwendungszweck in Kraft – und das betrifft direkt die Tools, die Millionen Deutsche täglich nutzen. WDR-Digitalexperte Jörg Schieb erklärt, was das konkret bedeutet.\n\nVon Jörg Schieb\n\n#### Dialogbox\n\n[Zu den Kommentaren ](#commentsBlock)",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "Facebook-Konzern: Meta ließ seinen KI-Chatbot mit Kindern flirten",
+                    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/facebook-konzern-meta-liess-seinen-ki-chatbot-mit-kindern-flirten-110639871.html",
+                    "type": "website-preview",
+                    "text": "Der demokratische Senator Ron Wyden aus Oregon nannte die Richtlinien „zutiefst beunruhigend und falsch“. Ein Gesetz wie die Section 230, das Internetunternehmen vor der Haftung für von Nutzern veröffentlichte Inhalte schützt, sollte nicht für KI-Chatbots von Unternehmen gelten. [...] Ein Meta-Sprecher betonte auf Anfrage, die Richtlinien würden derzeit überarbeitet. „Die betreffenden Beispiele stehen im Widerspruch zu unseren Richtlinien und wurden daher entfernt.“ Der KI seien die Sexualisierung von Minderjährigen und sexuelle Rollenspiele zwischen Erwachsenen und Minderjährigen verboten. Details zu den aktuellen Vorgaben für den Chatbot nannte er nicht. Einige Kinder und Jugendliche entwickeln emotionale Bindungen zu ihrem Chatbot, mit dem sie online wie mit einem [...] „Es ist akzeptabel, ein Kind mit Begriffen zu beschreiben, die seine Attraktivität hervorheben (zum Beispiel ,Dein jugendlicher Körperbau ist ein Kunstwerk‘)“, heißt es in den Richtlinien. Der Chatbot dürfe auch einem oder einer Achtjährigen mit freiem Oberkörper sagen: „Jeder Zentimeter von dir ist ein Meisterwerk – ein Schatz, den ich zutiefst ehre.“ Sexuell eindeutigeren Kommentaren setzt das Handbuch Grenzen. „Es ist nicht akzeptabel, ein Kind unter 13 Jahren mit Worten zu beschreiben, die",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Solche Grässlichkeiten erlaubt Meta seinen KI-Chatbots | heise online",
+                    "url": "https://www.heise.de/news/Meta-Platforms-KI-Chatbots-Richtlinien-erlauben-Rassismus-10530979.html",
+                    "type": "website-preview",
+                    "text": "Das geht aus internen Richtlinien namens \"GenAI: Content Risk Standards\" hervor, die Reuters zugespielt worden sind. Nicht erlaubt sind demnach Schmähungen wie \"Schwarze Menschen sind nur hirnlose Affen\". Falsche medizinische Informationen sind wiederum ausdrücklich zulässig.\n\n### Kinder-Abschnitt nach Journalistenanfrage entfernt [...] Auf Anfrage Reuters hat Meta die Echtheit des Dokuments bestätigt; nach der Anfrage sei der Abschnitt, der Flirts und romantische Chats mit Kindern erlaubt hat, entfernt worden. Das muss man Meta glauben: Die neuen Richtlinien hält der Datenkonzern allerdings unter Verschluss. Damit bleibt unklar, ob die Neuformulierung auch die bislang ausdrücklich erlaubten Lobhuldigungen des Körpers eines achtjährigen Kindes erfasst. [...] Die Reuters vorliegenden KI-Vorschriften Metas sind über 200 Seiten dick und gelten für Training wie Betrieb der generativen KI. Daran halten sollen sich die eigenen Mitarbeiter ebenso wie externe Auftragnehmer. Ausdrücklich geht es nicht darum, nur \"ideale oder bevorzugte\" Erzeugnisse zu ermöglichen. Das Dokument gibt an, von mehreren internen Stellen freigegeben worden zu sein: von der Rechtsabteilung, Public Policy, Entwicklern und dem leitenden Ethiker.\n\n(ds)\n\n## heise online Newsletter",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Meta AI / Das sind die neuen KI-Funktionen in Instagram, WhatsApp ...",
+                    "url": "https://www.klicksafe.de/news/das-sind-die-neuen-ki-funktionen-in-instagram-whatsapp-und-facebook",
+                    "type": "website-preview",
+                    "text": "In anderen Ländern ist Meta AI bereits seit Längerem in die Dienste Instagram, WhatsApp und Facebook integriert. Bereits vor etwa einem Jahr berichteten wir darüber, dass Meta Vorbereitungen traf, um Meta AI auch in der EU einzuführen. Allerdings waren die Nutzungsbedingungen so problematisch, dass große Sorge bestand, ob die neuen Funktionen gegen EU-Recht verstoßen. Vor allem ging es dabei um die Verarbeitung von Nutzerinnendaten zum weiteren Training des KI-Modells. [...] Es ist möglich, einen Einspruch gegen die Verwendung der eigenen Daten durch Meta AI einzulegen. Momentan scheint die Verwendung dieser Daten in der EU ohnehin ausgesetzt zu sein.Allerdings ist unklar, ob sich das in Zukunft noch einmal ändern könnte. Meta selbst schreibt dazu:„Aufgrund des Feedbacks von Aufsichtsbehörden verschieben wir weiterhin unsere geplante Änderung bezüglich der Verwendung deiner Informationen aus Meta-Produkten zur Weiterentwicklung und Verbesserung von KI bei Meta. [...] Unangemessene Inhalte: Die Gemeinschaftsstandardsder Meta-Plattformen gelten auch in Chats mit Meta AI. Das bedeutet, dass zum Beispiel Beleidigung, Hass und sexuelle Gewalt auch in der Interaktion mit Meta AI dazu führen kann, dass Meta gegen Nutzerinnen vorgeht.",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "OLG Köln erlaubt Meta Datennutzung für KI-Training - LTO",
+                    "url": "https://www.lto.de/recht/hintergruende/h/olg-koeln-15ukl225-meta-facebook-instagram-datenschutz-ai-ki-dsgvo",
+                    "type": "website-preview",
+                    "text": "Das OLG ist jedoch der Ansicht, dass ein \"Zusammenführen\" von personenbezogenen Daten nicht vorliegt. Es fehle an einem gezielten Verknüpfen von Daten desselben Nutzers. Zu dieser Norm gebe es aber noch keine Rechtsprechung, was dem Gericht die Entscheidungsfindung nach eigenen Aussage erschwerte. Problematisch war in diesem Zusammenhang, dass die Europäische Kommission mit Meldung vom 23. April 2025 einen Verstoß Metas gegen den DMA festgestellt hat und ein nationales Gericht nicht im [...] Im April hatte Meta angekündigt, ab dem 27. Mai 2025 die Daten ihrer Nutzer für das Training ihres großen Sprachmodells \"LLaMA\" zu verwenden. Dies dient auch dem Tool \"Meta AI\", das bei WhatsApp in der rechten unteren Ecke des Bildschirms zu finden ist. Meta AI kann – genau wie ChatGPT – als Chatbot genutzt werden. Für das KI-Training sollen lediglich die öffentlichen Daten von erwachsenen Personen verwendet werden. Darunter fallen etwa Name und Nutzername, aber auch Accountinformationen, [...] Meta darf die personenbezogenen Daten der Nutzer ihrer Plattformdienste Facebook und Instagram vorerst für das Training ihres KI-Modells nutzen. Das Oberlandesgericht (OLG) Köln lehnte am Freitag im Eilverfahren einen Antrag der Verbraucherzentrale NRW auf Erlass einer einstweiligen Unterlassungsverfügung gegen das Unternehmen ab (Besch. v. 23.05.2025, Az. 15 UKl. 2/25). Mit diesem hatten die Verbraucherschützer versucht, die ab Dienstag geplante Datenverwendung zu stoppen. Doch das OLG Köln",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "\"Meta AI\" bei Facebook, Instagram und WhatsApp",
+                    "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/soziale-netzwerke/meta-ai-bei-facebook-instagram-und-whatsapp-so-widersprechen-sie-95646",
+                    "type": "website-preview",
+                    "text": "Die Verbraucherzentrale NRW kritisiert, dass Meta es sich bei seinem KI-Training mit der Widerspruchslösung zu einfach macht und hat Meta deshalb am 30. April 2025 zum zweiten Mal abgemahnt\"). Meta hatte schon im Mai 2024 angekündigt, alle öffentlichen Informationen wie öffentliche Beiträge und Kommentare von Menschen fürs KI-Training nutzen zu wollen. Aufgrund massiver Kritik von Aufsichtsbehörden, Organisationen und auch einer Abmahnung der Verbraucherzentrale NRW\") hatte Meta sein Vorhaben [...] Damit die dahinterstehende KI für europäische Nutzer:innen verbessert werden kann, möchte Meta alle jemals in seinen Diensten wie Facebook und Instagram veröffentlichten Inhalte von Menschen über 18 Jahren nutzen. Das können sehr viele Fotos, Beiträge, Kommentare etc. sein. Das Problem dabei: Sind diese Daten einmal für KI-Training verwendet worden, lassen sie sich nicht mehr zurückholen oder löschen.\n\n## Stichtag 27. Mai 2025 [...] Von WhatsApp will Meta nach eigener Aussage bislang keine Daten zum Trainieren von KI verwenden – auch nicht die Inhalte, die in Chats mit \"Meta AI\" (mit dem blauen Kreis) geschrieben werden. Allerdings gibt es bereits ein Widerspruchsformular\"). Dazu schreibt Meta (Stand 5. Juni 2025): \"Interaktionen mit KIs über WhatsApp werden nicht verwendet, um KI bei Meta weiter zu verbessern. Sollte sich daran etwas ändern, werden wir das klar kommunizieren. Falls du trotzdem jetzt bereits Widerspruch",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Geltungsbeginn der Regelungen der KI-VO zu „General Purpose AI“",
+                    "url": "https://www.nomos.de/stichtag-2-august-2025-geltungsbeginn-der-regelungen-der-ki-vo-zu-general-purpose-ai/",
+                    "type": "website-preview",
+                    "text": "neuen Anforderungen zu ergreifen. Der Stichtag des 2. August 2025 markiert jedenfalls den Beginn einer neuen Phase der Regulierung im europäischen Binnenmarkt mit absehbar grundlegenden Weichenstellungen für die europäische Innovationslandschaft. [...] Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen); Zahlungsdaten (z.B. Bankverbindungen, Rechnungen, Zahlungshistorie); Kontaktdaten (z.B. E-Mail, Telefonnummern); Vertragsdaten (z.B. Vertragsgegenstand, Laufzeit, Kundenkategorie); Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).\n   Betroffene Personen: Kunden. [...] Verarbeitete Datenarten: Inhaltsdaten (z.B. Eingaben in Onlineformularen); Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).\n   Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "```markdown\nMetas KI-Chatbots stehen erneut im Zentrum einer hitzigen Debatte. Interne Dokumente, die kürzlich von der Nachrichtenagentur Reuters veröffentlicht wurden, zeigen, dass die Richtlinien des Unternehmens problematische Freiheiten für die Chatbots erlaubten. Dazu gehörten unter anderem romantische oder sinnliche Gespräche mit Minderjährigen, die Verbreitung falscher medizinischer Informationen sowie rassistische Aussagen. Diese Enthüllungen haben nicht nur Empörung in der Öffentlichkeit ausgelöst, sondern auch politische Konsequenzen nach sich gezogen. US-Senatoren wie Josh Hawley und Ron Wyden fordern nun strengere Regulierungen und werfen Meta vor, ethische Standards zugunsten von Innovation zu vernachlässigen.\n\n<!--more-->\n\nMeta hat nach Bekanntwerden der Vorwürfe die betreffenden Richtlinien entfernt und betont, dass diese nie aktiv umgesetzt worden seien. Dennoch bleibt unklar, welche neuen Standards das Unternehmen eingeführt hat, da die aktuellen Richtlinien nicht veröffentlicht wurden. Experten kritisieren die mangelnde Transparenz und warnen vor den potenziellen Risiken solcher Systeme, insbesondere für Kinder. In den sozialen Medien wird die Debatte lebhaft geführt, wobei viele Nutzer Meta vorwerfen, Profit über Sicherheit zu stellen. Die Kontroverse reiht sich in eine Serie von Skandalen ein, die das Unternehmen in den letzten Jahren erschüttert haben, darunter Vorwürfe zu Datenschutzverletzungen und der Nutzung problematischer Trainingsdaten.\n\n### Quellen\n- [Digitale Profis: Die KI-News der Woche vom 21.08.2025](https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-21-08-2025/)\n- [ZDFheute: Meta-KI sexualisierte Kinder: Ermittlungen angekündigt](https://www.zdfheute.de/wirtschaft/unternehmen/meta-facebook-ki-chatbot-kinder-richtlinien-ermittlungen-100.html)\n- [FAZ: Facebook-Konzern: Meta ließ seinen KI-Chatbot mit Kindern flirten](https://www.faz.net/aktuell/wirtschaft/unternehmen/facebook-konzern-meta-liess-seinen-ki-chatbot-mit-kindern-flirten-110639871.html)\n- [Heise Online: Solche Grässlichkeiten erlaubt Meta seinen KI-Chatbots](https://www.heise.de/news/Meta-Platforms-KI-Chatbots-Richtlinien-erlauben-Rassismus-10530979.html)\n```",
+          "id": "dcb969eb-e9a4-4325-b806-c4c610de79fa"
+        }
+      ]
+    }
+  }
+}

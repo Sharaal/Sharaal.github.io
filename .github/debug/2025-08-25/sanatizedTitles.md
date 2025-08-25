@@ -1,0 +1,3 @@
+- Meta in der Kritik: KI-Chatbots mit problematischen Richtlinien
+- Neuralink erhält 650 Millionen Dollar für Gehirnchip-Entwicklung
+- DeepSeek revolutioniert KI: GPT-5 wird überholt

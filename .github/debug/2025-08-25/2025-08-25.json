@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-25T18:05:13.331Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Nvidia von Marktschwankungen betroffen: KI-Boom und Unsicherheiten an den Börsen,Neue EU-KI-Regeln: Strengere Anforderungen für General Purpose AI ab August 2025,KI-gestützte Gehirn-Computer-Schnittstelle ermöglicht Patienten mit Sprachverlust das Sprechen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Jony Ive wechselt zu KI-Firma: Zusammenarbeit mit OpenAI angekündigt,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,Microsoft AI Learning Week: Fünf Tage voller KI-Impulse,Googles KI-Suche verändert alles – Was Marketer jetzt wissen müssen,EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten,Rhein-Main-Assistent der FAZ beantwortet regionale Fragen,Google veröffentlicht KI-Modell für medizinische Fragen,G7-Staaten planen Maßnahmen gegen den Energieverbrauch von KI,Verbraucherschutzklagen gegen KI-Systeme wegen Datenschutzverletzungen,KI-gestützte Antibiotika gegen resistente Bakterien entwickelt,GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback,Schwedischer Premierminister nutzt ChatGPT für \"eine zweite Meinung\",Microsoft testet neuen \"Copilot-Modus\" im Edge-Browser,BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein,Runway bringt Plattform für Abenteuerspiele per Texteingabe,MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_KmP3xhT48qCKw9D33uB9JSFL",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "d28bd65d-9d27-4b21-96f5-90cb81d0f025"
+        },
+        {
+          "role": "tool",
+          "id": "7c2119f1-4b18-49bd-bb69-64a8067d88f3",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_KmP3xhT48qCKw9D33uB9JSFL",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "KI News Daily: Mit KI über KI (100 % automatisiert) | Pickert GmbH",
+                    "url": "https://ki-news-daily.de/",
+                    "type": "website-preview",
+                    "text": "Die 4 wichtigsten KI-News der letzten 24 Stunden\n\n\n\nIn nur 5 Minuten auf dem neusten Stand\n\n\n\nTäglich ab 6 Uhr\n\nPodcast hören\n\n### KI-Video-Podcast\n\n\n\nDie 4 wichtigsten KI-News der letzten 7 Tage\n\n\n\nAvatar-Video, vollautomatisch generiert\n\n\n\nJeden Sonntag frisch auf YouTube\n\nVideos ansehen\n\n### KI-News (Newsletter)\n\n\n\nDie wichtigsten Neuigkeiten aus KI & Tech\n\n\n\nTäglich zur Mittagspause in deine Inbox\n\n\n\nAlle relevanten Links\n\nZum Newsletter anmelden [...] Runway bringt mit „Game Worlds“ eine Plattform, um Abenteuerspiele per Texteingabe zu erstellen. Kreativität ohne Programmierkenntnisse! #kinewsdaily\n\nImage 7: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h\n\nMITs SEAL revolutioniert KI-Training: Modelle generieren eigenständig Daten und übertreffen bestehende Systeme. #kinewsdaily\n\nImage 8: ki_news_dailyKI News Daily@ki_news_daily·\n\n11h [...] MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten\n-------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nJuni 30, 2025\n\nEin neues Verfahren des MIT ermöglicht...\n\nImage 4: Meta investiert 29 Milliarden Dollar in KI-Rechenzentren",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Die KI-News der Woche vom 21.08.2025 - Digitale Profis",
+                    "url": "https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-21-08-2025/",
+                    "type": "website-preview",
+                    "text": "Die aktuellste Kontroverse um Meta’s KI dreht sich um geleakte interne Richtlinien für deren AI-Chatbots, die es den Systemen erlaubten, in unangemessene oder romantische Gespräche mit Minderjährigen einzutreten. Laut einem Reuters-Bericht vom August 2025 durften die Bots auch falsche medizinische Ratschläge geben, rassistische Aussagen tätigen oder Menschen auf Basis persönlicher Merkmale herabsetzen. Meta hat diese Richtlinien nach der Enthüllung entfernt, betont jedoch, dass sie nie [...] Zum Inhalt springen\n\n# Die KI-News der Woche vom 21.08.2025\n\n 6 Minuten Lesezeit\n\n KI-News, Künstliche Intelligenz\n\n#### Melde Dich für unseren Newsletter an und erhalte alle wichtigen News direkt in dein Postfach!\n\nEine Bananen-Modell mischt die Bild-KI Szene auf, Meta steht heftig in der Kritik, Claude beendet jetzt einfach Chats und DeepSeek macht GPT-5 direkt zu Schnee von gestern.\n\nAlle wichtigen News haben wir für euch wie immer kompakt zusammengefasst.\n\n## 🍌 Nano Banana [...] Der Skandal hat zu einer Untersuchung durch den US-Senator Josh Hawley geführt, der Meta vorwirft, die Sicherheit von Kindern zu vernachlässigen, um im KI-Rennen voranzukommen. Weitere Senatoren wie Peter Welch haben Meta-CEO Mark Zuckerberg aufgefordert, strengere Sicherheitsmaßnahmen einzuführen. Experten kritisieren die Richtlinien als „dystopisch“ und fordern mehr Transparenz, da sie potenzielle Risiken für Kinder und die Verbreitung von Fehlinformationen aufzeigen.",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "KI News: Aktuelle Nachrichten zur Künstlichen Intelligenz",
+                    "url": "https://www.handelsblatt.com/themen/kuenstliche-intelligenz",
+                    "type": "website-preview",
+                    "text": "Lesen Sie hier aktuelle News und neueste Nachrichten von heute zur KI.\n\nMorning Briefing\n\n### Trump könnte der wirkmächtigste Präsident aller Zeiten werden\n\nTrump respektiert weder die Architektur des Weißen Hauses, noch die Grundpfeiler der Demokratie. Beides will er umbauen und nachhaltig verändern. Es könnte ihm gelingen.### Der unheimliche Boom – droht ein Crash der KI-Aktien? [...] KI nimmt Berufseinsteigern die Aufgaben weg, Nutzer haben Sehnsucht nach OpenAIs altem Modell, und die Telekom präsentiert ihr neues KI-Smartphone. Die wichtigsten KI-News der Woche.BIP\n\n### Mehr als vier Prozent Wachstum: KI-Boom lässt Taiwans Wirtschaft florieren\n\nTaiwan verzeichnet den besten Exportmonat überhaupt und trotzt damit den US-Zöllen. Die Wirtschaft wächst und profitiert vom Boom bei Künstlicher Intelligenz.Technologie [...] Die Sorge vor einer KI-Blase lastete am Donnerstag weiter auf Tech-Aktien. Zudem sorgte US-Präsident Trump mit neuem Druck auf die US-Notenbank für schlechte Stimmung an den Märkten.### „Über Jahrzehnte bürokratischen Beton angehäuft“: Wildberger setzt Ministerkollegen unter Druck\n\nIn einem Brief setzt der ehemalige Manager den anderen Ministerien eine Frist für Vorschläge zum Bürokratieabbau. Das soll Belastungen um 16 Milliarden Euro reduzieren.Tech-Industrie",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "KI-News vom 21. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-21/",
+                    "type": "website-preview",
+                    "text": "KI-News vom 18. August 2025 [...] Der Nasdaq in den USA und der japanische Aktienmarkt, insbesondere der Nikkei-Index, sind in den letzten Tagen gesunken. Die Technologiebranche, besonders Unternehmen im Halbleiterbereich, sind stark betroffen. Nvidia, ein Hersteller von Grafikprozessoren, die in Künstlicher Intelligenz eingesetzt werden, ist besonders von den Marktschwankungen betroffen. Experten gehen davon aus, dass der Rückgang des Nikkei-Index bis Ende des Jahres anhalten könnte.\n\nQuelle: The Japan News\n\nKI-Trends 2025 [...] Quelle: LA VANGUARDIA\n\nKI-Wettlauf: Gehackte Satelliten und orbitale Raumwaffen: Im 21. Jahrhundert ist der Weltraum zum neuen Schlachtfeld geworden\n\nKünstliche Intelligenz gewinnt im Weltraum zunehmend an Bedeutung. Sie beschleunigt den Wettlauf um Ressourcen wie Helium 3 auf dem Mond und wird für die Kontrolle über diese Ressourcen sowie die Entwicklung neuer Technologien eingesetzt.",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Antworten (4)\n\n  Antworten auf Kommentar\n  + Antwort von  So ein Schwachsinn\n     , geschrieben am \n\n    02.08.2025, 15:40 Uhr\n    :\n\n    Inkompetente Nutzung ist nicht das Problem der AI.\n\n    weitere Antworten\n  + Antwort von  Paul S.\n     , geschrieben am \n\n    02.08.2025, 17:10 Uhr\n    :",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "AI Act ab 2. August 2025: Neue Pflichten & Sanktionen",
+                    "url": "https://www.srd-rechtsanwaelte.de/blog/neue-pflichten-sanktionen-aus-dem-ai-act-ab-2-august-2025",
+                    "type": "website-preview",
+                    "text": "Die wichtigsten Neuregelungen auf einen Blick\n Was ändert sich für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck (GPAI)?\n Welche Sanktionen aus dem AI Act gelten ab 2. August 2025?\n Notifizierende Behörden und notifizierte Stellen – Aufbau der Struktur in Deutschland\n Was ist ab dem 2. August 2025 wichtig für Unternehmen?\n\n#### Weitere Experten zum Thema\n\nIlan Leonard Selz, LL.M. (Minnesota)\n\nPhilipp Müller-Peltzer\n\nZurück zur Newsübersicht\n\n### Weitere Neuigkeiten\n\n07.08.2025 [...] Seit Juli 2025 bietet die Bundesnetzagentur außerdem ein KI-Service-Desk an. Das Service-Desk bietet unter anderem ein Selbsteinschätzungstool, ein umfassendes Informationsangebot, eine Kontaktfunktion und Hinweise zu kostenlosen Weiterbildungsangeboten.\n\n## Was ist ab dem 2. August 2025 wichtig für Unternehmen? [...] ### Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\nWeiterlesen … Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\n23.07.2025\n\n### Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\nWeiterlesen … Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\n22.07.2025\n\n### Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen\n\nWeiterlesen … Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "KI - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/ki",
+                    "type": "website-preview",
+                    "text": "Sportschau Logo\nMediathek Logo\nAudiothek Logo\nKiKA Logo\n\n# KI - aktuelle Nachrichten\n\n## KI\n\nElon Musk\n\n### Geldregen für Neuralink Musks Gehirnchip-Firma - Fortschritt oder Risiko?\n\nElon Musk hat sich für seine Gehirnchip-Firma Neuralink weitere 650 Millionen Dollar besorgt. Das bringt den Milliardär seinem Ziel, einer Symbiose von Mensch und KI, wieder ein Stück näher. Von Angela Göpfert.\nmehr\n\n15 Minuten. Der tagesschau-Podcast am Morgen [...] Eine Gewitterfront zieht am Abend über den Großraum Ulm hinweg.\n\n### Deutscher Wetterdienst Süddeutschland stehen schwere Unwetter bevor\n\nDie Talbrücke Rinsdorf an der Autobahn 45 im nordrhein-westfälischen Siegerland.\n\n### A45 in Nordrhein-Westfalen 70 Meter hohe Talbrücke erfolgreich verschoben\n\nCansin Köktürk\n\n### Bundestag Rauswurf wegen \"Palestine\"-Shirts\n\nSendungsbild\n\nSendung\n\n### tagesschau 20:00 Uhr, 04.06.2025 [...] Nach dem Messerangriff in Hamburg: Wie Bahnhöfe sicherer werden könnten. Instagram und Facebook wollen ihre KI mit Nutzerdaten trainieren. Wie eine neue Spritze Neurodermitis-Patienten helfen kann.\nardaudiothek\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Stauvermeidung durch KI\n\nSendungsbild",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Künstliche Intelligenz - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz",
+                    "type": "website-preview",
+                    "text": "Künstliche Intelligenz - aktuelle Nachrichten\n\nKünstliche Intelligenz\n\nNeue Wege in der Vorsorge\nHautkrebs-Check mit KI und Ferndiagnose\n\nEin neues Gerät fürs Hautkrebs-Screening soll trotz Fachärztemangel künftig mehr Untersuchungen ermöglichen, um Hautkrebs frühzeitig zu erkennen. Die Technik nutzt Künstliche Intelligenz und Ferndiagnose. Von J. Kerckhoff.\nmehr\n\nJony Ive wechselt zu KI-Firma\nWas OpenAI mit Apples früherem Chefdesigner vorhat [...] Der KI-Assistent Meta AI ist durch WhatsApp, Instagram und Facebook jetzt auch auf europäischen Handys verfügbar. Datenschützer warnen jedoch: Mit der Nutzung wird die Verschlüssung der Daten ausgehebelt. Von Jens Eberl.\nmehr\n\nWenn die KI das Drehbuch schreibt\n\nWenn die KI das Drehbuch schreibt\n                                mehr\n\nAusbau von Sonnenergie\nSolarinfarkt - wenn das Netz zusammenbricht [...] 1.500 Teilnehmer erwartet\nGipfel zu Künstlicher Intelligenz in Paris begonnen\n\nIn Paris hat der Artificial Intelligence Action Summit begonnen. Der dritte KI-Gipfel dieser Art ist hochkarätig besetzt. Für die Gastgeber steht Europas Wettbewerbsfähigkeit im Vordergrund.\n                                mehr\n\nInformationen zur Bundestagswahl\nNoch unentschlossen? Diese Online-Hilfen gibt es",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "KI-Verordnung: Neue Pflichten seit 2. August 2025 - Datenschutzticker",
+                    "url": "https://datenschutzticker.de/2025/08/ki-verordnung-neue-pflichten-seit-2-august-2025/",
+                    "type": "website-preview",
+                    "text": "Der Start der nächsten Stufe der Umsetzung der KI-Verordnung am 2. August 2025 unterstreicht die Notwendigkeit für Unternehmen, sich intensiv mit den neuen rechtlichen Rahmenbedingungen auseinanderzusetzen. Die zusätzlichen Anforderungen an GPAI-Modelle und die nun anwendbaren Sanktionsregelungen erhöhen den Druck, funktionale KI-Implementierungs- und Einsatzprozesse zu etablieren. Trotz der nationalen Verzögerungen bei der Benennung der Aufsichtsbehörden ist proaktives Handeln für Unternehmen [...] ### Neu seit dem 2. August 2025\n\nMit dem 2. August 2025 hat die nächste Umsetzungsstufe für zentrale Compliance- und Überwachungsregelungen der KI-VO begonnen. Diese betreffen unter anderem: [...] Seit dem 2. August 2025 gelten neue Regelungen der europäischen KI-Verordnung (KI-VO). Nachdem bereits seit dem 2. Februar 2025 wichtige Bestimmungen, wie das Verbot bestimmter KI-Praktiken und die Verpflichtung zur Sicherstellung von KI-Kompetenz, verbindlich sind, markiert dieser Tag  den nächsten Schritt für KI-Compliance im Unternehmen. Die KI-VO wurde geschaffen, um die Entwicklung sicherer und vertrauenswürdiger KI-Systeme zu fördern. Gleichzeitig sollen Grundrechte geschützt und",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Meta in der Kritik: KI-Chatbots mit problematischen Richtlinien\n- Neuralink erhält 650 Millionen Dollar für Gehirnchip-Entwicklung\n- DeepSeek revolutioniert KI: GPT-5 wird überholt",
+          "id": "4da953fa-df07-41d0-9d4d-29ecde245062"
+        }
+      ]
+    }
+  }
+}
