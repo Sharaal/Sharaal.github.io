@@ -1,0 +1,3 @@
+- Lidl setzt KI für Produktdesign ein: Virale Kampagne begeistert Frankreich
+- Neuer KI-Browser "Dia" startet Beta-Phase
+- KI-gestützte Brille "Halo X" revolutioniert Denkprozesse

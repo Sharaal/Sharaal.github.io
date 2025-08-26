@@ -1,0 +1,119 @@
+{
+  "request": {
+    "timestamp": "2025-08-26T18:04:45.111Z",
+    "prompt": "\nGib mir eine Übersicht über alle aktuellen Neuigkeiten zum Thema KI.\n\nBeachte dabei aber nur Neuigkeiten der letzten 7 Tage und nur die 3 wichtigsten Neuigkeiten.\n\nFormatiere die Antwort EXAKT in diesem Markdown-Format:\n- Titel 1\n- Titel 2\n- Titel 3\n\nWichtig:\n- Jede Zeile beginnt mit \"- \" (Bindestrich + Leerzeichen)\n- Ein Titel pro Zeile\n- Die Titel sollten in deutscher Sprache sein\n\nIgnoriere aber dabei folgende bereits bekannte Neuigkeiten: Common Database Design Standards,Neuralink erhält 650 Millionen Dollar für Gehirnchip-Entwicklung,Meta in der Kritik: KI-Chatbots mit problematischen Richtlinien,DeepSeek revolutioniert KI: GPT-5 wird überholt,Nvidia von Marktschwankungen betroffen: KI-Boom und Unsicherheiten an den Börsen,Neue EU-KI-Regeln: Strengere Anforderungen für General Purpose AI ab August 2025,KI-gestützte Gehirn-Computer-Schnittstelle ermöglicht Patienten mit Sprachverlust das Sprechen,KI-Gipfel in Paris: Europas Wettbewerbsfähigkeit im Fokus,Jony Ive wechselt zu KI-Firma: Zusammenarbeit mit OpenAI angekündigt,Hautkrebs-Screening mit KI: Neue Ferndiagnose-Technologie vorgestellt,Microsoft AI Learning Week: Fünf Tage voller KI-Impulse,Googles KI-Suche verändert alles – Was Marketer jetzt wissen müssen,EU-Gesetzgebung: KI-Anbieter müssen auf Transparenz achten,Rhein-Main-Assistent der FAZ beantwortet regionale Fragen,Google veröffentlicht KI-Modell für medizinische Fragen,G7-Staaten planen Maßnahmen gegen den Energieverbrauch von KI,Verbraucherschutzklagen gegen KI-Systeme wegen Datenschutzverletzungen,KI-gestützte Antibiotika gegen resistente Bakterien entwickelt,GPT-5 sorgt für Chaos: Startschwierigkeiten und gemischtes Feedback,Schwedischer Premierminister nutzt ChatGPT für \"eine zweite Meinung\",Microsoft testet neuen \"Copilot-Modus\" im Edge-Browser,BeatSquares führt modulare KI-Infrastruktur bei Verlagspartnern ein,Runway bringt Plattform für Abenteuerspiele per Texteingabe,MIT entwickelt SEAL: KI-Modelle generieren eigene Trainingsdaten,Meta plant \"persönliche Superintelligenz\" für alle und Microsoft erreicht Vier-Billionen-Dollar-Börsenwert,Fraunhofer IKS erforscht neue Lernverfahren für KI in Deutschland,Google stellt mit Genie 3 ein neues KI-Modell vor, das interaktive 3D-Welten in Echtzeit generiert,Die Zukunft der Arbeitswelt: Chancen und Herausforderungen durch KI,Daily AI News GitHub Action With Langdock API,SQL Workshop,Semicolons in JavaScript are optional?,Knex vs alternatives,Durations - Avoid numbers without the format,async behavior in JavaScript,AI first @ maxdome,One logo to rule them all,TypeScript and Performance: Monomorphic vs Polymorphic Code,Preloading assets into the cache for subsequent pages,Node.js clustering in multi CPU environments,Split configuration and code\n    ",
+    "model": "gpt-4o",
+    "temperature": 0.3
+  },
+  "response": {
+    "data": {
+      "result": [
+        {
+          "role": "assistant",
+          "content": [
+            {
+              "type": "tool-call",
+              "toolCallId": "call_Jed8pkOsHZUwhiDwWmE867gB",
+              "toolName": "web_search",
+              "args": {
+                "query": "aktuelle Neuigkeiten KI letzte 7 Tage"
+              }
+            }
+          ],
+          "id": "a206acc2-2630-4261-9c43-ea05170034d9"
+        },
+        {
+          "role": "tool",
+          "id": "cfadecdc-6aa1-437d-8e88-d2a43dbb7930",
+          "content": [
+            {
+              "type": "tool-result",
+              "toolCallId": "call_Jed8pkOsHZUwhiDwWmE867gB",
+              "toolName": "web_search",
+              "result": {
+                "input": "aktuelle Neuigkeiten KI letzte 7 Tage",
+                "output": [
+                  {
+                    "title": "Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in ...",
+                    "url": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+                    "type": "website-preview",
+                    "text": "10. Juni 2025 -Viraler Hit Lidlize\n\n### Lidl: Produkt-Design mit KI-Hilfe\n\nEine UGC-Kampagne wie aus dem Lehrbuch: Mit \"Lidlize\" begeisterte der Supermarkt offensichtlich das französische Publikum. Zwei Millionen Produkte wurden eigenen Angaben zufolge erstellt. Eines davon ging sogar in die Produktion. Dienstleister Bria hat nun eine Auswertung der Kampagne veröffentlicht.\n\n9. Juni 2025 - The Browser-Company startet Beta von \"Dia\" (\"The Verge\")\n\n### Der erste \"echte\" KI-Browser [...] Frank Puscher 4. Juli 2025 um 12:30\n\nImage 7\n\nMit solch fantasievollen Kreationen macht Google zur Zeit Werbung für Veo3 - Bild: Google / Screenshot\n\n1 / 1 [...] 18. Juni 2025 - Neues KI-Tool der \"FAZ\"\n\n### Rhein-Main-Assistent beantwortet Fragen zur Region\n\nDie \"Frankfurter Allgemeine Zeitung\" (\"FAZ\") hat ein neues auf Künstlicher Intelligenz beruhendes Feature gestartet: Der Rhein-Main-Assistent beantwortet Fragen von Lesern zur Region. Er greift dabei ausschließlich auf Beiträge zurück, die in der Zeitung erschienen sind.\n\n16. Juni 2025 -SEO-Experte Stefan Keil\n\n### \"Das apokalyptische Bild können wir nicht nachvollziehen\"",
+                    "idx": "2-0"
+                  },
+                  {
+                    "title": "Die KI-News der Woche vom 21.08.2025 - Digitale Profis",
+                    "url": "https://digitaleprofis.de/kuenstliche-intelligenz/ki-news/die-ki-news-der-woche-vom-21-08-2025/",
+                    "type": "website-preview",
+                    "text": "Die aktuellste Kontroverse um Meta’s KI dreht sich um geleakte interne Richtlinien für deren AI-Chatbots, die es den Systemen erlaubten, in unangemessene oder romantische Gespräche mit Minderjährigen einzutreten. Laut einem Reuters-Bericht vom August 2025 durften die Bots auch falsche medizinische Ratschläge geben, rassistische Aussagen tätigen oder Menschen auf Basis persönlicher Merkmale herabsetzen. Meta hat diese Richtlinien nach der Enthüllung entfernt, betont jedoch, dass sie nie [...] Zum Inhalt springen\n\n# Die KI-News der Woche vom 21.08.2025\n\n 6 Minuten Lesezeit\n\n KI-News, Künstliche Intelligenz\n\n#### Melde Dich für unseren Newsletter an und erhalte alle wichtigen News direkt in dein Postfach!\n\nEine Bananen-Modell mischt die Bild-KI Szene auf, Meta steht heftig in der Kritik, Claude beendet jetzt einfach Chats und DeepSeek macht GPT-5 direkt zu Schnee von gestern.\n\nAlle wichtigen News haben wir für euch wie immer kompakt zusammengefasst.\n\n## 🍌 Nano Banana [...] Der Skandal hat zu einer Untersuchung durch den US-Senator Josh Hawley geführt, der Meta vorwirft, die Sicherheit von Kindern zu vernachlässigen, um im KI-Rennen voranzukommen. Weitere Senatoren wie Peter Welch haben Meta-CEO Mark Zuckerberg aufgefordert, strengere Sicherheitsmaßnahmen einzuführen. Experten kritisieren die Richtlinien als „dystopisch“ und fordern mehr Transparenz, da sie potenzielle Risiken für Kinder und die Verbreitung von Fehlinformationen aufzeigen.",
+                    "idx": "2-1"
+                  },
+                  {
+                    "title": "Mehr Regeln für KI: Was sich bei ChatGPT & Co. für uns ändert - WDR",
+                    "url": "https://www1.wdr.de/nachrichten/eu-ai-act-mehr-transparanz-und-dokumentation-100.html",
+                    "type": "website-preview",
+                    "text": "weitere Antworten\n  + Antwort von  KI Keisel\n     , geschrieben am \n\n    03.08.2025, 03:21 Uhr\n    :\n\n    Weil SAP ohne Drittanbieter im täglichen Workflow kaum zu gebrauchen ist. Rückständig, altmodisch. Selbst mit Hana\n Kommentar 2:\n  Brigitta S.\n  schreibt am \n\n  02.08.2025, 13:55 Uhr\n  : [...] ChatGPT, Google Gemini, Meta AI und alle ähnlichen KI-Systeme müssen sich ab dem 2. August an die neue KI-Verordnung halten. Die wichtigste Neuerung: Anbieter sogenannter \"General Purpose AI\"-Modelle – und darunter fallen praktisch alle bekannten Chatbots – unterliegen in der EU nun verschärften Transparenzpflichten. Die Anbieter müssen künftig offenlegen, wie ihre Systeme funktionieren, mit welchen Daten sie trainiert wurden und wie sie mit Risiken umgehen. [...] Antworten (4)\n\n  Antworten auf Kommentar\n  + Antwort von  So ein Schwachsinn\n     , geschrieben am \n\n    02.08.2025, 15:40 Uhr\n    :\n\n    Inkompetente Nutzung ist nicht das Problem der AI.\n\n    weitere Antworten\n  + Antwort von  Paul S.\n     , geschrieben am \n\n    02.08.2025, 17:10 Uhr\n    :",
+                    "idx": "2-2"
+                  },
+                  {
+                    "title": "KI-News vom 21. August 2025 - Dr. DSGVO",
+                    "url": "https://dr-dsgvo.de/ki-news-2025-08-21/",
+                    "type": "website-preview",
+                    "text": "KI-News vom 18. August 2025 [...] Der Nasdaq in den USA und der japanische Aktienmarkt, insbesondere der Nikkei-Index, sind in den letzten Tagen gesunken. Die Technologiebranche, besonders Unternehmen im Halbleiterbereich, sind stark betroffen. Nvidia, ein Hersteller von Grafikprozessoren, die in Künstlicher Intelligenz eingesetzt werden, ist besonders von den Marktschwankungen betroffen. Experten gehen davon aus, dass der Rückgang des Nikkei-Index bis Ende des Jahres anhalten könnte.\n\nQuelle: The Japan News\n\nKI-Trends 2025 [...] Quelle: LA VANGUARDIA\n\nKI-Wettlauf: Gehackte Satelliten und orbitale Raumwaffen: Im 21. Jahrhundert ist der Weltraum zum neuen Schlachtfeld geworden\n\nKünstliche Intelligenz gewinnt im Weltraum zunehmend an Bedeutung. Sie beschleunigt den Wettlauf um Ressourcen wie Helium 3 auf dem Mond und wird für die Kontrolle über diese Ressourcen sowie die Entwicklung neuer Technologien eingesetzt.",
+                    "idx": "2-3"
+                  },
+                  {
+                    "title": "AI Act ab 2. August 2025: Neue Pflichten & Sanktionen",
+                    "url": "https://www.srd-rechtsanwaelte.de/blog/neue-pflichten-sanktionen-aus-dem-ai-act-ab-2-august-2025",
+                    "type": "website-preview",
+                    "text": "Die wichtigsten Neuregelungen auf einen Blick\n Was ändert sich für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck (GPAI)?\n Welche Sanktionen aus dem AI Act gelten ab 2. August 2025?\n Notifizierende Behörden und notifizierte Stellen – Aufbau der Struktur in Deutschland\n Was ist ab dem 2. August 2025 wichtig für Unternehmen?\n\n#### Weitere Experten zum Thema\n\nIlan Leonard Selz, LL.M. (Minnesota)\n\nPhilipp Müller-Peltzer\n\nZurück zur Newsübersicht\n\n### Weitere Neuigkeiten\n\n07.08.2025 [...] Seit Juli 2025 bietet die Bundesnetzagentur außerdem ein KI-Service-Desk an. Das Service-Desk bietet unter anderem ein Selbsteinschätzungstool, ein umfassendes Informationsangebot, eine Kontaktfunktion und Hinweise zu kostenlosen Weiterbildungsangeboten.\n\n## Was ist ab dem 2. August 2025 wichtig für Unternehmen? [...] ### Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\nWeiterlesen … Sind Ihre Verträge auf Cyberangriffe vorbereitet?\n\n23.07.2025\n\n### Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\nWeiterlesen … Neue Pflichten & Sanktionen aus dem AI Act ab 2. August 2025\n\n22.07.2025\n\n### Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen\n\nWeiterlesen … Dokumentationspflichten im EU AI Act: Was Anbieter und Betreiber jetzt wissen müssen",
+                    "idx": "2-4"
+                  },
+                  {
+                    "title": "KI - aktuelle Nachrichten | tagesschau.de",
+                    "url": "https://www.tagesschau.de/thema/ki",
+                    "type": "website-preview",
+                    "text": "Sportschau Logo\nMediathek Logo\nAudiothek Logo\nKiKA Logo\n\n# KI - aktuelle Nachrichten\n\n## KI\n\nElon Musk\n\n### Geldregen für Neuralink Musks Gehirnchip-Firma - Fortschritt oder Risiko?\n\nElon Musk hat sich für seine Gehirnchip-Firma Neuralink weitere 650 Millionen Dollar besorgt. Das bringt den Milliardär seinem Ziel, einer Symbiose von Mensch und KI, wieder ein Stück näher. Von Angela Göpfert.\nmehr\n\n15 Minuten. Der tagesschau-Podcast am Morgen [...] Eine Gewitterfront zieht am Abend über den Großraum Ulm hinweg.\n\n### Deutscher Wetterdienst Süddeutschland stehen schwere Unwetter bevor\n\nDie Talbrücke Rinsdorf an der Autobahn 45 im nordrhein-westfälischen Siegerland.\n\n### A45 in Nordrhein-Westfalen 70 Meter hohe Talbrücke erfolgreich verschoben\n\nCansin Köktürk\n\n### Bundestag Rauswurf wegen \"Palestine\"-Shirts\n\nSendungsbild\n\nSendung\n\n### tagesschau 20:00 Uhr, 04.06.2025 [...] Nach dem Messerangriff in Hamburg: Wie Bahnhöfe sicherer werden könnten. Instagram und Facebook wollen ihre KI mit Nutzerdaten trainieren. Wie eine neue Spritze Neurodermitis-Patienten helfen kann.\nardaudiothek\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Meta darf laut Oberlandesgericht Köln Nutzerdaten zum KI-Training nutzen\n\nSendungsbild\n\n### Stauvermeidung durch KI\n\nSendungsbild",
+                    "idx": "2-5"
+                  },
+                  {
+                    "title": "Agentische KI: Chancen und Risiken für die Cybersicherheit",
+                    "url": "https://www.it-boltwise.de/agentische-ki-chancen-und-risiken-fuer-die-cybersicherheit-2.html",
+                    "type": "website-preview",
+                    "text": "27775 Personen haben unseren RSS-Feed in den letzten 24 Stunden abgerufen und folgen den KI-News von IT Boltwise®  \n  Feed mit Feedly abonnieren!  \n Feed mit follow.it abonnieren!  \n Feed mit Inoreader abonnieren!  \n Feed mit Feedspot abonnieren!  \n Feed mit Google abonnieren! [...] ###### Letzte KI News\n\nai-youtube-video-editing-controversy\n\n###### YouTube unter Beschuss: KI-gestützte Videoveränderungen sorgen für Aufruhr\n\nai-ki-startup-automatisierung\n\n###### Delve: KI-Startup automatisiert Milliarden Arbeitsstunden\n\nai-big-tech-talent-acquisition\n\n###### Wie Big Tech die KI-Industrie durch Talentakquise verändert\n\nai-adric-ki-rechnungspruefung\n\n###### Adric sichert sich bedeutende Finanzierung für KI-gestützte Rechnungsprüfung\n\nai-industrial-robots-innovation [...] ###### Adric sichert sich bedeutende Finanzierung für KI-gestützte Rechnungsprüfung\n\nai-industrial-robots-innovation\n\n###### Xuanchuang Robotics sichert sich Millionenfinanzierung für spezialisierte KI-Roboter\n\nai-smart_glasses_ai_assistant_privacy_concerns\n\n###### Halo X: KI-unterstützte Brille revolutioniert das Denken\n\nai-bank-of-america-technology-investment\n\n###### Bank of America investiert Milliarden in KI-Entwicklung\n\nai-medical-technology-healthcare",
+                    "idx": "2-6"
+                  },
+                  {
+                    "title": "KI-Verordnung (KI-VO): Das gilt ab Februar 2025 für Unternehmen",
+                    "url": "https://2b-advice.com/de/2025/02/03/ki-verordnung-ki-vo-das-gilt-ab-februar-2025-fuer-unternehmen/",
+                    "type": "website-preview",
+                    "text": "DORA-Leitfaden zur Aufsicht über kritische Drittanbieter (CTPP)\n\n Juli 16, 2025 \n\nImage 5: Die Datenschutzaufsichtsbehörden wollen die Meldepflichten nach NIS-2 und DSGVO vereinheitlichen.\n\nNIS-2-Richtlinie: Datenschützer wollen Meldewege für IT-Sicherheitsvorfälle und Datenpannen vereinheitlichen\n\n Juli 15, 2025 \n\nImage 6: Die Adressaten des Data Act sind weit gefasst.\n\nAdressaten des EU Data Act: Wer ist betroffen und welche Pflichten gelten?\n\n Juli 11, 2025 [...] Image 7: Schwellwertanalyse in 5 Schritten durchführen\n\nWas ist eine Schwellwertanalyse nach DSGVO und wann ist sie Pflicht?\n\n Juli 9, 2025 \n\nImage 8: Mit KI und Automatisierung effizientes Risikomanagement gestalten.\n\nSo erkennen Sie Risiken frühzeitig: Integriertes Risikomanagement mit KI und Automatisierung\n\n Juli 8, 2025 \n\nImage 9: Das Verarbeitungsverzeichnis muss erstellt werden, wenn personenbezogene Daten verarbeitet werden. [...] Image 12: en_USEnglishImage 13: it_ITItalianImage 14: fr_FRFrenchImage 15: de_DEGerman\n\nImage 16: de_DE German \n\nImage 17: de_DE German \n\nImage 18: en_US English \n\nImage 19: it_IT Italian \n\nImage 20: fr_FR French \n\n\n\nAilance Solutions der 2B Advice (26. Juni 2025)\n\nVertragsgegenstand",
+                    "idx": "2-7"
+                  },
+                  {
+                    "title": "Überblick über alle nationalen Umsetzungspläne des AI-Gesetzes",
+                    "url": "https://artificialintelligenceact.eu/de/national-implementation-plans/",
+                    "type": "website-preview",
+                    "text": "| Rumänien | Teilweise Klarheit. Gemäß der rumänischen nationalen KI-Strategie vom Juli 2024 wird eine neue KI-Regulierungsbehörde eingerichtet, die die Aufgaben einer Notifizierungs- und Marktüberwachungsbehörde erfüllen soll. Die Strategie fällt in den Zuständigkeitsbereich der Behörde für die Digitalisierung Rumäniens, die auch die Behörde war, die Rumänien in der Sitzung des KI-Rates am 10.09.2024 vertrat. | Eine Liste von 9 Behörden wurde von der rumänischen Behörde für Digitalisierung [...] | Bulgarien | Unklar. In der AI-Vorstandssitzung am 10.09.2024 vertrat das Ministerium für elektronische Verwaltung Bulgarien. | 9 Behörden sind in der konsolidierten Liste der Kommission aufgeführt. |  |\n| Kroatien | Unklar. In der Sitzung des AI-Boards am 10.09.2024 vertrat das Zentrale Staatsbüro für die Entwicklung der digitalen Gesellschaft Kroatien. | Das Ministerium für Justiz, öffentliche Verwaltung und digitale Transformation hat 7 öffentliche Behörden benannt. |  | [...] | Tschechische Republik | Unklar. In der Sitzung des AI-Boards am 10.09.2024 vertrat das Ministerium für Industrie und Handel die Tschechische Republik. | Eine Liste von 2 Behörden wurde von der Digitalen Tschechischen Republik veröffentlicht. | Das Ministerium für Industrie und Handel war auch mit der Verabschiedung einer überarbeiteten nationalen KI-Strategie im Juli 2024 beauftragt. |",
+                    "idx": "2-8"
+                  },
+                  {
+                    "title": "Neue EU-Verordnung soll KI-Tools für Nutzer besser ... - MDR",
+                    "url": "https://www.mdr.de/ratgeber/neu-ab/ki-kuenstliche-intelligenz-unternehmen-100.html",
+                    "type": "website-preview",
+                    "text": "Zur optimalen Darstellung unserer Webseite benötigen Sie Javascript. Bitte aktivieren sie dies in Ihrem Browser.\n\n## Leben\n\n## Neuer Bereich\n\nStempel mit Aufschrift KI-Verordnung.\nStempel mit Aufschrift KI-Verordnung.\n\n# EU-Verordnung KI-Tools mit neuen Auflagen für mehr Transparenz für Nutzer\n\n## Hauptinhalt\n\n02. August 2025, \n10:01 Uhr [...] ### Informationen woher die KI ihr Wissen hat\n\nDie europäische KI-Verordnung 2024/1689)\") (oft auch \"AI Act\" genannt, abgeleitet vom englischen Namen \"Artificial Intelligence Act\") soll die Verwendung von KI in der EU regeln. Sie war im August 2024 in Kraft getreten. Ihr Inhalt muss schrittweise umgesetzt werden. Ab 2. August 2025 gelten weitere Regelungen, unter anderem zur besseren Nachvollziehbarkeit von KI-Modellen. [...] Laut Bundesministerium für Digitales und Staatsmodernisierung (BMDS) befindet sich der Entwurf für das Gesetz derzeit in der Abstimmung innerhalb der Bundesregierung. Anschließend müssen sich die Länder noch damit befassen und es folgt eine öffentliche Beteiligung. Man wolle die Umsetzung der KI-Verordnung zügig vorantreiben und zeitnah nach Abschluss der öffentlichen Beteiligung damit ins Kabinett. \"Mit Blick auf die Bundestagswahlen, den Regierungswechsel und die erforderliche Neuabstimmung",
+                    "idx": "2-9"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "role": "assistant",
+          "content": "- Lidl setzt KI für Produktdesign ein: Virale Kampagne begeistert Frankreich  \n- Neuer KI-Browser \"Dia\" startet Beta-Phase  \n- KI-gestützte Brille \"Halo X\" revolutioniert Denkprozesse  ",
+          "id": "3924d45c-48ca-4781-bd6d-09bf4f9e1fc8"
+        }
+      ]
+    }
+  }
+}
