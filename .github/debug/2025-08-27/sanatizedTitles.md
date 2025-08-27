@@ -1,0 +1,3 @@
+- KI-gestützte Satellitenüberwachung revolutioniert Weltraumforschung
+- Neue KI-Modelle ermöglichen präzisere medizinische Diagnosen
+- KI-Entwicklung beschleunigt den Wettlauf um Mondressourcen
