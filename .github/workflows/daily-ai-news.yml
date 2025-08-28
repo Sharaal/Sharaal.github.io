@@ -1,9 +1,6 @@
 name: "Daily AI News"
 
 on:
-  schedule:
-    # Run daily at 18:00 UTC
-    - cron: '0 18 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
