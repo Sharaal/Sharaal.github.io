@@ -1,0 +1,62 @@
+# This workflow generates Text-to-Speech (TTS) audio files for articles listed
+# in .github/config/tts-schedule.txt using the ElevenLabs API.
+#
+# How to use:
+# 1. Add the full filepaths of your articles (e.g., _posts/my-article.md or _drafts/my-draft.md)
+#    to .github/config/tts-schedule.txt, one path per line.
+# 2. Ensure the following secrets are set in your GitHub repository settings:
+#    - ELEVENLABS_API_KEY: Your API key for ElevenLabs.
+#    - ELEVENLABS_VOICE_ID: The ID of the voice to be used for TTS generation.
+# 3. Manually trigger this workflow from the Actions tab.
+#
+# The workflow will process one article at a time from the schedule, generate the TTS,
+# save it to assets/tts/, update the article's frontmatter with a 'tts' field,
+# and remove the article from the schedule.
+
+name: Generate TTS Audio
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-tts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run TTS script
+        run: node .github/scripts/generate-tts.js
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }} # Added voice ID as it's also needed by the script
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Stage changes
+          # Assuming articles are in _posts/ or _drafts/
+          # Audio files are in assets/tts/
+          git add assets/tts/
+          git add _posts/
+          git add _drafts/
+          git add .github/config/tts-schedule.txt
+
+          # Check for changes before committing
+          if ! git diff --staged --quiet; then
+            git commit -m "Generate TTS for next scheduled article"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+        working-directory: ${{ github.workspace }} # Ensure git commands run in the repo root
