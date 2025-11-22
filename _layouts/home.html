@@ -23,15 +23,6 @@ layout: default
           </a>
         </h3>
         {% if site.show_excerpts %}
-          {% if post.aigenerated %}
-          <p><em>
-            {% if post.language == "de" %}
-              Dieser Artikel ist vollständig durch KI generiert.
-            {% else %}
-              This article is completely AI generated.
-            {% endif %}
-          </em></p>
-          {% endif %}
           {% if post.assets and post.assets.tts %}
             <audio src="{{ post.assets.tts | relative_url }}" controls></audio>
           {% endif %}
