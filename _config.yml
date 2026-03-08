@@ -3,6 +3,11 @@ description: Yet another Blog by and for AI Enthusiasts and Developers
 author: Sharaal
 email: blog@sharaal.de
 github_username: Sharaal
+social_links:
+  - name: Linkedin
+    url: https://www.linkedin.com/in/christoph-herrmann-bb76b63b2/
+  - name: Buy me a coffee
+    url: https://buymeacoffee.com/sharaal
 theme: minima
 show_excerpts: true
 excerpt_separator: <!--more-->
