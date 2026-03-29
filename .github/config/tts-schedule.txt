@@ -1,0 +1,2 @@
+_drafts/test-article-1.md
+_posts/2024-01-01-test-article-2.md
