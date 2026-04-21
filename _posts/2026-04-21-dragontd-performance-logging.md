@@ -5,7 +5,7 @@ title: "DragonTD: Performance Logging"
 
 Um herauszufinden, ob es in DragonTD aktuell Performance-Probleme gibt, habe ich dafür das Logging erweitert. Es werden die wichtigsten Performance-Metriken während eines Spieldurchlaufs zusammen mit den bereits vorhandenen Playthrough-Daten geloggt.
 
-<!--more -->
+<!--more-->
 
 Link zum Spiel: [DragonTD (https://dragontd.de)](https://dragontd.de)
 
